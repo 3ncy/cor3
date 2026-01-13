@@ -1,0 +1,1 @@
+The password for the folder is your username as it is displayed in the upper right corner of the screen, without the leading `@`. For example `FREEL_012AB3C4-D5E6`.
