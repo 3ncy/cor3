@@ -24,6 +24,12 @@ ARG related to the launch of cor3.gg
 ### loops 1
 * [B@-@%@%^^](./B@-@%25@%25^^.jpg) - damaged_document
 
+### loops 3
+* [Blueprint &!17$%](./BluePrints/Blueprint%20&!17$%25.jpg) - a5e4494bef89358219af9ce812ce8e93
+* [Blueprint 771*&](./BluePrints/Blueprint%20771_&.jpg)  - 0b6d65fbb495beb6c0ddee8cb4f471f7
+* [Blueprint @*^#5^$](./BluePrints/Blueprint%20@_^#5^$.jpg) - 86f1df3794ccc0e1515df83ec6fd5ad5
+* [Blueprint M-&^$#%](./BluePrints/Blueprint%20M-&^$#%25.jpg) - 5878b60bacaec23567b9ba6cef59ab6c
+* [Blueprint @#^*$](./BluePrints/Blueprint%20@#^_$.jpg) - ???
 
 </details>
 
