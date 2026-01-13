@@ -1,32 +1,32 @@
 [ARC:SYSNOTE_442-B]
-if the uplink keeps desyncing every 14-16 $!@^&amp;@ again, 
+if the uplink keeps desyncing every 14-16 $!@^&@ again, 
 we need to request a manual override from ?*№*
 
 
 [ARC:FAULTLOG_77-A]
-warn: %*?%!*&amp;$
+warn: %*?%!*&$
 uplink reference packet missing identifiers:
 (M7 ...?), (TS7B?), sector code unreadable.
 
 [internal_msg/ops_channel]
 "stop sending me those manifests, they belong to the old route.  
-all @&amp;$%^# now routed through *&amp;#**&amp;#@!.  
-if &amp;*#@!!&amp;% wants another audit, they can walk here."
+all @&$%^# now routed through *&#**&#@!.  
+if &*#@!!&% wants another audit, they can walk here."
 
 [spec.note/legacy/usol]
 old authentication procedure (deprecated):  
 the $%@!^$ is broken — DO NOT USE.  
-if partial &amp;%#$!@ recovered, insert them here:
+if partial &%#$!@ recovered, insert them here:
 
-TOKEN: HNK0uRbJSZ3F
+TOKEN: 
 
 [mail_thread/arc_crew]
-1: “is anyone going to fix the *"%&amp;#!$#^#?”  
-2: “no, #$%!*&amp;%# says it's 'non-critical' again.”  
+1: “is anyone going to fix the *"%&#!$#^#?”  
+2: “no, #$%!*&%# says it's 'non-critical' again.”  
 
 [ops.summary/B3]
 material samples still contaminated with ferric particulates.  
-environment tag marked *&amp;%!$@# region (not confirmed).  
+environment tag marked *&%!$@# region (not confirmed).  
 trace signatures consistent with outer-settlement dust.
 
 [data.fragment/???]
