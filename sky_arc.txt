@@ -1,0 +1,34 @@
+[ARC:SYSNOTE_442-B]
+if the uplink keeps desyncing every 14-16 $!@^&amp;@ again, 
+we need to request a manual override from ?*№*
+
+
+[ARC:FAULTLOG_77-A]
+warn: %*?%!*&amp;$
+uplink reference packet missing identifiers:
+(M7 ...?), (TS7B?), sector code unreadable.
+
+[internal_msg/ops_channel]
+"stop sending me those manifests, they belong to the old route.  
+all @&amp;$%^# now routed through *&amp;#**&amp;#@!.  
+if &amp;*#@!!&amp;% wants another audit, they can walk here."
+
+[spec.note/legacy/usol]
+old authentication procedure (deprecated):  
+the $%@!^$ is broken — DO NOT USE.  
+if partial &amp;%#$!@ recovered, insert them here:
+
+TOKEN: HNK0uRbJSZ3F
+
+[mail_thread/arc_crew]
+1: “is anyone going to fix the *"%&amp;#!$#^#?”  
+2: “no, #$%!*&amp;%# says it's 'non-critical' again.”  
+
+[ops.summary/B3]
+material samples still contaminated with ferric particulates.  
+environment tag marked *&amp;%!$@# region (not confirmed).  
+trace signatures consistent with outer-settlement dust.
+
+[data.fragment/???]
+"...if the *$#!#@ stalls again, reroute through M^#@-02.  
+yes, i know that one is unstable, but it's still online."
