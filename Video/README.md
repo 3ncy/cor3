@@ -1,0 +1,1 @@
+This folder can be accessed by typing `chmod 555 Video` into the Terminal application after reaching 0.5 reputation.

@@ -13,7 +13,8 @@ ARG related to the launch of cor3.gg
 * [The Vault.pdf](./Documents/The%20Vault.pdf.jpg) - 83132eb463a14f37336e53f76221c906
 * [The Interrogation.pdf](./Documents/The%20Interrogation.pdf.png) - e786925e20c3ed06d4596d706cd267d3
 * [Magnetism.pdf](./Documents/Magnetism.pdf.png) - 99e79b18727524d608ecdbf60cd0bb64
-* [L.png](./Browser/L.png.jpg) - ![BHd1X9Yf](https://os.cor3.gg/assets/L.png.BHd1X9Yf.jpg)
+* [L.png](./Browser/L.png.jpg) - [BHd1X9Yf](https://os.cor3.gg/assets/L.png.BHd1X9Yf.jpg)
+* [CCS newsreel footage](./Video/CCS%20newsreel%20footage.mp4) - cosmo
 
 </details>
 
