@@ -1,0 +1,1 @@
+[plant_stream](./plant_stream.md) is accessed on the port 8020: https://astrocorp.corie:8020/plant_stream.
