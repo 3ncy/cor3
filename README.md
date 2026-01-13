@@ -9,6 +9,7 @@ ARG related to the launch of cor3.gg
 * [L.png](./Browser/L.png.jpg) - [BHd1X9Yf](https://os.cor3.gg/assets/L.png.BHd1X9Yf.jpg)
 * [*@TOL.png](./Browser/@TOL.png.jpg) - [BHd1X9Yf](https://os.cor3.gg/assets/L.png.BHd1X9Yf.jpg)
 * [Cargo.png](./Browser/viibot.corie/Cargo.png.jpg) [BKaNviG_](https://os.cor3.gg/assets/Cargo.png.BKaNviG_.jpg)
+* [Biofarms](./Browser/biofuse.corie/Biofarms.jpg) [B0JfPtEO](https://os.cor3.gg/assets/Biofarms.B0JfPtEO.jpg)
 
 ### loops 0
 * [contract.pdf](./contract.pdf.jpg) - 1f71aa59f3a7d8d3d387fbefbdf19a04
