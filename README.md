@@ -29,11 +29,11 @@ Path related to the damaged document and Simon Webb
 
 ### loops 2
 Path related to the Nutcracker website
-[IWS Use case](./Browser/archive.corie/IWS%20Use%20case.jpg) - iwt_use_case
-[Weird case.jpg](./broken%20website/Weird%20case.jpg) - weird_case
-[Prion neutralization](./broken%20website/Prion%20neutralization.jpg) - prion_neutralization
-[Zulu 12 sector status update.jpg](./broken%20website/Zulu%2012%20sector%20status%20update.jpg) - zulu_12_sector_status_update
-[Sandman and Sons business appraisal.pdf](./broken%20website/Sandman%20and%20Sons%20business%20appraisal.pdf.jpg) - sandman_and_sons_business_appraisal
+* [IWS Use case](./Browser/archive.corie/IWS%20Use%20case.jpg) - iwt_use_case
+* [Weird case.jpg](./broken%20website/Weird%20case.jpg) - weird_case
+* [Prion neutralization](./broken%20website/Prion%20neutralization.jpg) - prion_neutralization
+* [Zulu 12 sector status update.jpg](./broken%20website/Zulu%2012%20sector%20status%20update.jpg) - zulu_12_sector_status_update
+* [Sandman and Sons business appraisal.pdf](./broken%20website/Sandman%20and%20Sons%20business%20appraisal.pdf.jpg) - sandman_and_sons_business_appraisal
 
 ### loops 3
 * [Blueprint &!17$%](./BluePrints/Blueprint%20&!17$%25.jpg) - a5e4494bef89358219af9ce812ce8e93
@@ -49,6 +49,7 @@ Path related to the Nutcracker website
 * [Reports 1.pdf](./Artemis/Reports%201.pdf.jpg) - 7a11fcf2442e1a75f29f4bb13822282a
 * [Reports 2.pdf](./Artemis/Reports%202.pdf.png) - d228fbbfe4a7ba408e90a04a643f9f92
 * [Project Artemis.pdf](./Artemis/Project%20Artemis.pdf.jpg) - 11f11a379d28540fda414b2e18d35ecc
+* [Complex status.pdf](./Artemis/Complex%20status.pdf.jpg) - d8b38b3a00838adbb0c130501687ed1c
 
 ### loops -1
 * [SBS4](./Browser/archive.corie/SBS4.png) - 3fb198c10b6d4963e85b4dbd82b71f1b
