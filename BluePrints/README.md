@@ -26,9 +26,12 @@ File [Blueprint &!17$%](./Blueprint%20&!17$%25.jpg)
   > Le-K11 "Leprikon" is a ship-mounted small scale railgun, intended for medium and small scale spacecraft and militarized shuttlecraft.<br>
   > The railgun is intended to be positioned as a turret on the ship outer hull.
 
-
 File [Blueprint @#^_$](./Blueprint%20@#^_$.jpg) is actually named `Blueprint @#^*$`
-* Locked blueprint file. No password known as of 1/13/26
+* Locked blueprint file. The password is one from [passwords.txt](/passwords.txt.md).
+* Blueprint codename: 771-B
+* Restored image: [Blueprint 771-B](./Blueprint%20771-B.png)
+* Description:
+  > Special ammunition that has EM damping qualities. Use with caution, highly volatile material. Manufactured using Tungsten and -redacted- inclusions. -redacted- emitters treated.
 
 Using the command `FILE Blueprint ` and the restored codename of each blueprint in the Database in messenger returns a full version of the image.
 
