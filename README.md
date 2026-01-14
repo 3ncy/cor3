@@ -41,6 +41,10 @@ Path related to the Nutcracker website
 * [Blueprint @*^#5^$](./BluePrints/Blueprint%20@_^#5^$.jpg) - 86f1df3794ccc0e1515df83ec6fd5ad5
 * [Blueprint M-&^$#%](./BluePrints/Blueprint%20M-&^$#%25.jpg) - 5878b60bacaec23567b9ba6cef59ab6c
 * [Blueprint @#^*$](./BluePrints/Blueprint%20@#^_$.jpg) - ???
+* [Blueprint S-1745](./BluePrints/Blueprint%20S-1745.png) - 20a4e6d0c5fd68970422d4e00566424f
+* [Blueprint 771-A](./BluePrints/Blueprint%20771-A.png) - f068842ae24c0625840635860b501a9f
+* [Blueprint M-VI571](./BluePrints/Blueprint%20M-VI571.png) - 10f7dff55ab32a3e1341e66d5f6e6277
+* [Blueprint M-1509i](./BluePrints/Blueprint%20M-1509i.png) - ed7bf123adad52d56fee1c1262793eae
 
 </details>
 
