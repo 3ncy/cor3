@@ -55,6 +55,14 @@ Path related to the Nutcracker website
 * [SBS4](./Browser/archive.corie/SBS4.png) - 3fb198c10b6d4963e85b4dbd82b71f1b
 * [Project 'Demeter'](./Browser/archive.corie/Project%20'Demeter'.jpg) - 0de3e86ba0c29b423cb465e3f1c5d9f8
 
+### loops 4
+* [XM5_A.png](./Reports/XM5_A.png.jpg) - the_day_of_doom
+* [Operation "Tripe".png](./Reports/Operation%20_Tripe_.png) - operation_tripe
+* [L041.png](./Reports/L041.png) - usol_aar_report
+* [Report, Z.5815.pdf](./Reports/Report,%20Z.5815.pdf.jpg) - report_z
+* [Report_E.pdf](./Reports/Report_E.pdf.png) - report_e
+
+
 </details>
 
 The [Browser](./Browser/) folder is not an actual folder on the desktop, just houses things related to the browser application found on the app tray.

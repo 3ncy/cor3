@@ -1,0 +1,36 @@
+Report GE-18
+
+<br>
+<br>
+
+Seismic activity at the -redacted- area. Sept. 15, 2190
+
+Automated seismic scanner recording.
+
+7 PM, Activity detected, recording started.
+
+Pulse. 2 seconds, MMS 2
+
+Pulse, 3 seconds, MMS 3
+
+Pulse, 10 seconds, MMS 5 - WARNING
+
+Pulse, 2 seconds, MMS 2
+
+Pulse, 15 seconds, MMS 6 - WARNING
+
+Pulse, MMS 3 seconds, MMS 2
+
+Pulse, 10 seconds, MMS 5 - WARNING
+
+Pulse, 3 seconds, MMS 9 - DAMAGE DETECTED
+
+Pulse, 2 seconds, MMS 2
+
+Pulse, 1 second, MMS 10 - CRITICAL LEVEL REACHED
+
+Pulse, 2 seconds, MMS 2
+
+Pulse, 1 second, MMS 1
+
+07.01 PM, activity stopped, recording stopped.
