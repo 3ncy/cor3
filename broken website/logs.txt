@@ -1,0 +1,100 @@
+ADVISORY: Repeated brute-force on /login from Source ID 117300 (interval 6m) Recommended mitigation: escalate WAF rule set / consider block_id 117300
+
+INFO: Random connect attempt from 198.51.100.23 → TLS handshake aborted
+
+INFO: Failover triggered → read-only mode enabled; health=degraded
+
+Note: Source ID 440022 exhibits mirror-handshake pattern; verify internal routing before blocking
+
+INFO: Failover engaged → read-only mode (db replica) ; reason: origin timeout Note: read-only serves until restore
+
+ERROR: HTTP service unavailable (503); uptime probe failed
+
+WARNING: Traffic spike 480% vs baseline; queue length=842
+
+ERROR: HTTP service unavailable (503); uptime probe failed
+
+[2051-09-15 14:52:38] ERROR: DB connection pool exhausted; waiting clients queued=128 Last client Source ID: 440022
+
+WARNING: Rate limit applied to 203.0.113.44 (429) — 312 req/min
+
+ERROR: HTTP service unavailable (503) — health probe failed Source IP: 198.51.100.23 Note: Upstream origin not responding
+
+ERROR: Unauthorized access attempt detected; Source ID: 882011; path=/admin/credentials Action: WAF block applied → rule=Auth-bypass-03
+
+WARNING: Traffic spike 612% vs baseline; active connections=2145 Suspect Source IDs observed: 347027, 882011, 117300
+
+ACTION: WAF block applied → Source ID: 347027; rule=SQLi-sig-07
+
+ERROR: Unauthorized access attempt detected; Source ID: 347027; path=/admin/export
+
+WARNING: Cache miss storm — origin saturated; TTFB=10.8s; pending requests=632 Top offenders: Source IDs [347027, 440022, 117300]
+
+ERROR: DB connection pool exhausted; retry in 5s
+
+ACTION: WAF block applied → Source ID: 347027; rule=SQLi-sig-07
+
+ERROR: Unauthorized access attempt detected; Source ID: 347027; path=/admin/export
+
+WARNING: Rate limit applied to 198.51.100.23 (429) — 520 req/min Action: temporary throttle
+
+INFO: Failover engaged → read-only mode (db replica) ; reason: origin timeout Note: read-only serves until restore
+
+INFO: Random connect attempt from 198.51.100.23 → TLS handshake aborted
+
+WARNING: Rate limit applied to 198.51.100.23 (429) — 520 req/min Action: temporary throttle
+
+ADVISORY: Repeated brute-force on /login from Source ID 347027 (5m interval)
+
+ACTION: WAF block applied → Source ID: 347027; rule=SQLi-sig-07
+
+INFO: Random connect attempt from 203.0.113.44 → TLS handshake aborted (client reset)
+
+ADVISORY: Repeated brute-force on /login from Source ID 347027 (5m interval)
+
+INFO: Failover triggered → read-only mode enabled; health=degraded
+
+CRITICAL: Cache miss storm; origin saturated; TTFB > 12.4s
+
+WARNING: Rate limit applied to 203.0.113.44 (429) — 312 req/min
+
+ERROR: DB connection pool exhausted; retry in 5s
+
+ADVISORY: Repeated brute-force on /login from Source ID 117300 (interval 6m) Recommended mitigation: escalate WAF rule set / consider block_id 117300
+
+WARNING: Cache miss storm — origin saturated; TTFB=10.8s; pending requests=632 Top offenders: Source IDs [347027, 440022, 117300]
+
+WARNING: Traffic spike 480% vs baseline; queue length=842
+
+ERROR: Unauthorized access attempt detected; Source ID: 882011; path=/admin/credentials Action: WAF block applied → rule=Auth-bypass-03
+
+CRITICAL: Cache miss storm; origin saturated; TTFB > 12.4s
+
+ADVISORY: Repeated brute-force on /login from Source ID 347027 (5m interval)
+
+Note: Source ID 440022 exhibits mirror-handshake pattern; verify internal routing before blocking
+
+INFO: Failover engaged → read-only mode (db replica) ; reason: origin timeout Note: read-only serves until restore
+
+WARNING: Traffic spike 480% vs baseline; queue length=842
+
+ERROR: Unauthorized access attempt detected; Source ID: 347027; path=/admin/export
+
+INFO: Failover triggered → read-only mode enabled; health=degraded
+
+INFO: Random connect attempt from 203.0.113.44 → TLS handshake aborted (client reset)
+
+WARNING: Traffic spike 612% vs baseline; active connections=2145 Suspect Source IDs observed: 347027, 882011, 117300
+
+[2051-09-15 14:52:38] ERROR: DB connection pool exhausted; waiting clients queued=128 Last client Source ID: 440022
+
+ERROR: HTTP service unavailable (503) — health probe failed Source IP: 198.51.100.23 Note: Upstream origin not responding
+
+ERROR: Unauthorized access attempt detected; Source ID: 882011; path=/admin/credentials Action: WAF block applied → rule=Auth-bypass-03
+
+ERROR: Unauthorized access attempt detected; Source ID: 347027; path=/admin/export
+
+WARNING: Cache miss storm — origin saturated; TTFB=10.8s; pending requests=632 Top offenders: Source IDs [347027, 440022, 117300]
+
+ACTION: WAF block applied → Source ID: 347027; rule=SQLi-sig-07
+
