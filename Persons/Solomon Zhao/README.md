@@ -10,3 +10,6 @@
 | Rank | Colonel |
 | User ID | {{019a0c23-7c95-7581-bba1-ae094f25f653}} |
 | Account Status | Active |
+
+## Note
+Soyuz representative for the Perpetual council

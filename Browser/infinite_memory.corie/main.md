@@ -18,7 +18,6 @@ ARC ID 11.3 PUBLIC
 <p>We, in the Core Colonial Structure must be ready to lead humanity forward, to the stars and new planets. Our task is to be the first ones everywhere. To lead the way for the upcoming wave. You all understand the risks, and you all have taken vows to guide humanity to their survival.</p>
 <p>Only you know all the truth, and it should stay that way forever. Be brave, as the light of knowledge will always guide us."</p>
 
-
 ---
 
 ## 2100
@@ -117,9 +116,9 @@ ARC ID 8816.5 PUBLIC
 <p><strong>Classification:</strong> Archival transcript</p><br>
 <p><strong>Representatives present:</strong></p>
 
-* Sir William Consworth, USOL
-* Colonel Solomon Zhao, SOYUZ
-* Arbiter Demeter Muggabee, Terra Mater.
+* [Sir William Consworth](/Persons/Sir%20William%20Consworth/), USOL
+* [Colonel Solomon Zhao](/Persons/Solomon%20Zhao/), SOYUZ
+* [Arbiter Demeter Muggabee](/Persons/Demeter%20Muggabee/), Terra Mater.
 
 <p><strong>Presiding:</strong> Ring 7, Mister J. S. Comtor, CADL.</p><br>
 <p><strong>Mr Comtor:</strong> Gentleman, we have adjourned here today to discuss events that have occurred on the "Horizon" drilling platform, located in the asteroid belt. I know there has been some miscommunication between council members in regards to that station, but from our perspective it was built by a private company not affiliated with any political power. I would love to hear your thoughts on the matter.</p>
