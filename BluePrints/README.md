@@ -4,7 +4,7 @@ File [Blueprint 771_&](./Blueprint%20771_&.jpg) is actually named `Blueprint 771
 * Blueprint codename: 771-A
 
 File [Blueprint @_^#5^$](./Blueprint%20@_^#5^$.jpg) is actually named `Blueprint @*^#5^$`
-* Blueprint codename: M-VI571  
+* Blueprint codename: M-V1571  
 
 File [Blueprint M-&^$#%](./Blueprint%20M-&^$#%25.jpg)
 * Blueprint codename: M-1509i 
