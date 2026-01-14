@@ -12,6 +12,7 @@ ARG related to the launch of cor3.gg
 * [Biofarms](./Browser/biofuse.corie/Biofarms.jpg) [B0JfPtEO](https://os.cor3.gg/assets/Biofarms.B0JfPtEO.jpg)
 
 ### loops 0
+Tutorial
 * [contract.pdf](./contract.pdf.jpg) - 1f71aa59f3a7d8d3d387fbefbdf19a04
 * [fromafriend](./fromafriend.jpg) - fromafriend
 * [Biofarm revision (Meeting).pdf](./Documents/Biofarm%20revision%20(Meeting).pdf.png) - 2ff872b2212e7f9e1e9d5464394449ed
@@ -23,7 +24,16 @@ ARG related to the launch of cor3.gg
 * [CCS newsreel footage](./Video/CCS%20newsreel%20footage.mp4) - cosmo
 
 ### loops 1
+Path related to the damaged document and Simon Webb
 * [B@-@%@%^^](./B@-@%25@%25^^.jpg) - damaged_document
+
+### loops 2
+Path related to the Nutcracker website
+[IWS Use case](./Browser/archive.corie/IWS%20Use%20case.jpg) - iwt_use_case
+[Weird case.jpg](./Browser/archive.corie/Weird%20case.jpg) - weird_case
+[Prion neutralization](./Browser/archive.corie/Prion%20neutralization.jpg) - prion_neutralization
+[Zulu 12 sector status update.jpg](./Browser/archive.corie/Zulu%2012%20sector%20status%20update.jpg) - zulu_12_sector_status_update
+[Sandman and Sons business appraisal.pdf](./Browser/archive.corie/Sandman%20and%20Sons%20business%20appraisal.pdf) - sandman_and_sons_business_appraisal
 
 ### loops 3
 * [Blueprint &!17$%](./BluePrints/Blueprint%20&!17$%25.jpg) - a5e4494bef89358219af9ce812ce8e93
