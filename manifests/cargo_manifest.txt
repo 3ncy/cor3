@@ -1,0 +1,591 @@
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: S?l@r0
+
+Ship registry ID: NXT-6692-QA
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: S0*ar1s
+
+Ship registry ID: SRN-4806-TC
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: S0l@r!?
+
+Ship registry ID: CRX-5304-YM
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: S°laґ!s
+
+Ship registry ID: GXT-3065-SA
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: So1@r1s
+
+Ship registry ID: VLK-8225-DB
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: S0l@r*s
+
+Ship registry ID: PGM-1548-UH
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: Š0lær1š
+
+Ship registry ID: ZLM-2259-KR
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 03.01.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: B1n*ry-Se@far#r
+
+Ship registry ID: DVL-3218-KE
+
+Captain: -corrupt-
+
+Cargo:
+
+High-precision scanners, comm-tower parts.
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: 5ol@r!5
+
+Ship registry ID: RND-8634-OP
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 27.05.2186
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: T*mp3st-R1gg#r
+
+Ship registry ID: LMR-2951-AF
+
+Captain: -corrupt-
+
+Cargo:
+
+Industrial winches, hull clamps, venting assemblies, plasteel rods, shock absorbers.
+
+Date: 19.02.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: L*m!nal-Tr@m
+
+Ship registry ID:
+
+Captain: -corrupt-
+
+Cargo:
+
+Transit rails, hover-magnet brackets, guidance pylons, reinforced composite beams.
+
+Date: 30.09.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: F*ltl!ne-Dr!ft#r
+
+Ship registry ID: SKM-2078-IR
+
+Captain: -corrupt-
+
+Cargo:
+
+Solar arrays (fractured), flight stabilizers, emergency power cores, hazard shields.
+
+Date: 12.04.2190
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: A*g1s-4#
+
+Ship registry ID: TRS-1183-VN
+
+Captain: -corrupt-
+
+Cargo:
+
+Industrial polymers, reinforced plating sheets, hydraulic stabilizers, compressed gas cells (WARNING — PRESSURE HAZARD), robotic limb assemblies, sealed containers (classification redacted).
+
+Date: 23.12.2192
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: C*rg0wyr%
+
+Ship registry ID: BKR-5579-LA
+
+Captain: -corrupt-
+
+Cargo:
+
+Bulk cargo containers, atmospheric regulators, industrial vacuum pumps, heavy tool crates.
+
+Date: 14.07.2188
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: Arcl*g#t-C0ur!er
+
+Ship registry ID: STN-8846-RQ
+
+Captain: -corrupt-
+
+Cargo:
+
+Battery slabs, fission-safe wiring, toolboxes.
+
+Date: 22.10.2186
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: Cr*wnsh!ft-H3l!x
+
+Ship registry ID: KTR-5609-VE
+
+Captain: -corrupt-
+
+Cargo:
+
+Bio-sealed storage vats, pumps, polymer insulation sheets, coolant spirals.
+
+Date: 04.03.2192
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: H0r1z*n-Str!d#r
+
+Ship registry ID: HCL-1279-SQ
+
+Captain: -corrupt-
+
+Cargo:
+
+Terrain scanners, rover wheels, stabilization pistons, fuel bars, reinforced containers.
+
+Date: 15.03.2187
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: N03t*c-V0y#r
+
+Ship registry ID: NPL-6640-RV
+
+Captain: -corrupt-
+
+Cargo:
+
+Long-range antenna segments, deep-space scanners, signal amplifiers.
+
+Date: 03.02.2191
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: Drftmr%
+
+Ship registry ID: MCT-9024-RX
+
+Captain: -corrupt-
+
+Cargo:
+
+Microthrusters, hover stabilizers, navigational beacons, ionized coolant tanks, drone chassis parts, sensor relays.
+
+Date: 11.08.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: R3d-M0n*l#th
+
+Ship registry ID: SVX-2205-CT
+
+Captain: -corrupt-
+
+Cargo:
+
+Mining cores, reinforced drill bits, high-density alloy plates, emergency rations crates.
+
+Date: 09.02.2188
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: C0sm*c-Har*0w
+
+Ship registry ID: OSM-8821-KT
+
+Captain: -corrupt-
+
+Cargo:
+
+solar mesh panels, high-density wiring, forged bolt arrays.
+
+Date: 11.03.2185
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: V*cuum-Str!d#r
+
+Ship registry ID: XST-1194-OP
+
+Captain: -corrupt-
+
+Cargo:
+
+Oxygen canisters, emergency beacon housings.
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: So1@r1s
+
+Ship registry ID: BRV-4117-ZT
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 06.04.2188
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: H!ndrss-Tr@vrs3
+
+Ship registry ID:
+
+Captain: -corrupt-
+
+Cargo:
+
+Geological probes, terrain mappers, ore dissolvers, rover assembly tools.
+
+Date: 15.06.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: N3b*l@-C0ur#er
+
+Ship registry ID: GDR-9462-PM
+
+Captain: -corrupt-
+
+Cargo:
+
+Cryo containers (BIOHAZARD), beacon pylons, relay modules.
+
+Date: 19.09.2190
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: H0l0dr*m#
+
+Ship registry ID: FLR-7731-MA
+
+Captain: -corrupt-
+
+Cargo:
+
+Sealed fluid modules (BIOHAZARD WARNING), SBS4-Q3W0K
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: S*lar!s
+
+Ship registry ID: HTS-3761-JP
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: S*lar!s
+
+Ship registry ID: YLD-9982-HF
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 22.08.2191
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: Lum*n-F4l#
+
+Ship registry ID: VRT-5107-EX
+
+Captain: -corrupt-
+
+Cargo:
+
+UV-shielded windows, thermal vents, reflective fiber sheets, optical amplifiers.
+
+Date: 11.04.2190
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: V0rt*x-L1n#r
+
+Ship registry ID: CYN-7345-WE
+
+Captain: -corrupt-
+
+Cargo:
+
+Atmospheric filters, reactor coils, thermal grid frames, calibration nodes.
+
+Date: 01.01.2188
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: T3th*s-%
+
+Ship registry ID: HGN-4418-PL
+
+Captain: -corrupt-
+
+Cargo:
+
+Structural supports, liquid nitrogen tanks, cryo-coolant arrays, pump systems, mineral refinement units.
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: S0|@ri5
+
+Ship registry ID: QRS-5817-WX
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: S0l-*@r!s
+
+Ship registry ID: MWD-9370-LF
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 28.07.2189
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: SØl@r!$
+
+Ship registry ID: TXR-7401-EJ
+
+Captain: -corrupt-
+
+Cargo:
+
+Mechanical parts, Heavy machinery, Mining Equipment, Robot components, Laser cutters (WARNING - FRAGILE), Batteries (WARNING - EXPLOSION HAZARD).
+
+Date: 31.10.2187
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: G0ld*n-Sp@rr#w
+
+Ship registry ID: PRX-6034-ND
+
+Captain: -corrupt-
+
+Cargo:
+
+Medical crates, food rations, atmospheric pumps, sealed coolant lines, emergency beacons.
+
+Date: 09.12.2187
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: Grv-l!nk Frger
+
+Ship registry ID: FRN-7450-UL
+
+Captain: -corrupt-
+
+Cargo:
+
+Stabilizer hinges, bolts, thermal anchors.
+
+Date: 04.07.2191
+
+Point of origin: -corrupt-
+
+Destination: -corrupt-
+
+Ship: K0rv*n#s
+
+Ship registry ID: QMD-3182-FS
+
+Captain: -corrupt-
+
+Cargo:
+
+Encrypted research samples, bio-containment cylinders (HIGH RISK), cryo-cases.

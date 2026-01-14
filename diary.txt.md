@@ -24,3 +24,18 @@ I've shared some thoughts with a few of my old friends from the "good old days" 
 The only thing that really concerns me is the contract - it is too vague and even the money that they told me about is not stated. That is really weird. Let's hope those guys will keep their word on all the terms and conditions we spoke about. Somehow I believe they will.
 
 Maybe this is finally something I was looking for, and maybe that contract will change my life for the better … for once.
+
+#### New Lead Identified
+Saw Aurana’s message. She was extra nice today. Not the usual full “ice cold” attitude. Maybe I am doing fine after all. I feel like I am really close to something. The main problem I have is to figure out the locations of all the objects I found information about. It could be anywhere but somehow I feel like it’s all in one place. Maybe looking through various Archival sites  would make sense to help correlate things …
+
+To sum things up:
+
+First, we have smuggled couplings that were brought to a secret complex on a random planet. That does not give me much, but the fact that it got there by accident means it may be worth it to try and find the name of the ship that was used for transportation. That could, at least, lead me to its flight path records, so I can work from there.
+
+Next thing we have is some sort of a fucked up compound that someone decided to add to the foods and test on people. It looks like it has been spread out enough to cause “accidents” all around the solar system. Or at least that USED to be the case. It seems that shit has been distributed by CDEA, or some thugs trying to look like those. A potential false flag operation maybe?  Might be worth checking that lead, but it would be dangerous as hell … Another option is to try and find that old “Brother” that was mentioned in one of the documents … What was his name? I need to remind myself. Considering he’s still alive and I can find him.
+
+After that, there was something about an ongoing LRMD stuff. Something about railguns and “project Artemis”. That brings some memories. I have definitely heard that name before.  But I would need someone to talk about it. That guy, a salesman … might try my luck with him.  I doubt that he knows much  but he might slip up some details.
+
+And finally, a Sky Lift. I can name at least 3 that have been built on colonies and even bigger asteroids, but considering the context - it’s likely located on a planet. The question is - which one.  Might have to re-view what I have on that one. At least PCF is mentioned several times throughout the documents, but some Cult  as well.  PCF, some freedom fighters if i’m right.  Or, might as well check the USOL  officers mentioned in the document. Not sure if they are alive or not, but their records, should they be open, could tell me something.
+
+Lots of work to do, I'd better start off now.
