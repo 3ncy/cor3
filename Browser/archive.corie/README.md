@@ -3,4 +3,4 @@ The URL https://archive.corie/main returns an HTTP 500 "INTERNAL SERVER ERROR", 
 * [Weird case.jpg](./Weird%20case.jpg)
 * [Prion neutralization…](./Prion%20neutralization.jpg)
 * [Zulu 12 sector status update.jpg](./Zulu%2012%20sector%20status%20update.jpg)
-* [Sandman and Sons business appraisal.pdf](./Sandman%20and%20Sons%20business%20appraisal.pdf)
+* [Sandman and Sons business appraisal.pdf](./Sandman%20and%20Sons%20business%20appraisal.pdf.jpg)

@@ -1,0 +1,1 @@
+Downloaded to [Zulu 12 sector status update.jpg](/broken%20website/Zulu%2012%20sector%20status%20update.jpg)

@@ -54,10 +54,10 @@ last warning — stop posting archive dumps without verification tags. I’m loc
 |-|-|-|
 
 Bold of Rodney to assume German knows what a command line is.
-> **Note to German**
-> Hey man, this is Rodney Scott, from Astrocrop. I was told you need some help with stopping some idiots harassing you guys. I've made a short script that could identify and block incoming traffic from suspicious users.
-> All you have to do is use `block_id <SOURCE_ID>` and `unblock_id <SOURCE_ID>` (in case you accidentally block your boss, hahaha). Feel free to ping me on Messenger in case you run into trouble.
-> **Server location DJQFmNZPK4MDMSY1QVvi**
+> **Note to German**<br>
+> Hey man, this is Rodney Scott, from Astrocrop. I was told you need some help with stopping some idiots harassing you guys. I've made a short script that could identify and block incoming traffic from suspicious users.<br>
+> All you have to do is use `block_id <SOURCE_ID>` and `unblock_id <SOURCE_ID>` (in case you accidentally block your boss, hahaha). Feel free to ping me on Messenger in case you run into trouble.<br>
+> **Server location DJQFmNZPK4MDMSY1QVvi**<br>
 
 > [!IMPORTANT]
 > The "Server location" code is different for each user and this is just an example value.
@@ -88,7 +88,7 @@ reading this while eating a green protein bar. wish me luck.
 | USR ID #9 | 13.03.2251, 19:36 | Post #12 |
 |-|-|-|
 
-found something similar in old backups →
+found something similar in old backups →<br>
 astrocorp.corie/qcd_archive/greenbar_v2.doc
 
 ---
