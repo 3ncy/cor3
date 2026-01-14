@@ -10,3 +10,6 @@
 | Rank | None |
 | User ID | 905972 |
 | Account Status | Active |
+
+---
+> Meta note: The `User ID` value differs for every user account and can be used to add Simon to your messenger.
