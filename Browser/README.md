@@ -6,6 +6,7 @@ Some files are automatically downloaded to your desktop upon opening them, while
 Changing the location within the browser consumes your bandwidth.
 
 Only some sites get automatically added to the Browser sidebar, likely indicating that they are important:
+* [Reports Archive](./viibot.corie/)
 * [Nutcracker Forum](./forum.corie/)
 * [CORIE System](./welcome.corie/)
 * [Infinite Memory](./infinite_memory.corie/)

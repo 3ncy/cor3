@@ -1,1 +1,1 @@
-This website is referred to as "NutCracker" by The Algorithm
+This website's title is "The NutCracker", with a description of "Anonymous Forum for Truth Seekers"
