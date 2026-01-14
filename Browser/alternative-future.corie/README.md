@@ -1,0 +1,1 @@
+URL is sent by The Algorithm via the Messenger application.

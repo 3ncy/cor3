@@ -7,6 +7,3 @@ Changing the location within the browser consumes your bandwidth.
 
 The site https://viibot.corie/archives can be obtained from [Simon Webb](/Messenger/Simon%20Webb/).  
 The site https://biofuse.corie can be obtained via https://forum.corie/.  
-
-## Notes
-[@TOL.png](./@TOL.png.jpg) should be named `*@TOL.png`, but Windows doesn't allow an asterisk in filenames.
