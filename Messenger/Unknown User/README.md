@@ -1,0 +1,1 @@
+This chat is opened after running the Terminal command `block_id <ID>` with the ID from [logs.txt](/broken%20website/logs.txt). The ID can be found on the lines starting with `ACTION: WAF block applied`.
