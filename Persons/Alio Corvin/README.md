@@ -6,7 +6,7 @@
 | Born |  |
 | Registration |  |
 | Company | ASTROCROP |
-| Occupancy |  |
+| Occupancy | Management |
 | Rank | Planetary Manager |
 | User ID | -- |
-| Account Status |  |
+| Account Status | [REDACTED] |
