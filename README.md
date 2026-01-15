@@ -6,10 +6,11 @@ ARG related to the launch of cor3.gg
 <summary><h2></h2>File index:</h2></summary>
 
 ### assets
-* [L.png](./Browser/L.png.jpg) - [BHd1X9Yf](https://os.cor3.gg/assets/L.png.BHd1X9Yf.jpg)
-* [*@TOL.png](./Browser/@TOL.png.jpg) - [BHd1X9Yf](https://os.cor3.gg/assets/L.png.BHd1X9Yf.jpg)
+* [L.png](./Browser/infinite_memory.corie/L.png.jpg) - [BHd1X9Yf](https://os.cor3.gg/assets/L.png.BHd1X9Yf.jpg)
+* [*@TOL.png](./Browser/infinite_memory.corie/_@TOL.png.jpg) - [BHd1X9Yf](https://os.cor3.gg/assets/L.png.BHd1X9Yf.jpg)
 * [Cargo.png](./Browser/viibot.corie/Cargo.png.jpg) [BKaNviG_](https://os.cor3.gg/assets/Cargo.png.BKaNviG_.jpg)
-* [Biofarms](./Browser/biofuse.corie/Biofarms.jpg) [B0JfPtEO](https://os.cor3.gg/assets/Biofarms.B0JfPtEO.jpg)
+* [Biofarms](./Browser/forum.corie/Biofarms.jpg) [B0JfPtEO](https://os.cor3.gg/assets/Biofarms.B0JfPtEO.jpg)
+* [Goodies](./Browser/forum.corie/Goodies.png.jpg) [nbUL9XqW](https://os.cor3.gg/assets/Goodies.png.nbUL9XqW.jpg)
 
 ### loops 0
 Tutorial

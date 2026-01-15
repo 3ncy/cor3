@@ -63,7 +63,7 @@ someone  said that AstroCorp backend still runs on CORIE v1.0. that’s like eld
 | USR ID #9 | 16.12.2024, 00:30 | Post #9 |
 |-|-|-|
 
-check this → [astrocorp.corie:8020/plant_stream](/Browser/astrocorp.corie/plant_stream) it used to stream greenhouse cameras 24/7
+check this → [astrocorp.corie:8020/plant_stream](/Browser/astrocorp.corie/plant_stream.md) it used to stream greenhouse cameras 24/7
 
 ---
 
