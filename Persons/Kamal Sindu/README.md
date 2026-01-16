@@ -12,4 +12,4 @@
 | Account Status | Active |
 
 ## Note
-Big gui. Could be a potential lead or a dead end. Need to be carefull
+Big guy. Could be a potential lead or a dead end. Need to be carefull
