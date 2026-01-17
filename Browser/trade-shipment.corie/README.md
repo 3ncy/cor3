@@ -1,0 +1,1 @@
+After doing ??? you can access one ship's information, which opens the page with [the missile silo image](./FRAGO_missilesilo_09.jpg).

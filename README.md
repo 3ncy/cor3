@@ -11,6 +11,7 @@ ARG related to the launch of cor3.gg
 * [Cargo.png](./Browser/viibot.corie/Cargo.png.jpg) [BKaNviG_](https://os.cor3.gg/assets/Cargo.png.BKaNviG_.jpg)
 * [Biofarms](./Browser/forum.corie/Biofarms.jpg) [B0JfPtEO](https://os.cor3.gg/assets/Biofarms.B0JfPtEO.jpg)
 * [Goodies](./Browser/forum.corie/Goodies.png.jpg) [nbUL9XqW](https://os.cor3.gg/assets/Goodies.png.nbUL9XqW.jpg)
+* [FRAGO_missilesilo_09](./Browser/trade-shipment.corie/FRAGO_missilesilo_09.jpg) [DXef9zha](https://os.cor3.gg/assets/FRAGO_missilesilo_09.DXef9zha.jpg)
 
 ### loops 0
 Tutorial
