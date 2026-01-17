@@ -39,3 +39,19 @@ After that, there was something about an ongoing LRMD stuff. Something about rai
 And finally, a Sky Lift. I can name at least 3 that have been built on colonies and even bigger asteroids, but considering the context - it’s likely located on a planet. The question is - which one.  Might have to re-view what I have on that one. At least PCF is mentioned several times throughout the documents, but some Cult  as well.  PCF, some freedom fighters if i’m right.  Or, might as well check the USOL  officers mentioned in the document. Not sure if they are alive or not, but their records, should they be open, could tell me something.
 
 Lots of work to do, I'd better start off now.
+
+Some interesting shit here. That  REPNODE is one of the REPENT deployment facilities. They usually belong to CEDRT,  and I know only of one active emergency zone - Mars. Meaning that's the station on its orbit.  And that facility … a missile silo or something else? I would have to keep looking into this, but for now i'v got what i was looking for.  Need to check other leads,  starting with that "Brother".
+
+Seamus J. Malkob, his account shows as active. 95 years old thought … How is he even alive with a bounty on his head?
+
+I need to try contacting him using encryption software. Maybe that would make him feel safe enough to answer.
+
+Holy shit, those guys are insane. I knew Terrans were “special” in so many ways, but this … If I am right, they have decided to test an actual bio weapon on humans. No doubt that they thought of it as some magical serum or something.  Fucking bastards.
+
+The only question is where that stuff is produced, and what products might have been affected.
+
+I need to check the news channels, maybe someone wrote about something similar.
+
+#### Next Steps
+Another lead, and once again it’s Mars. That place keeps its secrets tight. I need to keep looking, there are yet few things that I can still chase down
+
