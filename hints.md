@@ -1,5 +1,11 @@
 ## Update 3.41.0, new content
 ```
+The connection_logs file was found on the server.
+Open it and decrypt it to understand what happened to the server.
+```
+After logging into the server `EM[RM7-E2L2]` for the first time.
+
+```
 Unknown User has contacted you and offered a deal.
 You can meet their condition or try to access the server on your own.
 ```
