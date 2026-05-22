@@ -1,0 +1,62 @@
+[REINSTATED BACKUP // PARTIAL RESTORE]
+FILE: connection_logs_recovered.eb52x
+SERVER STATUS: DEGRADED
+DRIVE STATE: UNSTABLE
+DATA INTEGRITY: 41%
+
+--- CONNECTION EVENTS ---
+
+[03:14:08] 192.118.7.40 -> /status/ping OK
+[03:14:11] 430.77.12.9 -> /public/node-info OK
+[03:14:15] 855.529.4.22 -> /auth/session FAILED
+[03:14:17] 855.529.4.22 -> /auth/session FAILED
+[03:14:19] 855.529.4.22 -> /auth/session FAILED
+[03:14:24] 711.20.88.104 -> /jobs/sync OK
+[03:14:31] 855.529.4.22 -> /auth/token-refresh FAILED
+[03:14:36] 855.529.4.22 -> /sai/handshake DENIED
+[03:14:42] 301.64.9.201 -> /public/cache OK
+[03:14:47] 855.529.4.22 -> /sai/handshake DENIED
+[03:14:53] 855.529.4.22 -> /sai/access-layer FAILED
+[03:15:02] 855.529.4.22 -> /sai/access-layer FAILED
+[03:15:08] 109.75.31.66 -> /status/ping OK
+[03:15:11] 855.529.4.22 -> /backup/index DENIED
+[03:15:19] 855.529.4.22 -> /backup/index DENIED
+[03:15:27] 855.529.4.22 -> /backup/latest ACCESSED
+[03:15:34] 430.77.12.9 -> /public/node-info OK
+[03:15:41] 855.529.4.22 -> /backup/latest READ
+[03:15:46] 855.529.4.22 -> /system/drives READ
+[03:15:52] 855.529.4.22 -> /system/drives/wipe FAILED
+[03:16:00] 711.20.88.104 -> /jobs/sync OK
+[03:16:04] 855.529.4.22 -> /system/drives/wipe FAILED
+[03:16:11] 855.529.4.22 -> /connection/logs READ
+[03:16:18] 855.529.4.22 -> /connection/logs/delete FAILED
+[03:16:22] 855.529.4.22 -> /connection/logs/delete FAILED
+[03:16:29] 301.64.9.201 -> /public/cache OK
+[03:16:33] 855.529.4.22 -> /sai/root DENIED
+[03:16:38] 855.529.4.22 -> /sai/root DENIED
+[03:16:45] 855.529.4.22 -> /sai/root PARTIAL
+[03:16:51] 855.529.4.22 -> /sai/root ACCESSED
+
+--- SYSTEM EVENTS ---
+
+[03:16:55] ALERT: Unauthorized SAI access detected.
+[03:16:58] ALERT: Backup index modified.
+[03:17:03] ALERT: Drive integrity unstable.
+[03:17:09] ALERT: Data erasure attempt interrupted.
+[03:17:12] RECOVERY: Latest backup available.
+[03:17:18] TRACE: Source address repeated across intrusion sequence.
+
+--- TRACE SUMMARY ---
+
+Repeated source detected:
+855.529.4.22
+
+Observed non-critical traffic:
+192.118.7.40
+430.77.12.9
+711.20.88.104
+301.64.9.201
+109.75.31.66
+
+Conclusion:
+Primary intrusion source is likely 855.529.4.22

@@ -146,6 +146,10 @@ Path related to the Nutcracker website
 * [KRVA_BB.png](/KRVA_BB.png.jpg) - [kgljmlhkgwejhfdjkbhjkshfgjkn](https://cdn.cor3.gg/corie/loops/acts/3/jkr4h3gk2jhckjbrtnkjvcshdkjdsd/kgljmlhkgwejhfdjkbhjkshfgjkn.jpg)
 * [Mantis_drone_R4RD(TONG).png](/Mantis_drone_R4RD(TONG).png) - [hjlkrgjkdshkjfnkjhkjbhrkjnhkj](https://cdn.cor3.gg/corie/loops/acts/3/jkr4h3gk2jhckjbrtnkjvcshdkjdsd/hjlkrgjkdshkjfnkjhkjbhrkjnhkj.jpg)
 
+#### krejklejvhbkj54hgkjkjehekbe
+
+* [ad_note.png](/ad_note.png) - [dfkljhrekbhrkjrtdhnvkjs](https://cdn.cor3.gg/corie/loops/acts/3/krejklejvhbkj54hgkjkjehekbe/dfkljhrekbhrkjrtdhnvkjs.png)
+
 ---
 
 ### ranks

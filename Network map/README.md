@@ -67,6 +67,8 @@ Connecting to `RM7-E1L3` reveals the server `RM7-N2ECP`, which in turn reveals a
 
 A hidden connection between `RM7-N1L1` and `RM7-N2ECP` can be revealed by searching the IP address of either of the servers: `855.529.4.1` or `855.529.4.13`. The hidden connection between `SRM7-N3L2` and `RM7-N2L2` is revealed in the same fashion, by searching either `855.529.4.17` or `855.529.4.2`.
 
+The server `RM7-54L1` is unlocked (likely) by hacking `RM7-S4L4`.
+
 ## Important files
 ### RM7-E1L2CT
 * [Email: From: Chris_Tong.txt](/Email%20From%20Chris_Tong.txt.md)
@@ -75,6 +77,13 @@ A hidden connection between `RM7-N1L1` and `RM7-N2ECP` can be revealed by search
 
 ### RM7-E1SCP
 * [sw12_Sec_Report_2341245.txt](/sw12_Sec_Report_2341245.txt.md)
+
+### EM[RM7-E2L2]
+* [connections_log_recovered.log](/connections_log_recovered.log)
+
+### EM[UNDEFINED]
+* [ad_note.png](/ad_note.png)
+* [attack_logs.log](/attack_logs.log.md)
 
 ## Server information
 | Server Name | Faction | Owner| Transit | Type | Cluster | Location  | IP | Color | Market | Defence Rate |
