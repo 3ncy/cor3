@@ -1,4 +1,11 @@
-## Act 3
+## Update 3.41.0, new content
+```
+Unknown User has contacted you and offered a deal.
+You can meet their condition or try to access the server on your own.
+```
+After doing ???.
+
+## Act 3 start
 ```
 New sections unlocked: Hire (in Market) and Expedition.
 
