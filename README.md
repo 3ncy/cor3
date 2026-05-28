@@ -144,7 +144,7 @@ Path related to the Nutcracker website
 * [Dossier C.S. Tong.png](/Chris_Tong_Intel/Dossier%20C.S.%20Tong.png) - [gfnkljerklvbjrtlkcldskfjblkfgjn](https://cdn.cor3.gg/corie/loops/acts/3/jkr4h3gk2jhckjbrtnkjvcshdkjdsd/gfnkljerklvbjrtlkcldskfjblkfgjn.png)
 * [Forum_Screenshot.png](/Chris_Tong_Intel/Forum_Screenshot.png) - [klnjmtyylkbevrjwlkvnjklrbevjklv](https://cdn.cor3.gg/corie/loops/acts/3/jkr4h3gk2jhckjbrtnkjvcshdkjdsd/klnjmtyylkbevrjwlkvnjklrbevjklv.png)
 * [KRVA_BB.png](/KRVA_BB.png.jpg) - [kgljmlhkgwejhfdjkbhjkshfgjkn](https://cdn.cor3.gg/corie/loops/acts/3/jkr4h3gk2jhckjbrtnkjvcshdkjdsd/kgljmlhkgwejhfdjkbhjkshfgjkn.jpg)
-* [Mantis_drone_R4RD(TONG).png](/Mantis_drone_R4RD(TONG).png) - [hjlkrgjkdshkjfnkjhkjbhrkjnhkj](https://cdn.cor3.gg/corie/loops/acts/3/jkr4h3gk2jhckjbrtnkjvcshdkjdsd/hjlkrgjkdshkjfnkjhkjbhrkjnhkj.jpg)
+* [Mantis_drone_R4RD(TONG).png](/Mantis_drone_R4RD(TONG).png.jpg) - [hjlkrgjkdshkjfnkjhkjbhrkjnhkj](https://cdn.cor3.gg/corie/loops/acts/3/jkr4h3gk2jhckjbrtnkjvcshdkjdsd/hjlkrgjkdshkjfnkjhkjbhrkjnhkj.jpg)
 
 #### krejklejvhbkj54hgkjkjehekbe
 
