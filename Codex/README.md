@@ -32,6 +32,11 @@
 * [Backstory](./Entry%203%20The%20Way/Backstory.txt)
 * [I Arrived](./Entry%203%20The%20Way/I%20Arrived.md)
 
+### 3.2: Broken Server
+* [CEDRT Mainframe](./Entry%203%20The%20Way/CEDRT%20Mainframe.md)
+* [Suspicious IP](./Entry%203%20The%20Way/Suspicious%20IP.md)
+* [Personal Log](./Entry%203%20The%20Way/Personal%20Log.md)
+
 ## News
 ### News
 * [News Bulletin #1](./News/News%20Bulletin%20%231.md)

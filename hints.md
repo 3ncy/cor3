@@ -1,15 +1,47 @@
 ## Update 3.41.0, new content
 ```
+Report back to Aurana about the work you have done.
+Open Messenger and contact her.
+```
+After completing the [dialogue](/Messenger/CEDRT%20Work%20Chat/) related to handing in the [attack_logs.log](/attack_logs.log.md) file.
+
+```
+You have gathered materials related to the incident.
+Open the CEDRT work chat and send all the data you found.
+```
+After downloading both the `attack_logs.log` and `ad_note.png` files from `EM[undefined]`.
+
+```
+The unknown user has offered you a deal. You can do what they ask, or hack the server on your own.
+```
+```
+Unknown User has contacted you and offered a deal.
+You can meet their condition or try to access the server on your own.
+```
+After chatting with the `Unknown User` who messages the player after connecting to `EM[undefined]` for the first time.
+
+```
+An unknown user is trying to reach you. Open Messenger and respond to them.
+```
+After connecting to the server `EM[undefined]` for the first time.
+
+```
 The connection_logs file was found on the server.
 Open it and decrypt it to understand what happened to the server.
 ```
 After logging into the server `EM[RM7-E2L2]` for the first time.
 
 ```
-Unknown User has contacted you and offered a deal.
-You can meet their condition or try to access the server on your own.
+Tong has pointed you to a faulty CEDRT server.
+Open the Network Map, enter the IP of server RM7-E2L2, and log into it through SAI.
 ```
-After doing ???.
+After chatting with [Christopher Tong](/Messenger/CEDRT%20Work%20Chat/) and receiving the IP address `855.529.2.2`.
+
+```
+Open Messenger and contact Chris Tong through the CEDRT work chat.
+He is waiting for your response.
+```
+After a short message with Aurana which kicks off the new content.
 
 ## Act 3 start
 ```

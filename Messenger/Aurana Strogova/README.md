@@ -101,3 +101,26 @@ Player:
 > Will do.
 
 This raises the System Version to `3.03`, granting access to [Expeditions](/Expeditions/).
+
+...
+
+Aurana:
+> Hey. I think it’s time to contact Chris Tong. You have been waiting long enough and postponing further would seem suspicious.
+
+Player:
+> Yes, you are right. I should contact him, but it’s good that we now have all that information about him. I do not plan to let him know that I have it of course.
+
+Aurana:
+> Good choice. And yes, you are correct - that information gives us additional angles on him and tells something about his character. Go on then, let’s not make him wait any longer. Connect to the CEDRT group chat first. Here — use this code to add the channel.
+
+Player:
+> Then I’ll stop stalling and get in touch. Better not make him wait any longer.
+
+Aurana:
+> Exactly. Go on then, let’s not make him wait any longer.
+
+Player:
+> I’m on it.
+
+This unlocks [CEDRT Work Chat](/Messenger/CEDRT%20Work%20Chat/).
+
