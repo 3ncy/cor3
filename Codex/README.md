@@ -35,6 +35,8 @@
 ### 3.2: Broken Server
 * [CEDRT Mainframe](./Entry%203%20The%20Way/CEDRT%20Mainframe.md)
 * [Suspicious IP](./Entry%203%20The%20Way/Suspicious%20IP.md)
+
+### 3.3: Ghost Protocol
 * [Personal Log](./Entry%203%20The%20Way/Personal%20Log.md)
 
 ## News
