@@ -116,6 +116,8 @@ The server `RM7-54L1` is unlocked (likely) by hacking `RM7-S4L4`.
 
 The server `D4RK RM7EG` is unlocked by connection to `D4RK RM7MI`.
 
+Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `854.266.7.1`, `855.529.1.2`, `855.529.1.13`, `855.529.2.1`, after having the respective servers already unlocked.
+
 ## Important files
 ### RM7-E1L2CT
 * [Email: From: Chris_Tong.txt](/Email%20From%20Chris_Tong.txt.md)
@@ -182,7 +184,6 @@ The server `D4RK RM7EG` is unlocked by connection to `D4RK RM7MI`.
 | URRM7 |  |  | restricted | X61DCT |  |  | 760.129.3.0 | 🔵 `#88DCFA` |  | 34 |
 | EM[RM7-E2L2] |  |  | restricted | EMERMODE |  |  | 855.529.2.2 | ⚪ `#D5DECB` |  | 11 |
 | EM[undefined] |  |  | restricted | EMERMODE |  |  | 855.529.4.22 | ⚪ `#D5DECB` |  | 15 |
-
 
 ## Defense rates
 * 0
