@@ -1,0 +1,1 @@
+Hmm. Familiar language. If I remember correctly, this cipher was used by the PALIMPSEST weirdos. I should contact them. Maybe they have work for me.

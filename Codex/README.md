@@ -39,6 +39,12 @@
 ### 3.3: Ghost Protocol
 * [Personal Log](./Entry%203%20The%20Way/Personal%20Log.md)
 
+### Black Ledger
+* [Personal Log — PALIMPSEST cipher](./Entry%203%20The%20Way/Personal%20Log%20—%20PALIMPSEST%20cipher.md)
+* [cufgu ab ginhu Koute](/cufgu%20ab%20ginhu%20Koute.png)  
+
+These two entries appear after downloading the file `cufgu ab ginhu Koute.png` from the server RM7-S4L4.
+
 ## News
 ### News
 * [News Bulletin #1](./News/News%20Bulletin%20%231.md)

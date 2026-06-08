@@ -132,6 +132,12 @@ The server `D4RK RM7EG` is unlocked by connection to `D4RK RM7MI`.
 * [ad_note.png](/ad_note.png)
 * [attack_logs.log](/attack_logs.log.md)
 
+### RM7-S4L4
+* [cufgu ab ginhu Koute.png](/cufgu%20ab%20ginhu%20Koute.png)
+
+### URM7-S5L2
+* Hochmetall Security - Internal Inspection Order.png
+
 ## Server information
 | Server Name | Faction | Owner| Transit | Type | Cluster | Location  | IP | Color | Market | Defence Rate |
 |-------------|---------|------|---------|------|---------|-----------|----|-------|--------|--------------|
