@@ -1,3 +1,14 @@
+## 11th June, ~12:40 UTC
+```
+hints.act2.sideQuest203.step5
+```
+Appeared after a client update to version v1.20.51.
+
+```
+An old log on B43573N mentions "5CRYPt0L 0J". Read chat_fragments.txt to find out where to get it.
+```
+Appeared only for some accounts after the same update.
+
 ## Update 3.41.0, new content
 ```
 Report back to Aurana about the work you have done.
@@ -176,7 +187,7 @@ Someone named Charlie left a message in the ship channel. Read it carefully — 
 ```
 Hint for connecting to [cleaner_bot_4_2](./Terminal/cleaner_bot_4_2.md).
 
-## 16th March UTC ~17:00 UTC
+## 16th March ~17:00 UTC
 ```
 Servers #1, #2, and #3 have access level 1
 Server #4 has access level 2
