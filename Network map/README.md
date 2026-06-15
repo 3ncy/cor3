@@ -13,11 +13,14 @@ flowchart LR
 019e4052-c316-73aa-81f6-38c323c58eb2["RM7-S4L2"]
 019e4052-c316-73aa-81f6-3dcef4d6873e["RM7-S4L3"]
 019e4052-c316-73aa-81f6-4059ea0554e0["RM7-W3L4"]
+019ebb72-4646-7198-902d-0abd68b9513c["RM7-W3L3"]
+019ebb73-1c4a-724c-a031-29049df2b1dc["RM7-W3L1"]
 019d1b0a-13a9-77dd-b41f-3a21d490cb2d["RM7-E1SCP"]
 019da6f1-16f7-75a6-b6d3-0b1d5f92a105["RM7-N2ECP"]
 019da6f1-16f7-75a6-b6d3-0b1d5f92a106["RM7-W3NCP"]
 019d53aa-5101-7f08-b3dd-378b0ddcf7d0["RM7-E1L2CT"]
 019e4052-c316-73aa-81f6-448645a38c9e["RM7-S4WCP"]
+019ebb73-1c4b-75c2-9a9d-ebad6f7bb1bc["RM7-A2ES"]
 019d29c5-4b37-7436-aef9-89af09560af3["D4RK RM7CE"]
 019d29c5-4b37-79bf-b23e-304d8ea03c15["D4RK RM7MI"]
 019e4052-c316-73aa-81f6-483e50247e61["D4RK RM7EG"]
@@ -69,7 +72,11 @@ flowchart LR
 019e4052-c316-73aa-81f6-3dcef4d6873e --- 019e4052-c316-73aa-81f6-38c323c58eb2
 019e4052-c316-73aa-81f6-38c323c58eb2 --- 019e4052-c316-73aa-81f6-448645a38c9e
 019e4052-c316-73aa-81f6-38c323c58eb2 -.- 019d1b0a-13a9-77dd-b41f-3a21d490cb2d
-019e4052-c316-73aa-81f6-448645a38c9e --- 019e4052-c316-73aa-81f6-4059ea0554e0
+019da6f1-16f7-75a6-b6d3-0b1d5f92a103 --- 019e4052-c316-73aa-81f6-4059ea0554e0
+019da6f1-16f7-75a6-b6d3-0b1d5f92a103 --- 019ebb72-4646-7198-902d-0abd68b9513c
+019e4052-c316-73aa-81f6-4059ea0554e0 --- 019ebb73-1c4a-724c-a031-29049df2b1dc
+019ebb73-1c4b-75c2-9a9d-ebad6f7bb1bc --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a106
+019ebb73-1c4b-75c2-9a9d-ebad6f7bb1bc --- 019ebb73-1c4a-724c-a031-29049df2b1dc
 019e4052-c315-71df-80da-4e334b96c9e6 --- 019e4052-c316-73aa-81f6-448645a38c9e
 019e4052-c316-73aa-81f6-483e50247e61 --- 019d29c5-4b37-79bf-b23e-304d8ea03c15
 019e4052-c316-73aa-81f6-4da2a3e8df51 --- 019d29c5-4b37-7de9-b46c-022179bcb5eb
@@ -155,11 +162,14 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 | RM7-S4L2 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South |  | 855.529.2.12 | ⚪ `#D5DECB` |  | 12 |
 | RM7-S4L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South |  | 855.529.2.3 | ⚪ `#D5DECB` |  | 13 |
 | RM7-W3L4 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West |  | 855.529.3.4 | ⚪ `#D5DECB` |  | 15 |
+| RM7-W3L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West |  | 855.529.3.3 | ⚪ `#D5DECB` |  | 17 |
+| RM7-W3L1 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West |  | 855.529.3.1 | ⚪ `#D5DECB` |  | 17 |
 | RM7-E1SCP |  |  | private | CEDRT&nbsp;private |  |  | 855.529.1.2 | ⚪ `#D5DECB` |  | 12 |
 | RM7-N2ECP |  |  | private | CEDRT&nbsp;private |  |  | 855.529.4.13 | ⚪ `#D5DECB` |  | 12 |
 | RM7-W3NCP |  |  | private | CEDRT&nbsp;private |  |  | 855.529.3.7 | ⚪ `#D5DECB` |  | 13 |
 | RM7-E1L2CT | CEDRT |  | private | CEDRT&nbsp;private | REPNODE-M7 East |  | 855.529.1.13 | ⚪ `#D5DECB` |  | 7 |
 | RM7-S4WCP |  |  | private | CEDRT&nbsp;private |  |  | 855.529.2.0 | ⚪ `#D5DECB` |  | 13 |
+| RM7-A2ES |  |  | private | CEDRT&nbsp;private |  |  | 855.529.8.2 | ⚪ `#D5DECB` |  | 20 |
 | D4RK&nbsp;RM7CE |  |  | public | D4RK&nbsp;T4 |  |  | 855.528.0.4 | ⚫ `#4B4B4B` |  | 15 |
 | D4RK&nbsp;RM7MI |  |  | public | D4RK&nbsp;T4 |  |  | 855.528.0.12 | ⚫ `#4B4B4B` | Yes | 15 |
 | D4RK&nbsp;RM7EG |  |  | public | D4RK&nbsp;T4 |  |  | 855.528.0.14 | ⚫ `#4B4B4B` |  | 15 |
@@ -223,11 +233,14 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
     * SRM7-N3L2
     * SPRM7-N4L3
 * 17
+    * RM7-W3L3
+    * RM7-W3L1
     * URM7-W4L2
 * 18
     * SRM7-N4L2
     * UPRM7-S3L2
 * 20
+    * RM7-A2ES
     * D4RK T43272
 * 22
     * D4RK T43274
