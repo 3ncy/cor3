@@ -1,13 +1,8 @@
 ## 11th June, ~12:40 UTC
 ```
-hints.act2.sideQuest203.step5
+An old log on B43273N mentions "5CRYPt0L 0J". Read chat_fragments.txt to find out where to get it.
 ```
-Appeared after a client update to version v1.20.51.
-
-```
-An old log on B43573N mentions "5CRYPt0L 0J". Read chat_fragments.txt to find out where to get it.
-```
-Appeared only for some accounts after the same update.
+Appeared after a client update to version v1.20.51 and became actually readable in the version v1.20.57.
 
 ## Update 3.41.0, new content
 ```
