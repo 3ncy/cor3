@@ -1,4 +1,4 @@
-Th?!@#%$^&*-i-s c@#%$^&\*!-o-mp^&\*!@#%$-onent bo?!@#%$^&\*-ard is p?!@#%$^&*-ri?!@#%$^&\*-x-?!@^%$#&*!-?!@#%$^&\*-r-?!@#^&%$*!-?!@#%$^&\*-?!@#%$^&*-q-&*-?!@#%$^&\*-?!@m-?!@#^&%$*!-?!@#%$^&?!@#%$^&*-?!@#%$^&\*-?!@#^&%$*!-?!@#%$^&\*-?!@#%$^&*-q-^&*-x-?!@^%$#&*!-?!@
+Th?!@#%$^&\*-i-s c@#%$^&\*!-o-mp^&\*!@#%$-onent bo?!@#%$^&\*-ard is p?!@#%$^&\*-ri?!@#%$^&\*-x-?!@^%$#&\*!-?!@#%$^&\*-r-?!@#^&%$\*!-?!@#%$^&\*-?!@#%$^&\*-q-&\*-?!@#%$^&\*-?!@m-?!@#^&%$\*!-?!@#%$^&?!@#%$^&\*-?!@#%$^&\*-?!@#^&%$\*!-?!@#%$^&\*-?!@#%$^&\*-q-^&\*-x-?!@^%$#&\*!-?!@
 
 This component board is primarily used as a base for an advanced drone controller. Although the developer is unknown, the board seems to be fully compatible with different types and classes of aerial drones, enhancing the general performance by 10+ percent on average.
 
