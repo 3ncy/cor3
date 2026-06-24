@@ -49,3 +49,69 @@ After talking to James Curtis Fung and a bit of dialogue, the Unknown provides t
 > Break it.
 > 
 > Once you're done, come back to us.
+
+After reading the [cufgu ab ginhu Koute.png](/cufgu%20ab%20ginhu%20Koute.png) file in the [Codex](/Codex/README.md).
+
+Player:
+> I found something. And I think it belongs to you.
+
+Unknown:
+> The more we talk, the more it feels like you know a little too much.
+
+Player:
+> Well, you're still talking to me. So I guess I'm still within acceptable limits.
+
+Unknown:
+> Fair.
+
+Unknown:
+> What do you want? You did not come here just because you found a letter.
+
+Player:
+> Correct. I think you have work for me.
+
+Unknown:
+> Correct again. We have a small job for you.
+
+Player:
+> When you say "small", it usually means the problem is just well hidden.
+
+Unknown:
+> This time, literally. We need to find one old container.
+
+Player:
+> What container?
+
+Unknown:
+> An old cargo container from Koute Station, on asteroid 16 Psyche. The asteroid is under USOL influence. Our people lost the data on its current location. We need the container back.
+
+Player:
+> What's inside?
+
+Unknown:
+> We don't usually like questions like that, but we'll make an exception. Nothing you would call interesting. The only thing we care about is the recorder.
+
+Player:
+> Why don't you retrieve it yourselves?
+
+Unknown:
+> Because Koute is an active industrial facility, and they don't react well to people with our reputation. USOL reacts even worse.
+
+Player:
+> So you need a middleman.
+
+Unknown:
+> We need someone with clean hands. Or at least hands that haven't been dirtied in the right databases yet.
+
+Player:
+> Fine. What do I need to do?
+
+Unknown:
+> Go to the USOL market. Hire a contractor and send them to Koute. Keep in mind, a contractor from another zone won't work. USOL people simply won't let them in. Best case scenario.  
+> The contractor retrieves the container, brings it to you, and you pass it to us.
+
+Player:
+> Payment?
+
+Unknown:
+> Credits. And our endless gratitude. Believe us, the second part is worth more.
