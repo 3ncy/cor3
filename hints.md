@@ -1,3 +1,19 @@
+## 26th June
+```
+You can write Unknown
+```
+After opening [cufgu ab ginhu Koute.png](/cufgu%20ab%20ginhu%20Koute.png).
+
+```
+hints.act3.loop301.step10
+```
+??? 
+
+```
+Dispatch a home-market mercenary to Old Depot 17 and retrieve the lost container.
+```
+After ???
+
 ## 11th June, ~12:40 UTC
 ```
 An old log on B43273N mentions "5CRYPt0L 0J". Read chat_fragments.txt to find out where to get it.
@@ -17,6 +33,10 @@ Open the CEDRT work chat and send all the data you found.
 ```
 After downloading both the `attack_logs.log` and `ad_note.png` files from `EM[undefined]`.
 
+```
+You have gained access to server EM UNDEFINED. 
+Find any information related to the breach.
+```
 ```
 The unknown user has offered you a deal. You can do what they ask, or hack the server on your own.
 ```
