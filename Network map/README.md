@@ -150,7 +150,7 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 ## Server information
 | Server Name | Faction | Owner| Transit | Type | Cluster | Location  | IP | Color | Market | Defence Rate |
 |-------------|---------|------|---------|------|---------|-----------|----|-------|--------|--------------|
-| Home&nbsp;Server | Home | Player | public | Home | Home |  | 855.529.0.2 | 🟢 `#A8F87F` | Yes | 0 |
+| Home&nbsp;Server | Home | Player | public | Home | Home | Local&nbsp;Network | 855.529.0.2 | 🟢 `#A8F87F` | Yes | 0 |
 | RM7-E1L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 East | REPNODE-M7&nbsp;deck&nbsp;2-25 | 855.529.1.3 | ⚪ `#D5DECB` |  | 5 |
 | RM7-E1L5 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 East | REPNODE-M7&nbsp;deck&nbsp;1-8 | 855.529.1.5 | ⚪ `#D5DECB` |  | 5 |
 | RM7-S4L4 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South | REPNODE-M7&nbsp;deck&nbsp;2-17 | 855.529.2.4 | ⚪ `#D5DECB` |  | 5 |
@@ -158,42 +158,42 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 | RM7-N2L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-8 | 855.529.4.3 | ⚪ `#D5DECB` |  | 12 |
 | RM7-W3L2 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West |  | 855.529.3.2 | ⚪ `#D5DECB` |  | 15 |
 | RM7-N1L1 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-1 | 855.529.4.1 | ⚪ `#D5DECB` |  | 13 |
-| RM7-S4L1 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South |  | 855.529.2.1 | ⚪ `#D5DECB` |  | 12 |
-| RM7-S4L2 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South |  | 855.529.2.12 | ⚪ `#D5DECB` |  | 12 |
-| RM7-S4L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South |  | 855.529.2.3 | ⚪ `#D5DECB` |  | 13 |
-| RM7-W3L4 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West |  | 855.529.3.4 | ⚪ `#D5DECB` |  | 15 |
+| RM7-S4L1 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South | REPNODE-M7&nbsp;deck&nbsp;2-8 | 855.529.2.1 | ⚪ `#D5DECB` |  | 12 |
+| RM7-S4L2 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South | REPNODE-M7&nbsp;deck&nbsp;2-14 | 855.529.2.12 | ⚪ `#D5DECB` |  | 12 |
+| RM7-S4L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South | REPNODE-M7&nbsp;deck&nbsp;2-15B | 855.529.2.3 | ⚪ `#D5DECB` |  | 13 |
+| RM7-W3L4 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West | REPNODE-M7&nbsp;deck&nbsp;3-7 | 855.529.3.4 | ⚪ `#D5DECB` |  | 15 |
 | RM7-W3L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West |  | 855.529.3.3 | ⚪ `#D5DECB` |  | 17 |
-| RM7-W3L1 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West |  | 855.529.3.1 | ⚪ `#D5DECB` |  | 17 |
-| RM7-E1SCP |  |  | private | CEDRT&nbsp;private |  |  | 855.529.1.2 | ⚪ `#D5DECB` |  | 12 |
-| RM7-N2ECP |  |  | private | CEDRT&nbsp;private |  |  | 855.529.4.13 | ⚪ `#D5DECB` |  | 12 |
-| RM7-W3NCP |  |  | private | CEDRT&nbsp;private |  |  | 855.529.3.7 | ⚪ `#D5DECB` |  | 13 |
-| RM7-E1L2CT | CEDRT |  | private | CEDRT&nbsp;private | REPNODE-M7 East |  | 855.529.1.13 | ⚪ `#D5DECB` |  | 7 |
-| RM7-S4WCP |  |  | private | CEDRT&nbsp;private |  |  | 855.529.2.0 | ⚪ `#D5DECB` |  | 13 |
-| RM7-A2ES |  |  | private | CEDRT&nbsp;private |  |  | 855.529.8.2 | ⚪ `#D5DECB` |  | 20 |
-| D4RK&nbsp;RM7CE |  |  | public | D4RK&nbsp;T4 |  |  | 855.528.0.4 | ⚫ `#4B4B4B` |  | 15 |
-| D4RK&nbsp;RM7MI |  |  | public | D4RK&nbsp;T4 |  |  | 855.528.0.12 | ⚫ `#4B4B4B` | Yes | 15 |
-| D4RK&nbsp;RM7EG |  |  | public | D4RK&nbsp;T4 |  |  | 855.528.0.14 | ⚫ `#4B4B4B` |  | 15 |
-| D4RK&nbsp;T43272 |  |  | public | D4RK&nbsp;T4 |  |  | 853.172.2.2 | ⚫ `#4B4B4B` |  | 20 |
-| D4RK&nbsp;T43274 |  |  | public | D4RK&nbsp;T4 |  |  | 853.172.2.4 | ⚫ `#4B4B4B` |  | 22 |
-| D4RK&nbsp;2IV2 |  |  | restricted | D4RK&nbsp;2IV |  |  | 855.528.0.2 | ⚫ `#4B4B4B` |  | 22 |
-| D4RK&nbsp;2IV0/3 |  |  | restricted | D4RK&nbsp;2IV |  |  | 853.172.0.3 | ⚫ `#4B4B4B` |  | 25 |
-| B43271N |  |  | private | D4RK/B1N |  |  | 854.266.7.1 | ⚫ `#4B4B4B` |  | 27 |
-| B43272N |  |  | private | D4RK/B1N |  |  | 854.266.7.2 | ⚫ `#4B4B4B` |  | 36 |
-| B43274N |  |  | private | D4RK/B1N |  |  | 854.266.7.4 | ⚫ `#4B4B4B` |  | 8 |
-| SRM7-N3L1 | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North |  | 855.529.4.6 | 🔴 `#FE4949` |  | 12 |
-| SRM7-M | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North |  | 855.529.4.10 | 🔴 `#FE4949` | Yes | 24 |
-| SRM7-N3L2 | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North |  | 855.529.4.17 | 🔴 `#FE4949` |  | 16 |
-| SRM7-N4L2 | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North |  | 855.529.4.8 | 🔴 `#FE4949` |  | 18 |
-| SPRM7-N4L3 |  |  | private | SOYUZ&nbsp;private |  |  | 855.529.4.14 | 🔴 `#FE4949` |  | 16 |
-| SRRM7 |  |  | restricted | 17M23GS |  |  | 852.530.1.1 | 🔴 `#FE4949` |  | 38 |
-| URM7-S5L2 | USOL | USOL | public | USOL&nbsp;public | USOL RM7 South |  | 855.529.5.2 | 🔵 `#88DCFA` |  | 11 |
-| URM7-M | USOL | USOL | public | USOL&nbsp;public | USOL RM7 South |  | 855.529.5.1 | 🔵 `#88DCFA` | Yes | 25 |
-| URM7-H | USOL | USOL | public | USOL&nbsp;public | USOL RM7 South |  | 855.529.5.0 | 🔵 `#88DCFA` |  | 24 |
-| URM7-W4L2 | USOL | USOL | public | USOL&nbsp;public | USOL RM7 South |  | 855.529.4.12 | 🔵 `#88DCFA` |  | 17 |
-| UPRM7-S3L2 |  |  | private | USOL&nbsp;private |  |  | 855.529.5.33 | 🔵 `#88DCFA` |  | 18 |
-| URRM7 |  |  | restricted | X61DCT |  |  | 760.129.3.0 | 🔵 `#88DCFA` |  | 34 |
-| EM[RM7-E2L2] |  |  | restricted | EMERMODE |  |  | 855.529.2.2 | ⚪ `#D5DECB` |  | 11 |
-| EM[undefined] |  |  | restricted | EMERMODE |  |  | 855.529.4.22 | ⚪ `#D5DECB` |  | 15 |
+| RM7-W3L1 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West | REPNODE-M7&nbsp;deck&nbsp;3-1S | 855.529.3.1 | ⚪ `#D5DECB` |  | 17 |
+| RM7-E1SCP | CEDRT | COR3 | private | CEDRT&nbsp;private | REPNODE-M7 East | REPNODE-M7&nbsp;deck&nbsp;1-S2 | 855.529.1.2 | ⚪ `#D5DECB` |  | 12 |
+| RM7-N2ECP | CEDRT | COR3 | private | CEDRT&nbsp;private | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-N2 | 855.529.4.13 | ⚪ `#D5DECB` |  | 12 |
+| RM7-W3NCP | CEDRT | COR3 | private | CEDRT&nbsp;private | REPNODE-M7 West | REPNODE-M7&nbsp;deck&nbsp;3-15 | 855.529.3.7 | ⚪ `#D5DECB` |  | 13 |
+| RM7-E1L2CT | CEDRT | Christopher Selm Tong | private | CEDRT&nbsp;private | REPNODE-M7 East | REPNODE-M7&nbsp;deck&nbsp;1-13 | 855.529.1.13 | ⚪ `#D5DECB` |  | 7 |
+| RM7-S4WCP | CEDRT | COR3 | private | CEDRT&nbsp;private | REPNODE-M7 West | REPNODE-M7&nbsp;deck&nbsp;2-4 | 855.529.2.0 | ⚪ `#D5DECB` |  | 13 |
+| RM7-A2ES | CEDRT | COR3 | private | CEDRT&nbsp;private | REPNODE-M7 Authority | REPNODE-M7&nbsp;deck&nbsp;1-7 | 855.529.8.2 | ⚪ `#D5DECB` |  | 20 |
+| D4RK&nbsp;RM7CE | --//UNDEFINED//-- | --//UNDEFINED//-- | public | D4RK&nbsp;T4 | D4RK RM7 | REPNODE-M7&nbsp;deck&nbsp;1-34 | 855.528.0.4 | ⚫ `#4B4B4B` |  | 15 |
+| D4RK&nbsp;RM7MI | --//UNDEFINED//-- | --//UNDEFINED//-- | public | D4RK&nbsp;T4 | D4RK RM7 | REPNODE-M7&nbsp;deck&nbsp;2-29 | 855.528.0.12 | ⚫ `#4B4B4B` | Yes | 15 |
+| D4RK&nbsp;RM7EG | --//UNDEFINED//-- | --//UNDEFINED//-- | public | D4RK&nbsp;T4 | D4RK RM7 | REPNODE-M7&nbsp;deck&nbsp;2-30 | 855.528.0.14 | ⚫ `#4B4B4B` |  | 15 |
+| D4RK&nbsp;T43272 | --//UNDEFINED//-- | --//UNDEFINED//-- | public | D4RK&nbsp;T4 | 432 | --//UNDEFINED//-- | 853.172.2.2 | ⚫ `#4B4B4B` |  | 20 |
+| D4RK&nbsp;T43274 | --//UNDEFINED//-- | --//UNDEFINED//-- | public | D4RK&nbsp;T4 | 432 | --//UNDEFINED//-- | 853.172.2.4 | ⚫ `#4B4B4B` |  | 22 |
+| D4RK&nbsp;2IV2 | --//UNDEFINED//-- | --//UNDEFINED//-- | restricted | D4RK&nbsp;2IV | D4RK RM7 | REPNODE-M7&nbsp;deck&nbsp;1-34 | 855.528.0.2 | ⚫ `#4B4B4B` |  | 22 |
+| D4RK&nbsp;2IV0/3 | --//UNDEFINED//-- | --//UNDEFINED//-- | restricted | D4RK&nbsp;2IV | 432 | --//UNDEFINED//-- | 853.172.0.3 | ⚫ `#4B4B4B` |  | 25 |
+| B43271N | --//UNDEFINED//-- | --//UNDEFINED//-- | private | D4RK/B1N | 432 | --//UNDEFINED//-- | 854.266.7.1 | ⚫ `#4B4B4B` |  | 27 |
+| B43272N | --//UNDEFINED//-- | --//UNDEFINED//-- | private | D4RK/B1N | 432 | --//UNDEFINED//-- | 854.266.7.2 | ⚫ `#4B4B4B` |  | 36 |
+| B43274N | --//UNDEFINED//-- | --//UNDEFINED//-- | private | D4RK/B1N | 432 | --//UNDEFINED//-- | 854.266.7.4 | ⚫ `#4B4B4B` |  | 8 |
+| SRM7-N3L1 | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North | REPNODE-M7&nbsp;deck&nbsp;4-6 | 855.529.4.6 | 🔴 `#FE4949` |  | 12 |
+| SRM7-M | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North | REPNODE-M7&nbsp;deck&nbsp;4-12SM | 855.529.4.10 | 🔴 `#FE4949` | Yes | 24 |
+| SRM7-N3L2 | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North | REPNODE-M7&nbsp;deck&nbsp;4-20 | 855.529.4.17 | 🔴 `#FE4949` |  | 16 |
+| SRM7-N4L2 | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North | REPNODE-M7&nbsp;deck&nbsp;4-7 | 855.529.4.8 | 🔴 `#FE4949` |  | 18 |
+| SPRM7-N4L3 | SOYUZ | SOYUZ | private | SOYUZ&nbsp;private | SOYUZ RM7 North | REPNODE-M7&nbsp;deck&nbsp;4-19 | 855.529.4.14 | 🔴 `#FE4949` |  | 16 |
+| SRRM7 | SOYUZ | SOYUZ | restricted | 17M23GS | Restricted | M-Marker&nbsp;2P53 | 852.530.1.1 | 🔴 `#FE4949` |  | 38 |
+| URM7-S5L2 | USOL | USOL | public | USOL&nbsp;public | USOL RM7 South | REPNODE-M7&nbsp;deck&nbsp;2-19 | 855.529.5.2 | 🔵 `#88DCFA` |  | 11 |
+| URM7-M | USOL | USOL | public | USOL&nbsp;public | USOL RM7 South | REPNODE-M7&nbsp;deck&nbsp;1-15 | 855.529.5.1 | 🔵 `#88DCFA` | Yes | 25 |
+| URM7-H | USOL | USOL | public | USOL&nbsp;public | USOL RM7 South | REPNODE-M7&nbsp;deck&nbsp;1-24 | 855.529.5.0 | 🔵 `#88DCFA` |  | 24 |
+| URM7-W4L2 | USOL | USOL | public | USOL&nbsp;public | USOL RM7 South | REPNODE-M7&nbsp;deck&nbsp;3-7A | 855.529.4.12 | 🔵 `#88DCFA` |  | 17 |
+| UPRM7-S3L2 | USOL | USOL | private | USOL&nbsp;private | USOL RM7 South | REPNODE-M7&nbsp;deck&nbsp;1-17U | 855.529.5.33 | 🔵 `#88DCFA` |  | 18 |
+| URRM7 | USOL | USOL | restricted | X61DCT | Restricted | 4UF&nbsp;Silent&nbsp;Vigil | 760.129.3.0 | 🔵 `#88DCFA` |  | 34 |
+| EM[RM7-E2L2] | CEDRT | COR3 | restricted | EMERMODE | REPNODE-M7 East | REPNODE-M7&nbsp;deck&nbsp;2-29 | 855.529.2.2 | ⚪ `#D5DECB` |  | 11 |
+| EM[undefined] | CEDRT | COR3 | restricted | EMERMODE | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-21 | 855.529.4.22 | ⚪ `#D5DECB` |  | 15 |
 
 ## Defense rates
 * 0
