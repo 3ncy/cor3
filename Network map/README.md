@@ -156,13 +156,13 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 | RM7-S4L4 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South | REPNODE-M7&nbsp;deck&nbsp;2-17 | 855.529.2.4 | ⚪ `#D5DECB` |  | 5 |
 | RM7-N2L2 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-16 | 855.529.4.2 | ⚪ `#D5DECB` |  | 13 |
 | RM7-N2L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-8 | 855.529.4.3 | ⚪ `#D5DECB` |  | 12 |
-| RM7-W3L2 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West |  | 855.529.3.2 | ⚪ `#D5DECB` |  | 15 |
+| RM7-W3L2 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West | REPNODE-M7&nbsp;deck&nbsp;3-2 | 855.529.3.2 | ⚪ `#D5DECB` |  | 15 |
 | RM7-N1L1 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-1 | 855.529.4.1 | ⚪ `#D5DECB` |  | 13 |
 | RM7-S4L1 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South | REPNODE-M7&nbsp;deck&nbsp;2-8 | 855.529.2.1 | ⚪ `#D5DECB` |  | 12 |
 | RM7-S4L2 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South | REPNODE-M7&nbsp;deck&nbsp;2-14 | 855.529.2.12 | ⚪ `#D5DECB` |  | 12 |
 | RM7-S4L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South | REPNODE-M7&nbsp;deck&nbsp;2-15B | 855.529.2.3 | ⚪ `#D5DECB` |  | 13 |
 | RM7-W3L4 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West | REPNODE-M7&nbsp;deck&nbsp;3-7 | 855.529.3.4 | ⚪ `#D5DECB` |  | 15 |
-| RM7-W3L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West |  | 855.529.3.3 | ⚪ `#D5DECB` |  | 17 |
+| RM7-W3L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West | REPNODE-M7&nbsp;deck&nbsp;3-12 | 855.529.3.3 | ⚪ `#D5DECB` |  | 17 |
 | RM7-W3L1 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West | REPNODE-M7&nbsp;deck&nbsp;3-1S | 855.529.3.1 | ⚪ `#D5DECB` |  | 17 |
 | RM7-E1SCP | CEDRT | COR3 | private | CEDRT&nbsp;private | REPNODE-M7 East | REPNODE-M7&nbsp;deck&nbsp;1-S2 | 855.529.1.2 | ⚪ `#D5DECB` |  | 12 |
 | RM7-N2ECP | CEDRT | COR3 | private | CEDRT&nbsp;private | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-N2 | 855.529.4.13 | ⚪ `#D5DECB` |  | 12 |
