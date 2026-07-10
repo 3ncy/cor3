@@ -27,10 +27,18 @@
 
 ## Entry 3: The Way
 ### 3.1: Back to Basics
-* [Forum screenshot](/Chris_Tong_Intel/Forum_Screenshot.png)
-* [Dossier C.S.Tong](/Chris_Tong_Intel/Dossier%20C.S.%20Tong.png)
 * [Backstory](./Entry%203%20The%20Way/Backstory.txt)
 * [I Arrived](./Entry%203%20The%20Way/I%20Arrived.md)
+* [Dossier C.S.Tong](/Chris_Tong_Intel/Dossier%20C.S.%20Tong.png)
+* [Forum screenshot](/Chris_Tong_Intel/Forum_Screenshot.png)
+* [Market](./Entry%203%20The%20Way/Market.md)
+* [Unknown File](./Entry%203%20The%20Way/Market.md)
+* [Drone Schematic](./Entry%203%20The%20Way/Drone%20Schematic.md)
+* [KRVA_BB.eb52x](/KRVA_BB.png.jpg)
+* [Component board tx-71review (Tong)](/Component_board_tx-71tong.txt.md)
+* [Worth Checking](./Entry%203%20The%20Way/Worth%20Checking.md)
+* [Email: From: Chris Tong](/Email%20From%20Chris_Tong.txt.md)
+* [Mantis drone R4RD(Tong)](/Mantis_drone_R4RD(TONG).png.jpg)
 
 ### 3.2: Broken Server
 * [CEDRT Mainframe](./Entry%203%20The%20Way/CEDRT%20Mainframe.md)
@@ -45,7 +53,6 @@
     These two entries appear after downloading the file `cufgu ab ginhu Koute.png` from the server RM7-S4L4.
 * [Hochmetall Security — Internal Inspection Order](/Hochmetall%20Security%20—%20Internal%20Inspection%20Order.png)  
     This entry appears after downloading the file `Hochmetall Security — Internal Inspection Order` from the server URM7-S5L2. The file contains the url [kouteoutpostadministration.corie](/Browser/kouteoutpostadministration.corie/).
-
 
 ## News
 ### News

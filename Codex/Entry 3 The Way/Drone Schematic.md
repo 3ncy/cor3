@@ -1,0 +1,1 @@
+So, this is a drone schematic, and there's a link in the image metadata. I should probably check it before contacting Aurana.
