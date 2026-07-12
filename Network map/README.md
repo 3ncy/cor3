@@ -146,6 +146,8 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 
 ### URM7-S5L2
 * [Hochmetall Security — Internal Inspection Order.png](/Hochmetall%20Security%20—%20Internal%20Inspection%20Order.png)
+* [koute_message_fragment.txt](/koute_message_fragment.txt.md)
+* [MARKET_DIGITAL_SIGNATURES.dat]
 
 ## Server information
 | Server Name | Faction | Owner| Transit | Type | Cluster | Location  | IP | Color | Market | Defence Rate |

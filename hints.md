@@ -2,7 +2,7 @@
 ```
 You can write Unknown
 ```
-After opening [cufgu ab ginhu Koute.png](/cufgu%20ab%20ginhu%20Koute.png).
+After opening [cufgu ab ginhu Koute.png](/cufgu%20ab%20ginhu%20Koute.png) and the [Personal Log — PALIMPSEST cipher](/Codex/Entry%203%20The%20Way/Personal%20Log%20—%20PALIMPSEST%20cipher.md) Codex entry.
 
 ```
 hints.act3.loop301.step10

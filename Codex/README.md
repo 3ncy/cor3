@@ -49,10 +49,13 @@
 
 ### Black Ledger
 * [Personal Log — PALIMPSEST cipher](./Entry%203%20The%20Way/Personal%20Log%20—%20PALIMPSEST%20cipher.md)
+    * [Personal Log — Koute debrief](./Entry%203%20The%20Way/Personal%20Log%20—%20Koute%20debrief.md)
+    * [Personal Log — signature package](./Entry%203%20The%20Way/Personal%20Log%20—%20signature%20package.md)
 * [cufgu ab ginhu Koute](/cufgu%20ab%20ginhu%20Koute.png)  
     These two entries appear after downloading the file `cufgu ab ginhu Koute.png` from the server RM7-S4L4.
 * [Hochmetall Security — Internal Inspection Order](/Hochmetall%20Security%20—%20Internal%20Inspection%20Order.png)  
     This entry appears after downloading the file `Hochmetall Security — Internal Inspection Order` from the server URM7-S5L2. The file contains the url [kouteoutpostadministration.corie](/Browser/kouteoutpostadministration.corie/).
+* [koute_message_fragment.txt](/koute_message_fragment.txt.md)
 
 ## News
 ### News
