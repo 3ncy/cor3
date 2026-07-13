@@ -10,6 +10,7 @@ Only some sites get automatically added to the Browser sidebar, likely indicatin
 * [CiTo16 Drone Files](./cito16-storage.corie/)
 * [CoreTech](./coretech.corie/)
 * [CORIE System](./welcome.corie/)
+* [4D4RK JUMP3RS.net](./4D4RKJUMP3RS.corie/)
 * [F-10BT UST](./f-10bt-ust/)
 * [GRAVER Forum](./grvforum.corie/)
 * [Infinite Memory](./infinite_memory.corie/)

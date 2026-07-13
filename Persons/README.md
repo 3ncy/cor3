@@ -34,3 +34,4 @@ People with 6-digit ID who have been used the story so far
 * [Thomas Albertson](./Thomas%20Albertson/)
 * [Vladimir Semakin](./Vladimir%20Semakin/) - he adds you automatically, it's not necessary (nor possible) to add him
 * [Daniel Bailey](./Daniel%20Bailey/)
+* [Ozren Navratil](./Ozren%20Navratil/) - ID is from [Valeriani_TM_Ozren_Navratil_request_3.odt](/Valeriani_TM_Ozren_Navratil_request_3.odt.md)

@@ -57,6 +57,21 @@
     This entry appears after downloading the file `Hochmetall Security — Internal Inspection Order` from the server URM7-S5L2. The file contains the url [kouteoutpostadministration.corie](/Browser/kouteoutpostadministration.corie/).
 * [koute_message_fragment.txt](/koute_message_fragment.txt.md)
 
+## Martian Silence
+## 1: Private Matters
+* [Personal Log](./Martian%20Silence/Personal%20Log.md)
+    * Personal Log — Garrett Sloane lead
+    * Personal Log — darknet bargain
+    * Personal Log — ChuckTheFerry lead
+    * Personal Log — ChuckTheFerry favour
+    * Personal Log — laser comms lead
+    * Personal Log — Urizen satellite
+    * Personal Log — waiting on ChuckTheFerry
+* [Valeriani_TM_Ozren_Navratil_request_3.odt](/Valeriani_TM_Ozren_Navratil_request_3.odt.md)
+* [message_4237122_secured](/message_4237122_secured.dat.md)
+* [d4_CTF_lott0792.png](/d4_CTF_lott0792.png)
+* [Svyaz_PTLS2_LUCh.jpg](/Svyaz_PTLS2_LUCh.jpg.png)
+
 ## News
 ### News
 * [News Bulletin #1](./News/News%20Bulletin%20%231.md)

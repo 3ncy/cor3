@@ -149,9 +149,13 @@ Path related to the Nutcracker website
 #### krejklejvhbkj54hgkjkjehekbe
 * [ad_note.png](/ad_note.png) - [dfkljhrekbhrkjrtdhnvkjs](https://cdn.cor3.gg/corie/loops/acts/3/krejklejvhbkj54hgkjkjehekbe/dfkljhrekbhrkjrtdhnvkjs.png)
 
-#### ghjrehgkjncdskjbrhkjew
+#### ghjrehgkjncdskjbrhkjew - Black Ledger
 * [cufgu ab ginhu Koute.png](/cufgu%20ab%20ginhu%20Koute.png) - [hjrekjewhvkjdfnbhfjkvwe](https://cdn.cor3.gg/corie/loops/acts/3/ghjrehgkjncdskjbrhkjew/hjrekjewhvkjdfnbhfjkvwe.png)
 * [Hochmetall Security — Internal Inspection Order.png](/Hochmetall%20Security%20—%20Internal%20Inspection%20Order.png) - [k35j4glhbrekjgfwcfdbf](https://cdn.cor3.gg/corie/loops/acts/3/ghjrehgkjncdskjbrhkjew/k35j4glhbrekjgfwcfdbf.png)
+
+#### 43lghewchgvrhjvf - Private MAtters
+* [d4_CTF_lott0792.png](/d4_CTF_lott0792.png) - [htrklejgvlktrjbklvdsjhjkfgnk](https://cdn.cor3.gg/corie/loops/acts/3/43lghewchgvrhjvf/htrklejgvlktrjbklvdsjhjkfgnk.png)
+* [Svyaz_PTLS2_LUCh.jpg](/Svyaz_PTLS2_LUCh.jpg.png) - [tnkjrlbekjntykljbevklsdjhkgfnf](https://cdn.cor3.gg/corie/loops/acts/3/43lghewchgvrhjvf/tnkjrlbekjntykljbevklsdjhkgfnf.png)
 
 ---
 
