@@ -1,3 +1,11 @@
+## 15th July
+```
+PALIMPSEST is sweeping the debris field. Sit tight.
+```
+```
+Download blackbox.log from Space_Junk and crack it open
+```
+
 ## 26th June
 ```
 You can write Unknown
