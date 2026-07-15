@@ -21,7 +21,7 @@
 | Mira Kael | Mars | CEDRT Members |
 | Anton Sable | Mars | CEDRT Members |
 
---
+---
 
 > [!NOTE]
 > Attempting to open this file prior to update 3.58.20 only said the following:

@@ -160,6 +160,10 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 
 ### B43274N
 * d4_CTF_lott0792_p2.vrnm -> [d4_CTF_lott0792.png]
+* [blackbox.log](/blackbox.log)
+
+### B43273N
+* [chat_fragments.txt](/chat_fragments.txt)
 
 ## Server information
 | Server Name | Faction | Owner| Transit | Type | Cluster | Location  | IP | Color | Market | Defence Rate |

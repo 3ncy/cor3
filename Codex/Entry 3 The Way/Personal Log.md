@@ -4,6 +4,11 @@ Also, there are 2 more sets of IP's I need to check. Hopefully it'll be easy, bu
 
 First things first — the decryption software. Let's search the market.
 
+> [!NOTE]
+> The following is added after downloading and opening the file [chat_fragments.txt](/chat_fragments.txt).
+
+Bingo. 5CRYPt0L 0J. That's exactly what I need. A military-grade decryption suite. And of course, it's not on the regular market — it's on some invite-only black market node. "Koute Secure Hub"... this might take a while to crack into. Maybe my contacts at Palimpest have a backdoor, or I can try to find this node myself.
+
 ---
 
 > [!NOTE]

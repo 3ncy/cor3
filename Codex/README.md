@@ -46,6 +46,9 @@
 
 ### 3.3: Ghost Protocol
 * [Personal Log](./Entry%203%20The%20Way/Personal%20Log.md)
+    * Personal Log — 5CRYPt0L 0J lead
+* [chat_fragments.txt](/chat_fragments.txt)
+* [attack_logs.log](/attack_logs.log.md)
 
 ### Black Ledger
 * [Personal Log — PALIMPSEST cipher](./Entry%203%20The%20Way/Personal%20Log%20—%20PALIMPSEST%20cipher.md)

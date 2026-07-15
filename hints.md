@@ -1,10 +1,27 @@
 ## 15th July
 ```
+An old log on B43273N mentions "5CRYPt0L 0J". Read chat_fragments.txt to find out where to get it.
+```
+
+```
+Reach out to PALIMPSEST. They might have a backdoor to 5CRYPt0L 0J
+```
+After reading the file [chat_fragments.txt](/chat_fragments.txt).
+
+```
+Download blackbox.log from Space_Junk and crack it open.
+```
+After talking with Unkown about their cache in a debris field.
+
+```
 PALIMPSEST is sweeping the debris field. Sit tight.
 ```
+After reporting back to Unknown after reading [blackbox.log](/blackbox.log).
+
 ```
-Download blackbox.log from Space_Junk and crack it open
+The Engineer is ready to work with you. Open the specialists panel to review the upgrade tiers.
 ```
+Something with the Stash expansion quest.
 
 ## 26th June
 ```
@@ -26,7 +43,7 @@ After ???
 ```
 An old log on B43273N mentions "5CRYPt0L 0J". Read chat_fragments.txt to find out where to get it.
 ```
-Appeared after a client update to version v1.20.51 and became actually readable in the version v1.20.57.
+Appeared after a client update to version v1.20.51 and became actually readable in the version v1.20.57. Became useful only in the version v1.22.22 on 15th July
 
 ## Update 3.41.0, new content
 ```
