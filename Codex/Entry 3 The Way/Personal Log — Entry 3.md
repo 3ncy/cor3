@@ -1,0 +1,1 @@
+Okay. So that's what he was looking for. A flight model, programming and all the manuals including the materials used. Full engineering documentation basically. That was definitely worth it.

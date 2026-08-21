@@ -124,3 +124,34 @@ Player:
 
 This unlocks [CEDRT Work Chat](/Messenger/CEDRT%20Work%20Chat/).
 
+---
+
+...
+
+Aurana:
+> Only by delivering a message directly. Or if you have a laser broadcaster (or something similar) that establishes a direct connection between a pair of receivers.
+
+Player:
+> How can I get those ?
+
+This interaction awards 35000 credits and 25 reputation.
+
+...
+
+Aurana:
+> So, as promised, I have talked to our technicians and they said you should be able to do it.
+
+Player:
+> Do what?
+
+Aurana:
+> Construct a drone.
+
+Player:
+> What do you mean? What drone?
+
+Aurana:
+> The one that would deliver all necessary things to the planet's surface and work as a retranslator \\ camera \\ speaker \\ manipulator or whatever you need.
+
+...
+

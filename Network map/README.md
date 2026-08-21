@@ -146,6 +146,10 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 
 ### RM7-S4L4
 * [cufgu ab ginhu Koute.png](/cufgu%20ab%20ginhu%20Koute.png)
+* [Co4_T0ALL_651_e23.wav](/Co4_T0ALL_651_e23.wav)
+
+### RM7-S4L2
+* [USSDP-V1250_Rep.AD64](/USSDP-V1250_Rep.AD64.md)
 
 ### URM7-S5L2
 * [Hochmetall Security — Internal Inspection Order.png](/Hochmetall%20Security%20—%20Internal%20Inspection%20Order.png)
@@ -167,6 +171,9 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 
 ### B43273N
 * [chat_fragments.txt](/chat_fragments.txt)
+
+### RM7-W3L3
+* [Mantis_Blueprints.vbt](/Mantis_Blueprints.vbt.png)
 
 ## Server information
 | Server Name | Faction | Transit | Type | Cluster | Location  | IP | Color | Owner | Market | Defence Rate |

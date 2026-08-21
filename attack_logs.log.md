@@ -28,3 +28,6 @@
 
 ACCESS DENIED  
 Unsupported software by current version of CORIE.
+
+> [!NOTE]
+> With update 3.85.0 the file has been renamed to `attack_logs.jjqv` and needs to be decrypted using 5CRYPt0L 0J. The content stayed the same.

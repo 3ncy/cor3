@@ -2,6 +2,36 @@
 ```
 Open attack_logs.jjqv with 5CRYPt0L 0J in your loadout to decrypt it.
 ```
+Right out of the gate after the 3.85.0 update. It is the default hint unless a different questline is being actively progressed.
+
+```
+Report the CEDRT names list to Chris Tong.
+```
+After decrypting the file
+
+```
+Update Aurana on what you found.
+```
+After talking about the contents of [attack_logs.log](/attack_logs.log.md) with Christopher Tong on the CEDRT Work Chat.
+
+```
+Talk to Chris Tong about building the drone.
+Open Messenger and start the conversation.
+```
+After talking to Aurana and finding out you should build a drone.
+
+```
+Chris gave you three tasks: get the FARLINE crimper, hack the ViBOT archive for the Mantis documentation, and settle his debt with Moses Burns. Work them in parallel.
+```
+
+```
+Talk to Chris Tong about the workshop options.
+```
+After completing all first three tasks in Stage 01 of drone assembling.
+
+```
+Choose a workshop through the drone page, then wait for it to be prepared.
+```
 
 ### June quest
 

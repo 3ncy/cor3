@@ -47,8 +47,17 @@
 ### 3.3: Ghost Protocol
 * [Personal Log](./Entry%203%20The%20Way/Personal%20Log.md)
     * Personal Log — 5CRYPt0L 0J lead
+    * [Personal Log — CEDRT names](./Entry%203%20The%20Way/Personal%20Log%20—%20CEDRT%20names.md)
 * [chat_fragments.txt](/chat_fragments.txt)
 * [attack_logs.log](/attack_logs.log.md)
+
+### 3.4: Wings of Mars
+* [Personal Log — Entry 1](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%201.md)
+* [Personal Log — Entry 2](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%202.md)
+* [Personal Log — Entry 3](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%203.md)
+* [Personal Log — Entry 4](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%204.md) - paying off the 30000 credit debt in drone assembling Stage 01
+* [Personal Log — Entry 5](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%205.md) - choosing a workshop on Stage 02
+* [Mantis-class Blueprints](/Mantis_Blueprints.vbt.png)
 
 ### Black Ledger
 * [Personal Log — PALIMPSEST cipher](./Entry%203%20The%20Way/Personal%20Log%20—%20PALIMPSEST%20cipher.md)

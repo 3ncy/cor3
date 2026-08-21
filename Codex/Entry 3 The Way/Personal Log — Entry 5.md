@@ -1,0 +1,1 @@
+So, here we are. Even considering this place still needs lots of work to make it work well - its ours. I just hope the walls dont collapse when Chris starts his experimets

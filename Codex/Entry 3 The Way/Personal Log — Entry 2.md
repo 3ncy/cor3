@@ -1,0 +1,1 @@
+Okay. Time to play a hacking game. These servers are supposed to be hard to crack, but my software thinks otherwise. Let's hope it's right and I'm not a dumb idiot handing myself into Council Security right away. Need to be very cautious with that stuff, there could be self-erase triggers in there.
