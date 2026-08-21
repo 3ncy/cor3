@@ -1,0 +1,1 @@
+Following the conversation about an alleged "leak", which happens after the emergency notification from [CEDRT Work Chat](/Messenger/CEDRT%20Work%20Chat/), the codex entry `019f846d-07e8-7e96-9988-483505f2d919` is unlocked.

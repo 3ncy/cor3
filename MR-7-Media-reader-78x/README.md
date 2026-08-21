@@ -25,3 +25,6 @@ Fragments on the timeline:
 18. [17_noise_b_441_02](./17_noise_b_441_02.png) - 2204
 19. [img_cache_f91](./img_cache_f91.mp4) - 2230
 20. [blk_0a91c_f](./blk_0a91c_f.png)
+
+## Seconds drive
+During Act 3 in the Juno [quest](/Quests.md), it is possible to unlock a second drive [USSDP-V1250_Rep](./USSDP-V1250_Rep/) containing a different timeline.

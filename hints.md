@@ -1,3 +1,45 @@
+## 21 August - Updates 3.78.0 and 3.85.0
+```
+Open attack_logs.jjqv with 5CRYPt0L 0J in your loadout to decrypt it.
+```
+
+### June quest
+
+```
+Contact Chris Tong in Messenger and ask him what the emergency notification is about.
+```
+After reading the message from CEDRT Official in [CEDRT Work Chat](/Messenger/CEDRT%20Work%20Chat/).
+
+```
+Contact Aurana in Messenger and ask her what she knows about the leak.
+```
+After talking to [Chris Tong](/Messenger/Christopher%20Tong/) as instructed.
+
+```
+Nothing to do right now — wait for the CIS to address the station.
+```
+After chatting with Aurana.
+
+```
+Open the CEDRT work chat again and read the CIS notice from Gabriel Anhelicos.
+```
+Roughly 5 minutes later.
+
+```
+Sweep the CEDRT servers on the Network Map: download Co4_T0ALL_651_e23.wav from RM7-S4L4 and open it.
+```
+Reading the message.
+
+```
+Keep sweeping the network: download USSDP-V1250_Rep.AD64 from RM7-S4L2 and open it.
+```
+Opening the file [Co4_T0ALL_651_e23.wav](/Co4_T0ALL_651_e23.wav).
+
+```
+The container is unpacked — open the media reader to view the new USSDP-V1250_Rep disk.
+```
+Opening the file [USSDP-V1250_Rep.AD64](/USSDP-V1250_Rep.AD64.md).
+
 ## 15th July
 ```
 An old log on B43273N mentions "5CRYPt0L 0J". Read chat_fragments.txt to find out where to get it.
@@ -22,6 +64,10 @@ After reporting back to Unknown after reading [blackbox.log](/blackbox.log).
 The Engineer is ready to work with you. Open the specialists panel to review the upgrade tiers.
 ```
 Something with the Stash expansion quest.
+
+```
+Choose a workshop through the drone page, then wait for it to be prepared.
+```
 
 ## 26th June
 ```

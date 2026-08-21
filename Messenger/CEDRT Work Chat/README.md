@@ -63,3 +63,17 @@ Player:
 > Will do, Sir.
 
 A new [Codex](/Codex/) entry [Personal Log](/Codex/Entry%203%20The%20Way/Personal%20Log.md) is unlocked.
+
+---
+CEDRT Official:
+> REPNODE M-7 EMERGENCY NOTIFICATION  
+> ALL ENGINEERING PERSONNEL PLEASE REPORT TO YOUR DIRECT SUPERIORS FOR EMERGENCY REPAIRS
+
+Gabriel Anhelicos:
+> Fellow CORE members. This is the time when CIS would require your cooperation. There has been a data leak because of which some sensitive information might have been disclosed to a wider public. Whether that happened or not, in fact, is not certain. We believe that the data might have been stolen and temporarily stored on one of the devices on the station's network.
+> 
+> Therefore we ask all of you to check your work stations and available consoles and look for the irregular files or information that you may come upon. Report your findings immediately. Do not attempt to open or interact with said files in any way.
+> 
+> We will be looking to hear from you in the next 24 hours.
+> 
+> CIS Internal Affairs officer - Gabriel Anhelicos

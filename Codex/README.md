@@ -60,6 +60,13 @@
     This entry appears after downloading the file `Hochmetall Security — Internal Inspection Order` from the server URM7-S5L2. The file contains the url [kouteoutpostadministration.corie](/Browser/kouteoutpostadministration.corie/).
 * [koute_message_fragment.txt](/koute_message_fragment.txt.md)
 
+### 2251 Crisis / June
+* [Personal Log — a leak](./Entry%203%20The%20Way/Personal%20Log%20—%20a%20leak.md)
+    * [Personal Log — the CIS sweep](./Entry%203%20The%20Way/Personal%20Log%20—%20the%20CIS%20sweep.md)
+    * [Personal Log — the broadcast that got through](./Entry%203%20The%20Way/Personal%20Log%20—%20the%20broadcast%20that%20got%20through.md)
+    * [Personal Log — the sealed report](./Entry%203%20The%20Way/Personal%20Log%20—%20the%20sealed%20report.md)
+* [Intercepted broadcast — Co4_T0ALL_651_e23](./Entry%203%20The%20Way/Intercepted%20broadcast%20—%20Co4_T0ALL_651_e23.md)
+
 ## Martian Silence
 ## 1: Private Matters
 * [Personal Log](./Martian%20Silence/Personal%20Log.md)
