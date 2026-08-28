@@ -1,5 +1,12 @@
+## 22 August
+### Terra Matter's Broken Promise
+```
+Check the RM7-N2ECP server. There's a file there with a name - someone connected to Terra Matter. Open a line to him, and you can talk with him about the Terra Matter promises.
+```
+Opening the ["Terra Matter's..."](/News/Terra%20Matter's%20Broken%20Promise%20Whispers%20of%20a%20Corporate%20Mirage%20Grow%20Louder.md) news entry.
+
 ## 21 August - Updates 3.78.0 and 3.85.0
-## Modest Price Uptick
+### Modest Price Uptick
 ```
 SNN reports a market uptick — and a directive for AVEN Supply administrators just surfaced on relay node RM7-E1L5. Download AVEN_SUPPLY_priority_instruction1_15052251.doc.
 ```
@@ -9,10 +16,10 @@ Open the downloaded AVEN Supply directive on your desktop.
 ```
 After downloading it.
 
-## Lunar Arcade
+### Lunar Arcade
 None. Literally just open the news article and you complete the quest.
 
-## Wings of Mars
+### Wings of Mars
 ```
 Open attack_logs.jjqv with 5CRYPt0L 0J in your loadout to decrypt it.
 ```
@@ -45,6 +52,21 @@ After completing all first three tasks in Stage 01 of drone assembling.
 
 ```
 Choose a workshop through the drone page, then wait for it to be prepared.
+```
+
+```
+Chris is waiting in Messenger to explain the materials deposit.
+```
+Next day after the hangar time passes.
+
+```
+Pay Chris Tong the 10,000 credit materials deposit through the drone page.
+```
+```
+Chris is waiting in Messenger to explain the drone license problem.
+```
+```
+Find TRN_OPERATOR_L3.JJQV on RM7-A2ES through SAI, decrypt it, and read the decoded file.
 ```
 
 ### June quest
