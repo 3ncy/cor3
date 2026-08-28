@@ -9,6 +9,10 @@ Open the downloaded AVEN Supply directive on your desktop.
 ```
 After downloading it.
 
+## Lunar Arcade
+None. Literally just open the news article and you complete the quest.
+
+## Wings of Mars
 ```
 Open attack_logs.jjqv with 5CRYPt0L 0J in your loadout to decrypt it.
 ```
