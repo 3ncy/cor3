@@ -68,6 +68,21 @@ Chris is waiting in Messenger to explain the drone license problem.
 ```
 Find TRN_OPERATOR_L3.JJQV on RM7-A2ES through SAI, decrypt it, and read the decoded file.
 ```
+```
+Upload the decrypted TRN_OPERATOR_L3 back onto RM7-A2ES through SAI to plant the forged license entry.
+```
+```
+Submit the forged drone license application through the drone page, wait 15 seconds, then collect the license and tell Chris it is in.
+```
+```
+Complete the next drone build step: clothing, provisions, and production cables.
+```
+After talking to Chris and submitting the license.
+
+```
+Complete the next drone build step: Nergalium, NIC materials, coolant, and the power bus check.
+```
+After completing Stage 05 in drone assembling.
 
 ### June quest
 

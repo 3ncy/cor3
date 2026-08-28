@@ -88,3 +88,20 @@ P:
 > Got it. I'll think it over.
 
 This allows the player to choose the hangar in drone assembly in Stage 02.
+
+---
+
+...
+
+Paying for the seeding in [](/Expeditions/Personal%20drone%20assembling.md) unlocks the Codex entry 6 [](/Codex/Entry%203%20The%20Way/Personal%20Log%20—%20Entry%206.md)
+
+...
+
+C:
+> Make a license yourself. It will obviously be a fake one with a chance that it will not work and you get a fine (and that's the best case), but if you feel lucky you can try that. I do not know which steps would you have to take to make that happen though. So it's all on you. All I can do is "approve" the application when you get it into the system.
+
+P:
+> Rules are just obstacles. I'll handle it myself.
+
+Unlocks the Codex entry [7](/Codex/Entry%203%20The%20Way/Personal%20Log%20—%20Entry%207.md).
+

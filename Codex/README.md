@@ -57,6 +57,9 @@
 * [Personal Log — Entry 3](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%203.md)
 * [Personal Log — Entry 4](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%204.md) - paying off the 30000 credit debt in drone assembling Stage 01
 * [Personal Log — Entry 5](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%205.md) - choosing a workshop on Stage 02
+* [Personal Log — Entry 6](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%206.md) - having to pay in Stage 03
+* [Personal Log — Entry 7](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%207.md) - agreeing to forget the license in Stage 04
+* [Personal Log — Entry 8](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%208.md) - submitting the forged license
 * [Mantis-class Blueprints](/Mantis_Blueprints.vbt.png)
 
 ### Black Ledger

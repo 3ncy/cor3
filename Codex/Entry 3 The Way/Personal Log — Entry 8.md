@@ -1,0 +1,1 @@
+Forged the license. I feel very uneasy but Chris says that it should be all right. Let's hope that the entry won't be erased during the sync, otherwise we'r fucked. Moving on now, but i'v got a bad feeling about it
