@@ -1,4 +1,14 @@
 ## 21 August - Updates 3.78.0 and 3.85.0
+## Modest Price Uptick
+```
+SNN reports a market uptick — and a directive for AVEN Supply administrators just surfaced on relay node RM7-E1L5. Download AVEN_SUPPLY_priority_instruction1_15052251.doc.
+```
+Upon opening the news report.
+```
+Open the downloaded AVEN Supply directive on your desktop.
+```
+After downloading it.
+
 ```
 Open attack_logs.jjqv with 5CRYPt0L 0J in your loadout to decrypt it.
 ```

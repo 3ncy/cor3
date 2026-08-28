@@ -175,6 +175,9 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 ### RM7-W3L3
 * [Mantis_Blueprints.vbt](/Mantis_Blueprints.vbt.png)
 
+### RM7-E1L5
+* [AVEN_SUPPLY_priority_instruction1_15052251.doc.md](/AVEN_SUPPLY_priority_instruction1_15052251.doc.md)
+
 ## Server information
 | Server Name | Faction | Transit | Type | Cluster | Location  | IP | Color | Owner | Market | Defence Rate |
 |-------------|---------|---------|------|---------|-----------|----|-------|-------|--------|--------------|
