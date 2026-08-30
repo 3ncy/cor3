@@ -1,0 +1,29 @@
+<svg width="91" height="104" viewbox="0 0 91 104" fill="none" xmlns="http://www.w3.org/2000/svg" data-sentry-element="svg" data-sentry-component="DeploymentHexIcon" data-sentry-source-file="briefing-icons.tsx">
+    <path d="M45.0333 0L90.0667 26V78L45.0333 104L3.8147e-06 78V26L45.0333 0Z" fill="url(#paint0_radial_249_676)" fill-opacity="0.1" data-sentry-element="path" data-sentry-source-file="briefing-icons.tsx"></path>
+    <path d="M72.2462 36.2881V67.7109L45.0333 83.4229L17.8204 67.7109V36.2881L45.0333 20.5762L72.2462 36.2881Z" fill="#243A41" stroke="#76C1D1" data-sentry-element="path" data-sentry-source-file="briefing-icons.tsx"></path>
+    <g filter="url(#filter0_f_249_676)" data-sentry-element="g" data-sentry-source-file="briefing-icons.tsx">
+        <path d="M45.0333 20L72.7461 36V68L45.0333 84L17.3205 68V36L45.0333 20Z" stroke="#76C1D1" stroke-opacity="0.6" stroke-width="1.48837" data-sentry-element="path" data-sentry-source-file="briefing-icons.tsx"></path>
+    </g>
+    <circle cx="45.0333" cy="52" r="19" fill="url(#paint1_radial_249_676)" data-sentry-element="circle" data-sentry-source-file="briefing-icons.tsx"></circle>
+    <path d="M55.4509 60.6995C48.33 64.8789 42.0548 65.316 34.4839 60.6995V49.9119C34.4839 36.5616 55.4509 36.8312 55.4509 49.9119V60.6995Z" stroke="#76C1D1" stroke-width="0.752103" data-sentry-element="path" data-sentry-source-file="briefing-icons.tsx"></path>
+    <path d="M55.5828 50.99H55.9423C56.5449 50.99 57.0333 51.4784 57.0333 52.081V54.3489C57.0333 54.9514 56.5449 55.4399 55.9423 55.4399H55.5828" stroke="#76C1D1" stroke-width="0.752103" data-sentry-element="path" data-sentry-source-file="briefing-icons.tsx"></path>
+    <path d="M34.4839 50.99H34.1243C33.5217 50.99 33.0333 51.4784 33.0333 52.081V54.3489C33.0333 54.9514 33.5217 55.4399 34.1243 55.4399H34.4839" stroke="#76C1D1" stroke-width="0.752103" data-sentry-element="path" data-sentry-source-file="briefing-icons.tsx"></path>
+    <rect x="36.839" y="45.1612" width="16.3907" height="14.0808" rx="5.89699" stroke="#76C1D1" stroke-width="0.752103" data-sentry-element="rect" data-sentry-source-file="briefing-icons.tsx"></rect>
+    <path d="M52.813 56.2466H47.1427" stroke="#76C1D1" stroke-width="0.752103" data-sentry-element="path" data-sentry-source-file="briefing-icons.tsx"></path>
+    <ellipse cx="47.4062" cy="56.1142" rx="0.65934" ry="0.674224" fill="#76C1D1" data-sentry-element="ellipse" data-sentry-source-file="briefing-icons.tsx"></ellipse>
+    <defs data-sentry-element="defs" data-sentry-source-file="briefing-icons.tsx">
+        <filter id="filter0_f_249_676" x="7.64609" y="10.2105" width="74.7745" height="83.5791" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB" data-sentry-element="filter" data-sentry-source-file="briefing-icons.tsx">
+            <feflood flood-opacity="0" result="BackgroundImageFix" data-sentry-element="feFlood" data-sentry-source-file="briefing-icons.tsx"></feflood>
+            <feblend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" data-sentry-element="feBlend" data-sentry-source-file="briefing-icons.tsx"></feblend>
+            <fegaussianblur stddeviation="4.46512" result="effect1_foregroundBlur_249_676" data-sentry-element="feGaussianBlur" data-sentry-source-file="briefing-icons.tsx"></fegaussianblur>
+        </filter>
+        <radialgradient id="paint0_radial_249_676" cx="0" cy="0" r="1" gradientunits="userSpaceOnUse" gradienttransform="translate(45.0333 52) rotate(90) scale(52)" data-sentry-element="radialGradient" data-sentry-source-file="briefing-icons.tsx">
+            <stop offset="0.304961" stop-color="#76C1D1" data-sentry-element="stop" data-sentry-source-file="briefing-icons.tsx"></stop>
+            <stop offset="1" stop-color="#1F474F" stop-opacity="0" data-sentry-element="stop" data-sentry-source-file="briefing-icons.tsx"></stop>
+        </radialgradient>
+        <radialgradient id="paint1_radial_249_676" cx="0" cy="0" r="1" gradientunits="userSpaceOnUse" gradienttransform="translate(45.0333 52) rotate(90) scale(19)" data-sentry-element="radialGradient" data-sentry-source-file="briefing-icons.tsx">
+            <stop stop-color="#76C1D1" stop-opacity="0.6" data-sentry-element="stop" data-sentry-source-file="briefing-icons.tsx"></stop>
+            <stop offset="1" stop-color="#1F474F" stop-opacity="0" data-sentry-element="stop" data-sentry-source-file="briefing-icons.tsx"></stop>
+        </radialgradient>
+    </defs>
+</svg>
