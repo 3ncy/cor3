@@ -1,4 +1,4 @@
-> [!INFO]
+> [!NOTE]
 > When picking "Everything" or "All USOL reports.":
 
 Investigation results, USOL CDC,  2192.
@@ -16,7 +16,7 @@ Recommend physical action on any and all involved and affiliated PCF members.
 USOL CDC, Colonel Kirch.
 
 ---
-> [!INFO]
+> [!NOTE]
 > When picking the choice "A combined package: USOL + CORE + diary.":
 
 Investigation results, USOL CDC, 2193 

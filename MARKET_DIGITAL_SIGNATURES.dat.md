@@ -1,4 +1,4 @@
-> [!INFO]
+> [!NOTE]
 > Opening this file unlocks the elite mercenary Vector from the USOL market.
 
 > [!NOTE]
