@@ -1,0 +1,2 @@
+Well, it has been quite a while. But at last it seems the CIS guys pissed off. I was told their shuttles departed two days ago but I had to make sure before doing anything.
+I think it's time to talk to Chris first and then to Aurana. Additional information is always welcome after all.

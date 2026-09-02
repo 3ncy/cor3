@@ -1,3 +1,9 @@
+## 2 September
+```
+Message Chris Tong. The CIS have finally left the station — find out what they took with them.
+```
+After opening the game after the update. Tied to the July quest.
+
 ## 22 August
 ### Terra Matter's Broken Promise
 ```
