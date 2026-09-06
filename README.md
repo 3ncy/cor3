@@ -185,6 +185,7 @@ See [Achievements.md](Achievements.md).
 * [usol_housing_collage.jpg](/News/news/usol_housing_collage.jpg) - [usol_housing_collage](https://cdn.cor3.gg/corie/news/usol_housing_collage.jpg)
 * [usol_rent_infographic.jpg](/News/news/usol_rent_infographic.jpg) - [usol_rent_infographic](https://cdn.cor3.gg/corie/news/usol_rent_infographic.jpg)
 * [vela7_official_promo.jpg](/News/news/vela7_official_promo.jpg) - [vela7_official_promo](https://cdn.cor3.gg/corie/news/vela7_official_promo.jpg)
+* [vela7_user_photo.jpg](/News/news/vela7_user_photo.jpg) - [vela7_user_photo](https://cdn.cor3.gg/corie/news/vela7_user_photo.jpg)
 * [peak_of_demand.jpg](/News/news/peak_of_demand.jpg) - [peak_of_demand](https://cdn.cor3.gg/corie/news/peak_of_demand.jpg)
 * [orbit_12.png](/News/news/orbit_12.png) - [orbit_12](https://cdn.cor3.gg/corie/news/orbit_12.png)
 * [naked_party.jpg](/News/news/naked_party.jpg) - [naked_party](https://cdn.cor3.gg/corie/news/naked_party.jpg)
