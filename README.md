@@ -206,6 +206,8 @@ See [Achievements.md](Achievements.md).
 * [astrocrop_standard_contract_excerpt.jpg](/astrocrop_standard_contract_excerpt.jpg) - [astrocrop_standard_contract_excerpt](https://cdn.cor3.gg/corie/forum/astrocrop_standard_contract_excerpt.jpg) - `019fdb9a-de50-7ec5-95f2-f9b7545f6a4b`
 * [astrocrop_missing_crossref.jpg](/astrocrop_missing_crossref.jpg) - [astrocrop_missing_crossref](https://cdn.cor3.gg/corie/forum/astrocrop_missing_crossref.jpg) - `019fdb9a-de50-7b39-ad13-2c5c0e9b27ed`
 * [astrocrop_facility04_ops_log_excerpt.jpg](/astrocrop_facility04_ops_log_excerpt.jpg) - [astrocrop_facility04_ops_log_excerpt](https://cdn.cor3.gg/corie/forum/astrocrop_facility04_ops_log_excerpt.jpg) - `019fdb9a-de50-7e51-a660-af8ec393d6ea`
+* [DOGCHIP_BRAIN_MAP_FAKE.png](/DOGCHIP_BRAIN_MAP_FAKE.png) - [DOGCHIP_BRAIN_MAP_FAKE](https://cdn.cor3.gg/corie/forum/DOGCHIP_BRAIN_MAP_FAKE.png) - `019fb7af-3d1e-752a-9701-0a1f3624f442`
+* [MOC_NEUROSCREEN_LEAK.jpg](/MOC_NEUROSCREEN_LEAK.jpg) - [MOC_NEUROSCREEN_LEAK](https://cdn.cor3.gg/corie/forum/MOC_NEUROSCREEN_LEAK.jpg) - `019fb7af-3d1e-7329-80ba-a710db2c6737`
 
 ---
 </details>
