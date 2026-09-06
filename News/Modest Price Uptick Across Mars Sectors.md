@@ -1,8 +1,8 @@
 # Modest Price Uptick Across Mars Sectors
 
-| | | |
-|-|-|-|
-| ![](news/snn_source_icon.png) | SNN | 2251-05-15 |
+| Source | | Date | Author |
+|-|-|-|-|
+| ![](news/snn_source_icon.png) | SNN | 2251-05-15 |  |
 
 ![](news/gearstonks.jpg)
 

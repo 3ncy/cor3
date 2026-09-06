@@ -1,8 +1,8 @@
 # Terra Matter's Broken Promise? Whispers of a Corporate Mirage Grow Louder
 
-| | | |
-|-|-|-|
-| ![](news/snn_source_icon.png) | SNN | 2251-05-22 |
+| Source | | Date | Author |
+|-|-|-|-|
+| ![](news/snn_source_icon.png) | SNN | 2251-05-22 |  |
 
 ![](news/terra_matter_broken_promise.png)
 

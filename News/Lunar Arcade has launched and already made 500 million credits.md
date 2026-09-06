@@ -1,8 +1,8 @@
 # Lunar Arcade has launched and already made 500 million credits
 
-| | | |
-|-|-|-|
-| ![](news/lld_source_icon.png) | LLD — Luna Loves Drama | 2251-06-02 |
+| Source | | Date | Author |
+|-|-|-|-|
+| ![](news/lld_source_icon.png) | LLD — Luna Loves Drama | 2251-06-02 | PatchSaint |
 
 ![](news/lunar_arcade.png)
 

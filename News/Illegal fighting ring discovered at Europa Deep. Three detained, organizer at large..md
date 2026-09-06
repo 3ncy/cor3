@@ -1,8 +1,8 @@
 # Illegal fighting ring discovered at Europa Deep. Three detained, organizer at large.
 
-| | | |
-|-|-|-|
-| ![](news/snn_source_icon.png) | SNN | 2251-07-14 |
+| Source | | Date | Author |
+|-|-|-|-|
+| ![](news/snn_source_icon.png) | SNN | 2251-07-14 | SNN Editorial · INCIDENTS |
 
 ![](news/europa_deep_official.jpg)
 
