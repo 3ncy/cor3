@@ -202,6 +202,10 @@ See [Achievements.md](Achievements.md).
 * [residential_conversion_report_q2_2251.jpg](/residential_conversion_report_q2_2251.jpg) - [residential_conversion_report_q2_2251](https://cdn.cor3.gg/corie/forum/residential_conversion_report_q2_2251.jpg)
 * [outbound_placement_tracker_h1_2251.jpg](/outbound_placement_tracker_h1_2251.jpg) - [outbound_placement_tracker_h1_2251](https://cdn.cor3.gg/corie/forum/outbound_placement_tracker_h1_2251.jpg)
 * [hold_inventory_status_2251.jpg](/hold_inventory_status_2251.jpg) - [hold_inventory_status_2251](https://cdn.cor3.gg/corie/forum/hold_inventory_status_2251.jpg)
+* [astrocrop_hr_annual_summary_2250.jpg](/astrocrop_hr_annual_summary_2250.jpg) - [astrocrop_hr_annual_summary_2250](https://cdn.cor3.gg/corie/forum/astrocrop_hr_annual_summary_2250.jpg) - `019fdb9a-de50-74d9-a1f8-5ba0f2aee15b`
+* [astrocrop_standard_contract_excerpt.jpg](/astrocrop_standard_contract_excerpt.jpg) - [astrocrop_standard_contract_excerpt](https://cdn.cor3.gg/corie/forum/astrocrop_standard_contract_excerpt.jpg) - `019fdb9a-de50-7ec5-95f2-f9b7545f6a4b`
+* [astrocrop_missing_crossref.jpg](/astrocrop_missing_crossref.jpg) - [astrocrop_missing_crossref](https://cdn.cor3.gg/corie/forum/astrocrop_missing_crossref.jpg) - `019fdb9a-de50-7b39-ad13-2c5c0e9b27ed`
+* [astrocrop_facility04_ops_log_excerpt.jpg](/astrocrop_facility04_ops_log_excerpt.jpg) - [astrocrop_facility04_ops_log_excerpt](https://cdn.cor3.gg/corie/forum/astrocrop_facility04_ops_log_excerpt.jpg) - `019fdb9a-de50-7e51-a660-af8ec393d6ea`
 
 ---
 </details>
