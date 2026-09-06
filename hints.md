@@ -4,6 +4,13 @@ Message Chris Tong. The CIS have finally left the station — find out what they
 ```
 After opening the game after the update. Tied to the July quest.
 
+## 28 August
+### The Peak of Demand — or the Start of a Crisis?
+```
+If you want a clearer view of the market crisis, you'll need a contact on the darknet. Make enough progress on the Ozren business (start with the file on RM7-N2ECP) and one may find its way to you.
+```
+After reading the [The Peak of Demand — or the Start of a Crisis?](/News/The%20Peak%20of%20Demand%20%E2%80%94%20or%20the%20Start%20of%20a%20Crisis.md) news entry.
+
 ## 24 August
 ### USOL Housing Scandal
 ```
