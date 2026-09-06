@@ -4,6 +4,13 @@ Message Chris Tong. The CIS have finally left the station — find out what they
 ```
 After opening the game after the update. Tied to the July quest.
 
+## 24 August
+### USOL Housing Scandal
+```
+anon_vestri attached the recovered maintenance log to his post on the forum — download breakdown_log_arcpoint.jpg and read it. curious_from_delphi names an address in the same thread: the USOL paperwork behind the 'breakdowns' sits on the node URM7-S5L2 (855.529.5.2). Pull RESIDENTIAL_CONVERSION_REPORT_Q2_2251 off it and read it.
+```
+After opening the [USOL and breakdowns — anyone else?](/Forums/USOL%20and%20breakdowns%20—%20anyone%20else.md) forum post.
+
 ## 23 August
 ### The Pit
 None, open the news post to complete the quest.

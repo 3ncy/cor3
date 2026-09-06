@@ -177,11 +177,30 @@ See [Achievements.md](Achievements.md).
 
 ---
 
+### news
+* [gearstonks.jpg](/News/news/gearstonks.jpg) - [gearstonks](https://cdn.cor3.gg/corie/news/gearstonks.jpg)
+* [lunar_arcade.png](/News/news/lunar_arcade.png) - [lunar_arcade](https://cdn.cor3.gg/corie/news/lunar_arcade.png)
+* [terra_matter_broken_promise.png](/News/news/terra_matter_broken_promise.png) - [terra_matter_broken_promise](https://cdn.cor3.gg/corie/news/terra_matter_broken_promise.png)
+* [europa_deep_official.jpg](/News/news/europa_deep_official.jpg) - [europa_deep_official](https://cdn.cor3.gg/corie/news/europa_deep_official.jpg)
+* [usol_housing_collage.jpg](/News/news/usol_housing_collage.jpg) - [usol_housing_collage](https://cdn.cor3.gg/corie/news/usol_housing_collage.jpg)
+* [usol_rent_infographic.jpg](/News/news/usol_rent_infographic.jpg) - [usol_rent_infographic](https://cdn.cor3.gg/corie/news/usol_rent_infographic.jpg)
+* [vela7_official_promo.jpg](/News/news/vela7_official_promo.jpg) - [vela7_official_promo](https://cdn.cor3.gg/corie/news/vela7_official_promo.jpg)
+* [peak_of_demand.jpg](/News/news/peak_of_demand.jpg) - [peak_of_demand](https://cdn.cor3.gg/corie/news/peak_of_demand.jpg)
+* [orbit_12.png](/News/news/orbit_12.png) - [orbit_12](https://cdn.cor3.gg/corie/news/orbit_12.png)
+* [naked_party.jpg](/News/news/naked_party.jpg) - [naked_party](https://cdn.cor3.gg/corie/news/naked_party.jpg)
+* [marcus_vale_72_hours.png](/News/news/marcus_vale_72_hours.png) - [marcus_vale_72_hours](https://cdn.cor3.gg/corie/news/marcus_vale_72_hours.png)
+* [halcyon42.jpg](/News/news/halcyon42.jpg) - [halcyon42](https://cdn.cor3.gg/corie/news/halcyon42.jpg)
+* [new_lent.jpg](/News/news/new_lent.jpg) - [new_lent](https://cdn.cor3.gg/corie/news/new_lent.jpg)
+
 ### forum
 * [pit_semifinal_s7_audio.ogg](/pit_semifinal_s7_audio.ogg) - [pit_semifinal_s7_audio](https://cdn.cor3.gg/corie/forum/pit_semifinal_s7_audio.ogg) - fileID `019fab3b-8f38-7217-bd2d-7c4399ede430`
 * [the_pit_season7_poster.jpg](/Forums/the_pit_season7_poster.jpg) - [the_pit_season7_poster](https://cdn.cor3.gg/corie/forum/the_pit_season7_poster.jpg)
 * [the_pit_arena.jpg](/Forums/the_pit_arena.jpg) - [the_pit_arena](https://cdn.cor3.gg/corie/forum/the_pit_arena.jpg)
 * [fighter_card_the_driller.jpg](/Forums/fighter_card_the_driller.jpg) - [fighter_card_the_driller](https://cdn.cor3.gg/corie/forum/fighter_card_the_driller.jpg)
+* [breakdown_log_arcpoint.jpg](/breakdown_log_arcpoint.jpg) - [breakdown_log_arcpoint](https://cdn.cor3.gg/corie/forum/breakdown_log_arcpoint.jpg) - `019fa82d-ac0a-70af-b8dd-aa95aa49ba3c`
+* [residential_conversion_report_q2_2251.jpg](/residential_conversion_report_q2_2251.jpg) - [residential_conversion_report_q2_2251](https://cdn.cor3.gg/corie/forum/residential_conversion_report_q2_2251.jpg)
+* [outbound_placement_tracker_h1_2251.jpg](/outbound_placement_tracker_h1_2251.jpg) - [outbound_placement_tracker_h1_2251](https://cdn.cor3.gg/corie/forum/outbound_placement_tracker_h1_2251.jpg)
+* [hold_inventory_status_2251.jpg](/hold_inventory_status_2251.jpg) - [hold_inventory_status_2251](https://cdn.cor3.gg/corie/forum/hold_inventory_status_2251.jpg)
 
 ---
 </details>
