@@ -13,4 +13,5 @@
 * -801 Modest Price Uptick
 * -802 Lunar Arcade
 * -804 Terra Matter's Broken Promise
+* -805 The Pit
 * ?52 July

@@ -161,7 +161,7 @@ Path related to the Nutcracker website
 * [Mantis_Blueprints.vbt](/Mantis_Blueprints.vbt.png) - [jkrhj5k4jwekhbktjrkj45k](https://cdn.cor3.gg/corie/loops/acts/3/fkjhehrjk43hkjervhkjdsas/jkrhj5k4jwekhbktjrkj45k.png)
 
 #### 851
-* [Co4_T0ALL_651_e23.wav](/Co4_T0ALL_651_e23.wav) - [851](https://cdn.cor3.gg/corie/loops/acts/3/851/Co4_T0ALL_651_e23.wav)
+* [Co4_T0ALL_651_e23.wav](/Co4_T0ALL_651_e23.wav) - [Co4_T0ALL_651_e23](https://cdn.cor3.gg/corie/loops/acts/3/851/Co4_T0ALL_651_e23.wav)
 
 ---
 
@@ -174,6 +174,12 @@ Path related to the Nutcracker website
 
 ### achievements
 See [Achievements.md](Achievements.md).
+
+### forum
+* [pit_semifinal_s7_audio.ogg](/pit_semifinal_s7_audio.ogg) - [pit_semifinal_s7_audio](https://cdn.cor3.gg/corie/forum/pit_semifinal_s7_audio.ogg)
+* [the_pit_season7_poster.jpg](/Forums/the_pit_season7_poster.jpg) - [the_pit_season7_poster](https://cdn.cor3.gg/corie/forum/the_pit_season7_poster.jpg)
+* [the_pit_arena.jpg](/Forums/the_pit_arena.jpg) - [the_pit_arena](https://cdn.cor3.gg/corie/forum/the_pit_arena.jpg)
+* [fighter_card_the_driller.jpg](/Forums/fighter_card_the_driller.jpg) - [fighter_card_the_driller](https://cdn.cor3.gg/corie/forum/fighter_card_the_driller.jpg)
 
 ---
 </details>

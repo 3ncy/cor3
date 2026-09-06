@@ -4,6 +4,15 @@ Message Chris Tong. The CIS have finally left the station — find out what they
 ```
 After opening the game after the update. Tied to the July quest.
 
+## 23 August
+### The Pit
+None, open the news post to complete the quest.
+
+```
+The next step is not available yet.
+```
+Possibly related to The Pit quest, pops up after reading the [THE PIT — Season VII · A word to the crowd. They found E-7. We move.](/Forums/THE%20PIT%20—%20Season%20VII%20·%20A%20word%20to%20the%20crowd.%20They%20found%20E-7.%20We%20move..md) forum post.
+
 ## 22 August
 ### Terra Matter's Broken Promise
 ```
