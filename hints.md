@@ -90,6 +90,16 @@ Complete the next drone build step: Nergalium, NIC materials, coolant, and the p
 ```
 After completing Stage 05 in drone assembling.
 
+```
+Complete the next drone build step: cargo shielding, telemetry cable, tools, and straps.
+```
+After completing Stage 06.
+
+```
+Complete the next drone build step: circuit components and CDERT medical supplies.
+```
+After completing Stage 07.
+
 ### June quest
 
 ```

@@ -1,0 +1,1 @@
+The container is ready. Heavy as hell, but it's hermetic and shielded. Could carry anything without fear of any exposure
