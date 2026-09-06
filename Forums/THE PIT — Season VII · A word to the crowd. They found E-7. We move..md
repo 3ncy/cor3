@@ -103,7 +103,7 @@ Nero gave the people bread and games. We have no bread. But the games are real.
 
 The semifinal recording is in the archive. Audio is there too.
 
-[pit_semifinal_s7_audio.ogg](/pit_semifinal_s7_audio.ogg)
+* [pit_semifinal_s7_audio.ogg](/pit_semifinal_s7_audio.ogg)
 
 ---
 

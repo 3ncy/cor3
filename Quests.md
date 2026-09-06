@@ -12,6 +12,7 @@
 * -851 June
 * -801 Modest Price Uptick
 * -802 Lunar Arcade
+* -803 The Living Terraformer
 * -804 Terra Matter's Broken Promise
 * -805 The Pit
-* ?52 July
+* -852 July

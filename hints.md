@@ -21,6 +21,12 @@ Check the RM7-N2ECP server. There's a file there with a name - someone connected
 Opening the ["Terra Matter's..."](/News/Terra%20Matter's%20Broken%20Promise%20Whispers%20of%20a%20Corporate%20Mirage%20Grow%20Louder.md) news entry.
 
 ## 21 August - Updates 3.78.0 and 3.85.0
+### The Living Terraformer
+```
+The next step is not available yet.
+```
+After completing the quest and receiving the timeline fragment.
+
 ### Modest Price Uptick
 ```
 SNN reports a market uptick — and a directive for AVEN Supply administrators just surfaced on relay node RM7-E1L5. Download AVEN_SUPPLY_priority_instruction1_15052251.doc.
