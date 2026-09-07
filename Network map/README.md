@@ -164,6 +164,7 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 
 ### RM7-N2ECP
 * [Valeriani_TM_Ozren_Navratil_request_3.odt](/Valeriani_TM_Ozren_Navratil_request_3.odt.md)
+* [WARD_HOLOSCENE_CONTACT.log](/WARD_HOLOSCENE_CONTACT.log)
 
 ### B43271N
 * d4_CTF_lott0792_p1.vrnm -> [d4_CTF_lott0792.png]
@@ -183,6 +184,9 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 
 ### RM7-E1L5
 * [AVEN_SUPPLY_priority_instruction1_15052251.doc.md](/AVEN_SUPPLY_priority_instruction1_15052251.doc.md)
+
+### RM7-E1L3
+* [ARKWRIGHT_WARD_CHAT_PARTIAL.log](/ARKWRIGHT_WARD_CHAT_PARTIAL.log)
 
 ## Server information
 | Server Name | Faction | Transit | Type | Cluster | Location  | IP | Color | Owner | Market | Defence Rate |
