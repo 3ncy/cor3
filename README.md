@@ -192,6 +192,10 @@ See [Achievements.md](Achievements.md).
 * [marcus_vale_72_hours.png](/News/news/marcus_vale_72_hours.png) - [marcus_vale_72_hours](https://cdn.cor3.gg/corie/news/marcus_vale_72_hours.png)
 * [halcyon42.jpg](/News/news/halcyon42.jpg) - [halcyon42](https://cdn.cor3.gg/corie/news/halcyon42.jpg)
 * [new_lent.jpg](/News/news/new_lent.jpg) - [new_lent](https://cdn.cor3.gg/corie/news/new_lent.jpg)
+* [burnssy_rain.jpg](/News/news/burnssy_rain.jpg) - [burnssy_rain](https://cdn.cor3.gg/corie/news/burnssy_rain.jpg)
+* [mule_9_confirmed_captured.png](/News/news/mule_9_confirmed_captured.png) - [mule_9_confirmed_captured](https://cdn.cor3.gg/corie/news/mule_9_confirmed_captured.png)
+* [elias_vorn_official_portrait.jpg](/News/news/elias_vorn_official_portrait.jpg) - [elias_vorn_official_portrait](https://cdn.cor3.gg/corie/news/elias_vorn_official_portrait.jpg)
+* [rebel_movements.jpg](/News/news/rebel_movements.jpg) - [rebel_movements](https://cdn.cor3.gg/corie/news/rebel_movements.jpg)
 
 ### forum
 * [pit_semifinal_s7_audio.ogg](/pit_semifinal_s7_audio.ogg) - [pit_semifinal_s7_audio](https://cdn.cor3.gg/corie/forum/pit_semifinal_s7_audio.ogg) - fileID `019fab3b-8f38-7217-bd2d-7c4399ede430`
