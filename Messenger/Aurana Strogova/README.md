@@ -155,3 +155,62 @@ Aurana:
 
 ...
 
+---
+
+## July
+P:
+> Hey, i’v found something interesting …
+
+A:
+> We know. We were following your steps and we had to clean after you. You did a really sloppy job this time, you know?
+
+P:
+> How so? I left the file for CIS to find and left no traces.
+
+A:
+> Yes, but the file had a hidden security measure that logged all access. We even think that it has all been a CIS trap.
+
+P:
+> What have you done then?
+
+A:
+> We deleted the file and cut all traces. All we could do, really. Didnt even get a copy.
+
+P:
+> Lucky us. Here you go.
+
+A:
+> …
+
+P:
+> Just “thank you” would be sufficient. But let’s call it a draw.
+
+A:
+> Sent this to our analysts. They say there is something encrypted inside the file. Have you opened it?
+
+P:
+> Yes, its an audio recording
+
+A:
+> Not just that. There are coordinates embedded. Encrypted of course but that should be no problem for us.
+
+P:
+> Coordinates? like on Mars itself?
+
+A:
+> Yes, indeed. I can send them to you but what would you do with that?
+
+P:
+> I need to find someone on the ground to help me. A person that is trustworthy enough to work with.
+
+A:
+> Our operatives are indisposed as you know, so you will have to find another way.
+
+P:
+> I have something in mind. Just… let me cook.
+
+A:
+> Funny choice of words, but fine. We will try to back you up if needed, but please proceed. And contact me when you have something.
+
+P:
+> Sure thing.

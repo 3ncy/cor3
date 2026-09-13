@@ -105,3 +105,51 @@ P:
 
 Unlocks the Codex entry [7](/Codex/Entry%203%20The%20Way/Personal%20Log%20—%20Entry%207.md).
 
+---
+
+## July quest
+
+P:
+> Hey Chris. Any news?
+
+C:
+> If you mean that “incident” … no, not really. I do not think that much has been found by CIS guys but our engineers checked everything as well and could only find some strange access logs to several of the servers that gave us nothing.
+
+P:
+> I’m confused. Did your guys find something or not ?
+
+C:
+> Short answer - no. Long answer - it’s evident that someone or something aside of CEDRT and CIS operatives have been looking for those files using some very interesting methods but they left no traces.
+
+P:
+> So you’r saying no files have been found ? Like at all ?
+
+...
+
+P:
+> Do you have any reliable person on the ground that can find me a contact in the CEDRT camp down below ?
+
+C:
+> Several guys come to my mind, but give me some time to figure it out. I need to find a trustworthy one.
+
+P:
+> Fine. I have something else to do anyway. Notify me when you’ll have something.
+
+C:
+> Will do, thank you.
+
+At this point a new dialogue option unlocks with Aurana. The next dialogue option here unlocks only after finishing that chat.
+
+P:
+> Any luck?
+
+C:
+> I’v found a guy that can deliver a tablet to someone you’d wish to talk about. Whom do you wish to contact?
+
+...
+
+P:
+> Thanks for the warning. It’s better than nothing so I’l take my chances. I’ll be waiting for a message from you.
+
+C:
+> Ok. I’ll keep in touch.

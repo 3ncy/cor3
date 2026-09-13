@@ -1,0 +1,5 @@
+[CORRUPTED]
+
+Record header intact. Payload failed integrity check — the block map points past the end of the archive segment.
+
+No recoverable content.

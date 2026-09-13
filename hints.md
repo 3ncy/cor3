@@ -1,8 +1,34 @@
 ## 2 September
+### July
 ```
 Message Chris Tong. The CIS have finally left the station — find out what they took with them.
 ```
 After opening the game after the update. Tied to the July quest.
+
+```
+Hand Aurana the recording you pulled out of the USSDP container.
+```
+After completing [the first dialogue](/Messenger/Christopher%20Tong/README.md#July) with Christopher Tong related to this quest.
+
+```
+Ask Chris again. He was looking for someone who can reach the surface.
+```
+After completing [the dialogue](/Messenger/Aurana%20Strogova/README.md#July) with Aurana.
+
+```
+Get into a CEDRT server and pull the personnel backup. Force hack is available here if your own tools are not up to it.
+```
+After completing the second chat with Chris.
+
+```
+The archive unpacked into twenty files. Find and read the dossier on Natalia Gromova.
+```
+After downloading and opening the file `1cedrt-ddab-bckp213451.cr3z` from RM7-N1L1.
+
+```
+Nothing left to do but wait for the tablet to reach her.
+```
+After decrypting and opening [her doisser](/CEDRT%20Doissers/Doisser%20Natalia%20Gromova.docx.md) [sic].
 
 ## 28 August
 ### The Peak of Demand — or the Start of a Crisis?
