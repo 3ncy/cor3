@@ -188,6 +188,9 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 ### RM7-E1L3
 * [ARKWRIGHT_WARD_CHAT_PARTIAL.log](/ARKWRIGHT_WARD_CHAT_PARTIAL.log)
 
+### RM7-W3NCP
+* [LINDSTROM_KELLER_SOFT_ECLIPSE_CHAT.log]()
+
 ## Server information
 | Server Name | Faction | Transit | Type | Cluster | Location  | IP | Color | Owner | Market | Defence Rate |
 |-------------|---------|---------|------|---------|-----------|----|-------|-------|--------|--------------|
