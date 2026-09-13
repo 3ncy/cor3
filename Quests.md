@@ -27,3 +27,4 @@
 * -815 CORE Hiding Something Again (Sector Kids)
 * -852 July
 * -816 Halcyon-42
+* -817 Our Star Is Dying
