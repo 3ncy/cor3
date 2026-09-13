@@ -26,3 +26,4 @@
 * -814 72 Hours Challenge (72 Hours)
 * -815 CORE Hiding Something Again (Sector Kids)
 * -852 July
+* -816 Halcyon-42
