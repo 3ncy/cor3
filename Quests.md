@@ -22,9 +22,10 @@
 * -810 The Peak of Demand — or the Start of a Crisis?
 * -811 Orbit-12
 * -812 Naked Party
-* -813 PMC (4_PMC)
-* -814 72 Hours Challenge (72 Hours)
-* -815 CORE Hiding Something Again (Sector Kids)
+* -813 4_PMC (PMC)
+* -814 72 Hours (72 Hours Challenge)
+* -815 Sector Kids (CORE Hiding Something Again)
 * -852 July
 * -816 Halcyon-42
 * -817 Our Star Is Dying
+* -818 New Lent (Novaya Ladoga)
