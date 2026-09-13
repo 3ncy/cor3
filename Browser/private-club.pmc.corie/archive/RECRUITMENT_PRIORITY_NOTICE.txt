@@ -1,0 +1,70 @@
+[ INTERNAL — PRIVATE CLUB ]
+
+DOCUMENT ID:  PC-HR-2251-PRIORITY-001
+DATE:         2251.07.03
+FROM:         Operations Command
+TO:           All Division Heads / HR Department
+STATUS:       ACTIVE
+
+RECRUITMENT PRIORITY NOTICE
+ALL DIVISIONS — IMMEDIATE ACTION REQUIRED
+
+
+OPEN POSITIONS — PRIORITY
+
+Ground operations operator
+  Slots:     100
+  Priority:  URGENT
+  Key requirements: Autonomous work experience. Min. 3 operations.
+                    Psychological resilience. Anti-radiation clearance.
+
+Combat medic
+  Slots:     20
+  Priority:  URGENT
+  Key requirements: Field medicine. Work under supply constraints.
+                    Isolation experience.
+
+Technical specialist (profile A)
+  Slots:     10
+  Priority:  HIGH
+  Key requirements: Communications and autonomous systems.
+
+Technical specialist (profile B)
+  Slots:     20
+  Priority:  HIGH
+  Key requirements: Engineering support. Heavy equipment.
+
+Specialist profile [REDACTED]
+  Slots:     5
+  Priority:  CRITICAL
+  Key requirements: [REDACTED] — requirements provided upon clearance
+                    confirmation only.
+
+
+PROCEDURE CHANGES
+
+Psychological testing — 5 sessions
+  Change: Reduced to 2 sessions
+  Reason: Time constraints
+
+Background check — 30 days
+  Change: Reduced to 7 days
+  Reason: Priority Clearance Protocol
+
+Probation period — 2 operations
+  Change: Waived for candidates with 5+ operations
+  Reason: Personnel shortage
+
+Medical commission — full
+  Change: Basic + specialized test [REDACTED]
+  Reason: Contract requirement
+
+
+CONTRACT DETAILS
+
+  Client:              [REDACTED]
+  Authorization:       confirmed
+  Operation type:      Multi-stage. Autonomous. Long-term.
+  Estimated duration:  90+ days
+  Location:            [REDACTED]
+  Financial terms:     Above standard. Client covers all expenses.

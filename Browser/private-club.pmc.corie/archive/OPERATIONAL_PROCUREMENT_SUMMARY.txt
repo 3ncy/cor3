@@ -1,0 +1,88 @@
+[ INTERNAL — PRIVATE CLUB ]
+
+DOCUMENT ID:  PC-LOG-2251-OPS-002
+DATE:         2251.07.05
+FROM:         Logistics — Operations
+TO:           Operations Command
+STATUS:       ACTIVE — updated daily
+
+OPERATIONAL PROCUREMENT SUMMARY
+OP-FORWARD-01 — CURRENT STATUS
+
+
+PROCUREMENT OVERVIEW
+
+Operator base kit
+  Items: 40 sets           Received: 38/40
+  Status: In progress      Notes: 2 sets delayed — supplier
+
+Standard ammunition (3 loads per operator)
+  Items: 60 loads          Received: 60/60
+  Status: Complete         Notes: —
+
+Extended ammunition reserve
+  Items: 60 loads          Received: 48/60
+  Status: Delayed          Notes: Market shortage. Price x2.4
+
+Standard medical kit
+  Items: 20 sets           Received: 20/20
+  Status: Complete         Notes: —
+
+Extended medical kit
+  Items: 25 sets           Received: 25/25
+  Status: Complete         Notes: Non-standard item — this operation only
+
+Anti-radiation blocks
+  Items: 20 units          Received: 20/20
+  Status: Complete         Notes: Non-standard item — this operation only
+
+Dry rations — 90 days per operator
+  Items: 1,800 unit        Received: 1,800/1,800
+  Status: Complete         Notes: Purchased at any price per command authorization
+
+Portable generators
+  Items: 6 units           Received: 5/6
+  Status: Delayed          Notes: 1 unit defective under load
+
+Battery pack
+  Items: 50 units          Received: 50 units
+  Status: Complete         Notes: —
+
+ARK-7 autonomous comms station
+  Items: 4 units           Received: 3/4
+  Status: Delayed          Notes: 1 unit — 4 day delay. Critical for recon.
+
+Equipment category [REDACTED]
+  Items: [REDACTED]        Received: [REDACTED]
+  Status: NOT RECEIVED     Notes: ETA unknown. Specs not provided.
+
+
+FINANCIAL STATUS
+
+Operator equipment
+  Budget: 5,280,000 CR   Spent: 6,882,000 CR   Balance: -1,602,000 CR
+  Status: OVERSPEND — market
+
+Ammunition
+  Budget: 2,120,000 CR   Spent: 2,678,000 CR   Balance: -558,000 CR
+  Status: OVERSPEND — shortage
+
+Medical supplies
+  Budget: 2,180,000 CR   Spent: 2,167,000 CR   Balance: 13,000 CR
+  Status: On track
+
+Communications
+  Budget: 7,220,000 CR   Spent: 7,195,000 CR   Balance: 25,000 CR
+  Status: On track
+
+Equipment [REDACTED]
+  Budget: [REDACTED]     Spent: 0 CR           Balance: [REDACTED]
+  Status: AWAITING DELIVERY
+
+Reserve fund
+  Budget: 30,300,000 CR  Spent: 0 CR           Balance: 30,300,000 CR
+  Status: Untouched
+
+Total overspend
+  Spent: 2,160,000 CR
+  Status: Client confirmed coverage
