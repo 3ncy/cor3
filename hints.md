@@ -129,6 +129,11 @@ Complete the next drone build step: circuit components and CDERT medical supplie
 ```
 After completing Stage 07.
 
+```
+Complete the next drone build step: optical sensors and control-board components.
+```
+After completing Stage 08.
+
 ### June quest
 
 ```

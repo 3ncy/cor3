@@ -1,0 +1,1 @@
+Aquired the navigational matrix. The drone would know where to fly now. Well … it's time to teach it how to see and think

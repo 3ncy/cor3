@@ -72,6 +72,7 @@
 * [Personal Log — Entry 8](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%208.md) - submitting the forged license
 * [Personal Log — Entry 9](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%209.md) - completing Stage 06
 * [Personal Log — Entry 10](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2010.md) - completing Stage 07
+* [Personal Log — Entry 11](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2011.md) - completing Stage 08
 * [Mantis-class Blueprints](/Mantis_Blueprints.vbt.png)
 
 ### 2251 Crisis / June
