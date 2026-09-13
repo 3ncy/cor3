@@ -24,4 +24,5 @@
 * -812 Naked Party
 * -813 PMC (4_PMC)
 * -814 72 Hours Challenge (72 Hours)
+* -815 CORE Hiding Something Again (Sector Kids)
 * -852 July
