@@ -87,12 +87,15 @@
 * [Intercepted broadcast — Co4_T0ALL_651_e23](./Entry%203%20The%20Way/Intercepted%20broadcast%20—%20Co4_T0ALL_651_e23.md)
 
 ### 2251 Crisis / July
-* [Personal log](./Entry%203%20The%20Way/Personal%20log%20(June).md) - after the quest is autostarted. The entry gets gradually updated
+* [Personal log](./Entry%203%20The%20Way/Personal%20log%20(July).md) - after the quest is autostarted. The entry gets gradually updated
 * [Dossier — Nolan Voss](/CEDRT%20Doissers/Doisser%20Nolan%20Voss.docx.md)
 * [Dossier — Darius Holt](/CEDRT%20Doissers/Doisser%20Darius%20Holt.docx.md)
 * [Dossier — Marcus Vale](/CEDRT%20Doissers/Doisser%20Marcus%20Vale.docx.md)
 * [Dossier — Lena Moravec](/CEDRT%20Doissers/Doisser%20Lena%20Moravec.docx.md)
 * [Dossier — Natalia Gromova](/CEDRT%20Doissers/Doisser%20Natalia%20Gromova.docx.md)
+
+### 2251 Crisis / August
+* [Personal log](./Entry%203%20The%20Way/Personal%20log%20(August).md) - after the quest is autostarted. The entry gets gradually updated
 
 ## Martian Silence
 ## 1: Private Matters

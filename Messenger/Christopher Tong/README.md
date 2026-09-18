@@ -153,3 +153,67 @@ P:
 
 C:
 > Ok. I’ll keep in touch.
+
+## August quest
+Popups up 24 hours after the previous message.
+
+C:
+> Wake up and shine. I have just been contacted by the courier that is delivering your tablet. He says that some strange things are happening right now. Speaks about some weird sounds, bird-like, but we both know there are no such things down there that could produce those.
+
+P:
+> So ? Is he in fear for his life or something?
+
+C:
+> "Kinda. He is getting paranoid. Could you get him some help through your channels?
+
+P:
+> Don't speak in riddles. What should I do?
+
+C:
+> Well, maybe you have access to some surveillance satellites that could make some pictures of the surroundings or even transmit in real tim? I heard that in the REPNODE network there are servers that connected to spy sats. Not know the name, but IP one of them is 855.529.2.04.
+
+P:
+> So you want me to overwatch the courier?
+
+C:
+> Would not hurt. Besides, he will feel more confident that way.
+
+P:
+> For fucks sake … allright, I'll do it, but that ridiculous.
+
+C:
+> Hey, he is one of my guys and he is helping YOU. So we need to take care of him at least, you know ?
+
+P:
+> Fine. I'll see what I can do.I'll message you in case I have something.
+
+After downloading and reading the two files `e4-08-92251_auto_control_11-ST59.raw` and `e4-08-92251_auto_control_14-ST59.raw` from the mentioned server `RM7-ST/A-S4`.
+
+P:
+> We'v got a big problem. Your guy is walking into an ambush. Looks like a local group. They seem to be well-equipped but without any heavy weapons. You need to tell your guy to prepare for the ambush and just wait, now
+
+C:
+> I'll use emercom to send your data now.
+
+P:
+> Can we do something else?
+
+C:
+> Not unless you can monitor the situation in real time
+
+P:
+> Not really. Let's just wait and hope for the best.
+
+C:
+> Yeah. I'll contact you when he gets back to me.
+
+P:
+> If.
+
+C:
+> Wow … you are a real optimist.
+
+P:
+> Sometimes I am. I'll be waiting for your message.
+
+Timegate.

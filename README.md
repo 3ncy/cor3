@@ -163,6 +163,10 @@ Path related to the Nutcracker website
 #### 851
 * [Co4_T0ALL_651_e23.wav](/Co4_T0ALL_651_e23.wav) - [Co4_T0ALL_651_e23](https://cdn.cor3.gg/corie/loops/acts/3/851/Co4_T0ALL_651_e23.wav)
 
+#### 853
+* [e4-08-92251_auto_control_11-ST59.raw](/e4-08-92251_auto_control_11-ST59.raw.png) - [sat_capture_11_st59](https://cdn.cor3.gg/corie/loops/acts/3/853/sat_capture_11_st59.png)
+* [e4-08-92251_auto_control_14-ST59.raw](/e4-08-92251_auto_control_14-ST59.raw.png) - [sat_capture_14_st59](https://cdn.cor3.gg/corie/loops/acts/3/853/sat_capture_14_st59.png)
+
 ---
 
 ### ranks
