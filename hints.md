@@ -160,6 +160,21 @@ Complete the next drone build step: optical sensors and control-board components
 ```
 After completing Stage 08.
 
+```
+Complete the next drone build step: protected firmware, IFF codes, and navigation adaptation.
+```
+After completing Stage 09.
+
+```
+Complete the next drone build step: manipulator assembly and fine motor calibration.
+```
+After completing Stage 10.
+
+```
+Pay for the drone assembly slot and wait for Chris to finish the full assembly.
+```
+After completing Stage 11.
+
 ### June quest
 
 ```

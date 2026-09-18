@@ -1,0 +1,1 @@
+Software integrated. The drone has the correct FOF signal for the martian systems now and the "AI" is properly trained. The manipulator is still a thing to work on

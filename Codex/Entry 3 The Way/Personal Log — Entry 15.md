@@ -1,0 +1,1 @@
+Final assembly on the way. 8 Hours and i'll see it as a whole. Fingers fucking crossed.

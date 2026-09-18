@@ -178,6 +178,7 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 
 ### RM7-W3L3
 * [Mantis_Blueprints.vbt](/Mantis_Blueprints.vbt.png)
+* [HIP_FW_V7.txt.md](/HIP_FW_V7.txt.md)
 
 ### RM7-A2ES
 * [TRN_OPERATOR_L3.JJQV](/TRN_OPERATOR_L3.JJQV.md)

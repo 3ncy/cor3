@@ -73,6 +73,10 @@
 * [Personal Log — Entry 9](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%209.md) - completing Stage 06
 * [Personal Log — Entry 10](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2010.md) - completing Stage 07
 * [Personal Log — Entry 11](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2011.md) - completing Stage 08
+* [Personal Log — Entry 12](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2012.md) - completing Stage 09
+* [Personal Log — Entry 13](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2013.md) - completing Stage 10
+* [Personal Log — Entry 14](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2014.md) - completing Stage 11
+* [Personal Log — Entry 15](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2015.md) - paying for Stage 12 and waiting
 * [Mantis-class Blueprints](/Mantis_Blueprints.vbt.png)
 
 ### 2251 Crisis / June

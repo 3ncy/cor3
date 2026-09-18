@@ -1,0 +1,1 @@
+The manipulator has FINALLY been properly calibrated. All components are assembled. Now - to the final integraton and testing. And excited and terrified at the same time

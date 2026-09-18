@@ -1,0 +1,1 @@
+Ok, the core board is ready. This baby has the intillect and eyesight now. Motor function for manipulators and programming is what still has to be done
