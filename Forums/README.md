@@ -124,5 +124,13 @@ Threads archived: 8,105,587
       <td>2251-07-28</td><td>09:14</td><td>2026-09-12</td>
       <td>orbital kids, VR, plants</td><td>15208</td><td>47</td>
     </tr>
+    <tr><td colspan="8">
+      <a href="ALIENS ON MARS!.md">ALIENS ON MARS!</a>
+    </td></tr>
+    <tr>
+      <td>Alfred Bones</td><td>1288</td>
+      <td>2251-08-01</td><td>07:12</td><td>2026-09-18</td>
+      <td>OYAN, Mars, aliens, signals, CORE</td><td>33217</td><td>0</td>
+    </tr>
   </tbody>
 </table>

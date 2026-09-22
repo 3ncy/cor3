@@ -167,6 +167,13 @@ Path related to the Nutcracker website
 * [e4-08-92251_auto_control_11-ST59.raw](/e4-08-92251_auto_control_11-ST59.raw.png) - [sat_capture_11_st59](https://cdn.cor3.gg/corie/loops/acts/3/853/sat_capture_11_st59.png)
 * [e4-08-92251_auto_control_14-ST59.raw](/e4-08-92251_auto_control_14-ST59.raw.png) - [sat_capture_14_st59](https://cdn.cor3.gg/corie/loops/acts/3/853/sat_capture_14_st59.png)
 
+#### 830
+* [skylift.png](/News/news/skylift.png) - [skylift](https://cdn.cor3.gg/corie/loops/acts/3/830/skylift.png)
+* [where_does_the_self_end.png](/News/news/where_does_the_self_end.png) - [where_does_the_self_end](https://cdn.cor3.gg/corie/loops/acts/3/830/where_does_the_self_end.png)
+
+#### 829
+* [Img_1.png](/news/news/Img_1.png) - [Img_1](https://cdn.cor3.gg/corie/loops/acts/3/829/Img_1.png)
+
 ---
 
 ### ranks
@@ -200,6 +207,9 @@ See [Achievements.md](Achievements.md).
 * [mule_9_confirmed_captured.png](/News/news/mule_9_confirmed_captured.png) - [mule_9_confirmed_captured](https://cdn.cor3.gg/corie/news/mule_9_confirmed_captured.png)
 * [elias_vorn_official_portrait.jpg](/News/news/elias_vorn_official_portrait.jpg) - [elias_vorn_official_portrait](https://cdn.cor3.gg/corie/news/elias_vorn_official_portrait.jpg)
 * [rebel_movements.jpg](/News/news/rebel_movements.jpg) - [rebel_movements](https://cdn.cor3.gg/corie/news/rebel_movements.jpg)
+* [earth_fragments_products.jpg](/News/news/earth_fragments_products.jpg) - [earth_fragments_products](https://cdn.cor3.gg/corie/news/earth_fragments_products.jpg)
+* [repent_no_sleep.jpg](/News/news/repent_no_sleep.jpg) - [repent_no_sleep](https://cdn.cor3.gg/corie/news/repent_no_sleep.jpg)
+* []
 
 ### forum
 * [pit_semifinal_s7_audio.ogg](/pit_semifinal_s7_audio.ogg) - [pit_semifinal_s7_audio](https://cdn.cor3.gg/corie/forum/pit_semifinal_s7_audio.ogg) - fileID `019fab3b-8f38-7217-bd2d-7c4399ede430`
