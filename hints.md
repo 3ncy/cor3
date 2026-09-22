@@ -175,6 +175,16 @@ Pay for the drone assembly slot and wait for Chris to finish the full assembly.
 ```
 After completing Stage 11.
 
+```
+Talk to Chris Tong about the final drone assembly.
+```
+After the wait is over.
+
+```
+Complete the next drone build step: cargo, comms, and stealth field trials.
+```
+
+
 ### June quest
 
 ```

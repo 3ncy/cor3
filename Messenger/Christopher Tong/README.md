@@ -105,6 +105,30 @@ P:
 
 Unlocks the Codex entry [7](/Codex/Entry%203%20The%20Way/Personal%20Log%20—%20Entry%207.md).
 
+...(?)
+
+After completing Stage 12
+
+C:
+> Everything is here. I'll start the final assembly.
+
+P:
+> That's it? After all this time we're finally at the finish line?
+
+C:
+> Almost. We have all major components, the software package, the navigation systems and the frame. Now it's a matter of making them work together.
+
+P:
+> How long?
+
+C:
+> Around eight hours. Maybe less if nothing catches fire.
+
+P:
+> That does not sound reassuring.
+
+Stage 13 can now be completed.
+
 ---
 
 ## July quest
@@ -217,3 +241,37 @@ P:
 > Sometimes I am. I'll be waiting for your message.
 
 Timegate.
+
+C:
+> It seems that your luck has not run out. Your cargo has been delivered. The courier told me he gave the tablet to Natalia Gromova, in person.
+
+P:
+> That's nice to hear. What do I need to do then?
+
+C:
+> [Staff_agent627_recommendation_letter.txt](/Staff_agent627_recommendation_letter.txt)
+
+> Here's the server address `855.529.8.2`, through it you can create a secure connection to the tablet AND it would be encrypted. Of course, as I already told you it would be going through the OFFICIAL CEDRT line so mind what you say, but alas it should be stable enough for you to use. Just use the messender and find Natalia by her FREEL iD - `245738`  
+Also, for your efforts with the ambush I'v added a small recommendation letter and sent it to the tablet already. I think it would help with establishing connections, even if for a bit. I'll send you a copy, I hope it will lighten the mood slightly.
+
+> [!NOTE]
+> The ID is different for each player.
+
+P:
+> That is… much appreciated. Thank you.
+
+C:
+> No worries. But please, tell me what you'd know from her. I need to get information about my sister. Although it seems that this might be a dead end.
+
+P:
+> Don't lose hope. I'll contact you as soon as I know anything.
+
+The personal log gets updated here.
+
+C:
+> It wasn't supposed to.
+
+> Keep your fingers crossed.
+
+Now Stage 13 unlocks
+
