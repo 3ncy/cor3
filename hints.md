@@ -5,6 +5,13 @@ You can write Natalia Gromova
 ```
 When connecting to the server `RM7-A2ES` anytime after completing the "August" quest, as a reminder that the chat is restricted to that server.
 
+## 9 September
+### "Mule-9" Confirmed Captured
+```
+SNN confirms the cargo ship Mule-9 was captured on its way to REPNODE. Chris Tong would know what it was carrying — ask him about the seizure.
+```
+After opening the news article.
+
 ## 6 September
 ### Strange Order
 ```

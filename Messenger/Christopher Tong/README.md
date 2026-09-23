@@ -369,3 +369,21 @@ C:
 > Fine, let's do it your way. I hope you know what are you doing.
 
 The personal log in the Codex gets updated.
+
+## "Mule-9" Confirmed Captured
+
+P:
+> Hey. Did you catch the news? About the ship - the one that got captured? Wild times we're in.
+
+C:
+> I saw it. I was hoping it was just rumours. But it seems the rabbit hole is deeper than anyone wants to admit this time.
+
+...
+
+C:
+> The one detail that bothers me - why leave the crew alive? It would have been safer to get rid of them. No witnesses. Unless they were so confident the crew has nothing useful for an investigation. Or... they left them alive deliberately. A false trail, something to keep investigators busy while they go dark.
+
+P:
+> Good questions. But I've got a feeling this time, they're staying with no answers.
+
+The fragment gets unlocked
