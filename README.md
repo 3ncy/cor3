@@ -232,7 +232,7 @@ See [Achievements.md](Achievements.md).
 * [rebel_movements.jpg](/News/news/rebel_movements.jpg) - [rebel_movements](https://cdn.cor3.gg/corie/news/rebel_movements.jpg)
 * [earth_fragments_products.jpg](/News/news/earth_fragments_products.jpg) - [earth_fragments_products](https://cdn.cor3.gg/corie/news/earth_fragments_products.jpg)
 * [repent_no_sleep.jpg](/News/news/repent_no_sleep.jpg) - [repent_no_sleep](https://cdn.cor3.gg/corie/news/repent_no_sleep.jpg)
-* []
+* [Pale Weather — Titan Storm Track.mp3](/news/news/pale_weather_titan_storm_track.mp3) - [pale_weather_titan_storm_track](https://cdn.cor3.gg/corie/news/pale_weather_titan_storm_track.mp3)
 
 ### forum
 * [pit_semifinal_s7_audio.ogg](/pit_semifinal_s7_audio.ogg) - [pit_semifinal_s7_audio](https://cdn.cor3.gg/corie/forum/pit_semifinal_s7_audio.ogg) - fileID `019fab3b-8f38-7217-bd2d-7c4399ede430`
