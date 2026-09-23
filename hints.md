@@ -5,6 +5,21 @@ You can write Natalia Gromova
 ```
 When connecting to the server `RM7-A2ES` anytime after completing the "August" quest, as a reminder that the chat is restricted to that server.
 
+## 6 September
+### Strange Order
+```
+The freight operator signed his post with his own name and company — Yael, Dross Freight Solutions. Look him up in the Database and add him to Messenger.
+```
+
+```
+Yael's bot answered with a cooperation form. Open the image and read its file properties — the Comment field names the server he backs up to. Connect to that address, get access to the server, then download the encrypted delivery manifest and decrypt it.
+```
+
+```
+Yael has posted again and closed the thread. Go back to the Orbital Residents Forum and read how it ends.
+```
+After reading the [ORDER_MANIFEST_ANO-2251-047.png](/ORDER_MANIFEST_ANO-2251-047.png.jpg) decrypted document.
+
 ## 2 September
 ### July
 ```

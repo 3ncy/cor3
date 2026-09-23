@@ -249,7 +249,8 @@ See [Achievements.md](Achievements.md).
 * [astrocrop_facility04_ops_log_excerpt.jpg](/astrocrop_facility04_ops_log_excerpt.jpg) - [astrocrop_facility04_ops_log_excerpt](https://cdn.cor3.gg/corie/forum/astrocrop_facility04_ops_log_excerpt.jpg) - `019fdb9a-de50-7e51-a660-af8ec393d6ea`
 * [DOGCHIP_BRAIN_MAP_FAKE.png](/DOGCHIP_BRAIN_MAP_FAKE.png) - [DOGCHIP_BRAIN_MAP_FAKE](https://cdn.cor3.gg/corie/forum/DOGCHIP_BRAIN_MAP_FAKE.png) - `019fb7af-3d1e-752a-9701-0a1f3624f442`
 * [MOC_NEUROSCREEN_LEAK.jpg](/MOC_NEUROSCREEN_LEAK.jpg) - [MOC_NEUROSCREEN_LEAK](https://cdn.cor3.gg/corie/forum/MOC_NEUROSCREEN_LEAK.jpg) - `019fb7af-3d1e-7329-80ba-a710db2c6737`
-
+* [cooperation_form_DFS.jpg](/cooperation_form_DFS.jpg) - [cooperation_form_DFS](https://cdn.cor3.gg/corie/forum/cooperation_form_DFS.jpg)
+* [ORDER_MANIFEST_ANO-2251-047.png](/ORDER_MANIFEST_ANO-2251-047.png.jpg) - [order_manifest_ano_2251_047](https://cdn.cor3.gg/corie/forum/order_manifest_ano_2251_047.jpg)
 ---
 </details>
 

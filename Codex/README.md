@@ -83,6 +83,9 @@
 * [Personal Log — Entry 17](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2017.md) - paying in Stage 14
 * [Mantis-class Blueprints](/Mantis_Blueprints.vbt.png)
 
+### Strange Order
+* [DFS internal server — 855.529.2.4](./Entry%203%20The%20Way/DFS%20internal%20server%20—%20855.529.2.4.md)
+
 ### 2251 Crisis / June
 * [Personal Log — a leak](./Entry%203%20The%20Way/Personal%20Log%20—%20a%20leak.md)
     * [Personal Log — the CIS sweep](./Entry%203%20The%20Way/Personal%20Log%20—%20the%20CIS%20sweep.md)

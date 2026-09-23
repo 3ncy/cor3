@@ -1,0 +1,3 @@
+Dross Freight Solutions internal server: 855.529.2.4 — RM7-S4L4, the station node Yael backs his records up to.
+
+Recovered from the metadata of the cooperation-request form Yael's auto-reply bot hands out — the address was sitting in the file's Comment field. The server holds the encrypted delivery manifest for anonymous order ANO-2251-047: twenty industrial anti-radiation blocks, four ARK-7 autonomous comms stations, ninety-day rations for twenty people, and one sealed 'specialist equipment' crate (SE-FWD-01) sourced through a supplier that arrived attached to the order. Prepaid in full — CR 4,940,400 — no direct contact, no records beyond the manifest. Every line of the load points at a long-range, isolated operation someone made sure would leave no paper trail.

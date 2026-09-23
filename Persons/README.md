@@ -36,3 +36,4 @@ People with 6-digit ID who have been used the story so far
 * [Daniel Bailey](./Daniel%20Bailey/)
 * [Ozren Navratil](./Ozren%20Navratil/) - ID is from [Valeriani_TM_Ozren_Navratil_request_3.odt](/Valeriani_TM_Ozren_Navratil_request_3.odt.md)
 * [Natalia Gromova](./Natalia%20Gromova/) - ID is from a [chat with Chris Tong](/Messenger/Christopher%20Tong/README.md#August-quest), she is related to the August [quest](/Quests.md)
+* [Yael Dross](./Yael%20Dross/) - used in the Strange Order Forum quest
