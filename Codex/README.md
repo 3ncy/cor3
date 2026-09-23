@@ -39,6 +39,8 @@
 * [Worth Checking](./Entry%203%20The%20Way/Worth%20Checking.md)
 * [Email: From: Chris Tong](/Email%20From%20Chris_Tong.txt.md)
 * [Mantis drone R4RD(Tong)](/Mantis_drone_R4RD(TONG).png.jpg)
+* [KRVA_BB Project Files](./Entry%203%20The%20Way/KRVA_BB%20Project%20Files.md)
+* [Dossier C.S.Tong — Text](./Entry%203%20The%20Way/Dossier%20C.S.Tong%20—%20Text.md)
 
 ### 3.2: Broken Server
 * [CEDRT Mainframe](./Entry%203%20The%20Way/CEDRT%20Mainframe.md)
