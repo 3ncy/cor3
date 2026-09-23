@@ -183,6 +183,25 @@ P:
 
 This unlocks stage 15.
 
+After a timegate after naming the drone.
+
+C:
+> The test results look good. Better than I expected, honestly.
+
+P:
+> No critical failures?
+
+C:
+> None. A few minor issues, but nothing serious. The drone is stable, the communication link is holding and the cargo systems work.
+
+P:
+> So what's next?
+
+C:
+> You send it on an actual sortie. Pick a safe location on Mars and let it do some work.
+
+This sets the `systemVersion` to `3.05`, which unlocks the drone for use.
+
 ---
 
 ## July quest

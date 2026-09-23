@@ -1,0 +1,1 @@
+Its regirested. Its ours. Officially. Crazy shit. Now it’s time for a first real flight.

@@ -81,6 +81,7 @@
 * [Personal Log — Entry 15](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2015.md) - paying for Stage 12 and waiting
 * [Personal Log — Entry 16](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2016.md)
 * [Personal Log — Entry 17](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2017.md) - paying in Stage 14
+* [Personal Log — Entry 18](./Entry%203%20The%20Way/Personal%20Log%20—%20Entry%2018.md) - Talking to Chris about drone building success.
 * [Mantis-class Blueprints](/Mantis_Blueprints.vbt.png)
 
 ### Strange Order
