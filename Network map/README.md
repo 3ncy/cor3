@@ -193,6 +193,7 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 
 ### RM7-W3NCP
 * [LINDSTROM_KELLER_SOFT_ECLIPSE_CHAT.log](/LINDSTROM_KELLER_SOFT_ECLIPSE_CHAT.log)
+* [cedrt-ddab-bckp201751.cr3z](/CEDRT%20Expedition%20Check/)
 
 ### RM7-N1L1
 * [moses_private_deals.ab52p]

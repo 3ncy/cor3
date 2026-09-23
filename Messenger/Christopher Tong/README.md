@@ -1,4 +1,4 @@
-Following the conversation about an alleged "leak", which happens after the emergency notification from [CEDRT Work Chat](/Messenger/CEDRT%20Work%20Chat/), the codex entry `019f846d-07e8-7e96-9988-483505f2d919` is unlocked.
+Following the conversation about an alleged "leak", which happens after the emergency notification from [CEDRT Work Chat](/Messenger/CEDRT%20Work%20Chat/), the codex entry [Personal Log — a leak](/Codex/README.md#2251-crisis--june) is unlocked.
 
 ---
 
@@ -127,7 +127,12 @@ C:
 P:
 > That does not sound reassuring.
 
-Stage 13 can now be completed.
+C:
+> It wasn't supposed to.
+
+> Keep your fingers crossed.
+
+Stage 13 now unlocks.
 
 ---
 
@@ -267,11 +272,3 @@ P:
 > Don't lose hope. I'll contact you as soon as I know anything.
 
 The personal log gets updated here.
-
-C:
-> It wasn't supposed to.
-
-> Keep your fingers crossed.
-
-Now Stage 13 unlocks
-
