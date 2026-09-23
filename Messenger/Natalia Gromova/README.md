@@ -1,6 +1,8 @@
 > [!IMPORTANT]
 > The chat only works when connected to the `RM7-A2ES` server through the [Network map](/Network%20map/) application.
 
+## August
+
 Player:
 > Hello. I hope I'm not interrupting anything with my call. I'm sorry to bother you like that, but we might have a security risk that has to be resolved. This can not be done without boots on the ground and, based on your Dossier, we have decided that you might be just the right person to ask for help.
 
