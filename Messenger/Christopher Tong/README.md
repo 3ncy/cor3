@@ -321,3 +321,51 @@ P:
 > Don't lose hope. I'll contact you as soon as I know anything.
 
 The personal log gets updated here.
+
+## September quest
+After talking to Natalia Gromova about the photo of the priests.
+
+P:
+> Hey Chris. So here's the deal. That group have been found. I can share the photos with you, but you can't see faces on those. This means we need to probably intercept and capture that group. And that requires weapons and armor. Do you think we can get those through official channels?
+
+C:
+> Oof … no, I dont think we can. I mean, theoretically we could offer some armor through CCS channels but there's a rumor that every set has a body sensor and some sort of a homing beacon embedded in it, which could be a fatal choice for most operatives.
+
+P:
+> That's not good. Any Ideas on how to avoid that?
+
+C:
+> Black market. We would likely have to buy weapons there anyway so why not go for the armor as well. Maybe you would even have some friends able to give you a discount?
+
+P:
+> You know, its not such a bad Idea, i still have several groups that i could contact … but let’s say those are not \"secure\" options.
+
+C:
+> Nothing is safe nowadays. I'd say go for it. We can't risk neither CADL or CIS additional involvement in the matter anyways. We dont want all that quarantined and some CIS interrogator starting to ask very unpleasant questions…
+
+P:
+> Okay, fair point. I will look through the market and see what I can find. Maybe ask for favors as well.
+
+The personal log in the Codex gets updated.
+
+After obtaining the weapons through ChuckTheFerry:
+
+P:
+> Chris, my package has been received. What about you?
+
+C:
+> I have got my hands on a few crates of old CCS riot gear which apparently had body armor as well. I am planning to drop it down VIA a shuttle directly to the camp. Might as well smuggle your weapons in the same ship.
+
+P:
+> Is it legitimate?
+
+C:
+> Nope. That shuttle pilot is basically insane. He is muttering some crazy things about being an ex-operative of some sorts but I have not figured it out yet. But still i think he is more then capable of doing what’s needed. We can always retort to a "no witness" method, after all …
+
+P:
+> No, that is not the way. Let him drop all that stuff above the camp. Maybe that would work. No landing = no information on who and why.
+
+C:
+> Fine, let's do it your way. I hope you know what are you doing.
+
+The personal log in the Codex gets updated.

@@ -1,3 +1,10 @@
+## 23 September
+### September
+```
+You can write Natalia Gromova
+```
+When connecting to the server `RM7-A2ES` anytime after completing the "August" quest, as a reminder that the chat is restricted to that server.
+
 ## 2 September
 ### July
 ```

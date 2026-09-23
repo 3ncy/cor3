@@ -1,0 +1,1 @@
+A dead-weight data blob — no headers, no structure, nothing that reads. Whatever it's really for, it isn't meant to be opened. Someone just wants it sitting on a server.

@@ -101,6 +101,10 @@
 ### 2251 Crisis / August
 * [Personal log](./Entry%203%20The%20Way/Personal%20log%20(August).md) - after the quest is autostarted. The entry gets gradually updated
 
+### 2251 Crisis / September
+* [Personal log](./Entry%203%20The%20Way/Personal%20log%20(September).md) - after the quest is autostarted. The entry gets gradually updated
+* [Cult recon photo](/Exp_image_0197.raw.png)
+
 ## Martian Silence
 ## 1: Private Matters
 * [Personal Log](./Martian%20Silence/Personal%20Log.md)

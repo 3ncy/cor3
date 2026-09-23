@@ -63,3 +63,64 @@ P:
 > [20 files attached] Pulled from the CEDRT server. Expedition member photos, official personnel shots. But seems like they've been altered. Someone went in and redacted them.
 
 No reply, this is the end of the August quest (after the timegate completes).
+
+## September
+
+N:
+> Hey. I hope I didn't interrupt anything important
+
+P:
+> No, all is fine. Any news?
+
+N:
+> Yes. My guys report they have found the group. Although most of their faces did not match the group, everything else, including equipment did.
+
+P:
+> But?
+
+N:
+> Yeah, but … Those guys are heavily armed and probably armored as well. We have spotted them preaching some heretical nonsense about communion, tolerance towards everyone and things like that. To me it sounded just funny, but it seems the local population was touched a bit.
+
+P:
+> So, what does that mean for us?
+
+N:
+> It means that if you want to catch them alive, for interrogation, we would need several sets of armor and weapons. Including the heavy armor-piercing ammunition most likely. Do you have the means to get that?
+
+P:
+> Maybe, but it won't be easy. But are you completely certain that it's really required? Do you have any proof of them having all that equipment you told me about?
+
+N:
+> Yes, I am. Because I have the photos. And I will transfer those to you so you can make sure yourself.
+
+P:
+> I mean no disrespect …
+
+N:
+> None taken. Sending the photos now.
+
+The file [Exp_image_0197.raw](/Exp_image_0197.raw.png) gets automatically downloaded to the desktop. The conversation continues after viewing the file.
+
+N:
+> Convincing enough?
+
+P:
+> Yes, definitely. I need to see what I can do about the weapons part but the armor … Could standard CCS ones work, you think?
+
+N:
+> In worst case scenario - yes, but as far as i know the quality of the CORE Arms products have deteriorated so those would not be the same as the old models…
+
+P:
+> Got it. I will figure something out.
+
+N:
+> Ok. Don’t waste time for nothing though. My guys tell me that those "priests" might leave the area soon and it would be harder to trace them.
+
+P:
+> Thank you, appreciated for everything.
+
+N:
+> One last thing. This is getting complicated and maybe that is the time someone reasonable would have to stand up and report to CADL or CIS for resources. The only 2 reasons that I am not doing this myself are that I do not want to set up my friends here and that if you do that you’ll probably never hear about those cultists again. They would be handled. So it’s up to you to decide, actually.
+
+P:
+> You didn't make it easier. Fine, I understand. I will contact you when I get those assets. Thank you, again.
