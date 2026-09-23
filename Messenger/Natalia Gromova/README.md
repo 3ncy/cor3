@@ -124,3 +124,71 @@ N:
 
 P:
 > You didn't make it easier. Fine, I understand. I will contact you when I get those assets. Thank you, again.
+
+After obtaining the weapons, talking to Chris and waiting for the timegate:
+
+P:
+> Hey, all good?
+
+N:
+> Fine. Although we had a bright night because of your delivery. Literally cargo containers dropping from a sky with their lights on.
+
+P:
+> Sorry for that. Did that give you any trouble?
+
+N:
+> No, not really. Also, these CCS old armor vests… I'm not sure they would be able to stop those guy's bullets. But better then nothing, i guess. Besides the CCS logos give some authority and could confuse the enemy, if my guys would be bold enough to come close.
+
+P:
+> Fair enough. Anything else I can do?
+
+N:
+> Yes. While I will be distributing weapons and gear I would need you to scan the area where we suppose your "friends" camp is located. We have kinda traced them there but they hid themselves. So we need an eye from the sky. A thermal one.
+
+> The area codename - BXC9V0F. You need to somehow target spy satellites to this area.
+
+P:
+> Ok.
+
+N:
+> That’s the spirit. Great, then I’ll just finish the asset distribution and wait for your "map" of the location. If you could manage of course.
+
+After marking the targets in [LOOMING_Sat_control_v2_43_portable.exe](/LOOMING_Sat_control_v2_43_portable.exe.md) and downloading the file [BXC9V0F_shot0.raw](/BXC9V0F_shot0.raw.webp).
+
+N:
+> Hey. All is done from my side. You?
+
+P:
+> [file BXC9V0F_shot0.raw attached] Yes. Here’s the area map. As you can see this zone is not lifeless. Anything could happen…
+
+N:
+> Yes… dangerous. But, we could use that to our advantage. After all who knows what could happen to a bunch of weird cultists down here… A proper ambush would suffice.
+
+P:
+> You are starting to scare me. Who are you? You know a good chunk of field ops tactics, at least.
+
+N:
+> You might have guessed already - ex CIS. I have been working with field ops on different tasks. Can't go into details, really, but we did most of it.
+
+P:
+> So, why are you here then?
+
+N:
+> Because i wanted to switch careers. Helping people instead of making them die.
+
+P:
+> Noble, but…
+
+N:
+> I know what you are going to say. I am helping you for several reasons, but the 2 main ones are: First - I hate spies, especially the ones using OUR cover to do bad things. Second - these guys creep me out. There is something wrong with them, i can feel it.
+
+> Speaking of, i was generally impressed that you did not use CCS or CIS assets, and didn’t go to CADL as well. You are a quite resourceful individual, that gives you additional respect points in my eyes.
+
+P:
+> Thanks. Let's talk about that later.
+
+N:
+> Sure, but Anyways, we are ready to start. With your map and equipment my guys should be fine down there. I’ll call them to start the operation. You have some time to do whatever because ambushes take time. If you want - i’d advise you to monitor the situation through your satellite. Might get some insights after all.
+
+P:
+> Thanks, maybe i will do that.

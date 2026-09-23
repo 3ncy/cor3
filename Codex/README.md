@@ -107,6 +107,7 @@
 ### 2251 Crisis / September
 * [Personal log](./Entry%203%20The%20Way/Personal%20log%20(September).md) - after the quest is autostarted. The entry gets gradually updated
 * [Cult recon photo](/Exp_image_0197.raw.png)
+* [Orbital thermal shot — BXC9V0F](/BXC9V0F_shot0.raw.webp)
 
 ## Martian Silence
 ## 1: Private Matters

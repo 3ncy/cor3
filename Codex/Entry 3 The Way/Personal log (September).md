@@ -32,3 +32,35 @@ There's a need for a gear drop to Mars. Doesn't sound easy - not by a long shot.
 Chris says he can get some armor, but the guns are on me. Only route is the darknet. Black Market shouldn't be a problem, except for the price. Credits do the work - if there's enough of them. Or maybe someone from the darknet can help, if I play it right. Save myself some serious financial damage.
 
 The cargo should have already reached the drop-off point. Need to contact Natalia and confirm.
+
+---
+
+> [!NOTE]
+> The file gets updated 2 hours later.
+
+Time to check Natalia's secure commlink. She's probably got something for me by now.
+
+There's a need for a gear drop to Mars. Doesn't sound easy - not by a long shot. Should talk it through with Chris.
+
+Chris says he can get some armor, but the guns are on me. Only route is the darknet. Black Market shouldn't be a problem, except for the price. Credits do the work - if there's enough of them. Or maybe someone from the darknet can help, if I play it right. Save myself some serious financial damage.
+
+The cargo should have already reached the drop-off point. Need to contact Natalia and confirm.
+
+Now I need a way to take an orbital thermal shot of a specific area. Things are getting harder. Might check RM7-ST/A-S4 server - see if there's a way to work with the sat arrays. Location codename: BXC9V0F.
+
+---
+
+> [!NOTE]
+> The file gets updated after giving Natalia the file [BXC9V0F_shot0.raw](/BXC9V0F_shot0.raw.webp).
+
+Time to check Natalia's secure commlink. She's probably got something for me by now.
+
+There's a need for a gear drop to Mars. Doesn't sound easy - not by a long shot. Should talk it through with Chris.
+
+Chris says he can get some armor, but the guns are on me. Only route is the darknet. Black Market shouldn't be a problem, except for the price. Credits do the work - if there's enough of them. Or maybe someone from the darknet can help, if I play it right. Save myself some serious financial damage.
+
+The cargo should have already reached the drop-off point. Need to contact Natalia and confirm.
+
+Now I need a way to take an orbital thermal shot of a specific area. Things are getting harder. Might check RM7-ST/A-S4 server - see if there's a way to work with the sat arrays. Location codename: BXC9V0F.
+
+Enough time's passed for the operation to be done. Time to reach out to Natalia.

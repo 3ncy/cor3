@@ -196,6 +196,7 @@ Path related to the Nutcracker website
 
 #### 854
 * [Exp_image_0197.raw](/Exp_image_0197.raw.png) - [exp_image_0197](https://cdn.cor3.gg/corie/loops/acts/3/854/exp_image_0197.png)
+* [BXC9V0F_shot0.raw](/BXC9V0F_shot0.raw.webp) - [BXC9V0F_shot0.raw](https://cdn.cor3.gg/corie/loops/acts/3/854/BXC9V0F_shot0.raw.webp)
 
 ---
 

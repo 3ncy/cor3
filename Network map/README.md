@@ -205,6 +205,7 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 ### RM7-ST/A-S4
 * [e4-08-92251_auto_control_11-ST59.raw](/e4-08-92251_auto_control_11-ST59.raw.png)
 * [e4-08-92251_auto_control_14-ST59.raw](/e4-08-92251_auto_control_14-ST59.raw.png)
+* [LOOMING_Sat_control_v2_43_portable.exe](/LOOMING_Sat_control_v2_43_portable.exe.md)
 
 ## Server information
 | Server Name | Faction | Transit | Type | Cluster | Location  | IP | Color | Owner | Market | Defence Rate |
