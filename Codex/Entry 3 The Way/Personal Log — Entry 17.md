@@ -1,0 +1,1 @@
+Protocol conflict mitigated. One more step behind us. Now is the time for certification and the drone would be officially ours

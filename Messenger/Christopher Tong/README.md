@@ -134,6 +134,55 @@ C:
 
 Stage 13 now unlocks.
 
+After finishing the tasks in Stage 13 and the timegate:
+
+C:
+> We need to test it in real conditions. I've booked a shuttle slot.
+
+P:
+> So this is it? The first flight?
+
+C:
+> The first flight, yes. Not a mission. Not yet.
+
+P:
+> What's the difference?
+
+C:
+> Today we're testing the drone itself. Cargo systems, communications, stealth, power consumption, flight stability. Nothing useful, just data.
+
+P:
+> Sounds expensive.
+
+C:
+> It is. Crashing a prototype is even more expensive.
+
+P:
+> Fair point.
+
+C:
+> Attach it to the shuttle and send it down. The tests will run automatically. Expect around twenty hours before we get all the results back.
+
+Stage 14 unlocks.
+
+After paying in Stage 14:
+
+C:
+> Bad news. Flight data showed a protocol mismatch between navigation and cargo.
+
+P:
+> How bad is it?
+
+C:
+> Not catastrophic. The drone won't explode.
+
+> We just need an adapter or a firmware patch. Annoying problem, not a serious one.
+
+P:
+> Fine. Let's get it fixed.
+
+This unlocks stage 15.
+
 ---
 
 ## July quest

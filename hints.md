@@ -184,6 +184,24 @@ After the wait is over.
 Complete the next drone build step: cargo, comms, and stealth field trials.
 ```
 
+```
+Talk to Chris Tong about launching the drone field trials.
+```
+After the 20-hour wait in Stage 13 is over.
+
+```
+Complete the next drone build step: protocol bridge system integration.
+```
+Unlocking Stage 14.
+
+```
+Talk to Chris Tong about the flight data protocol mismatch.
+```
+
+```
+Open the drone page: pay the registration fee, name the drone, and wait for the administration check-up.
+```
+Unlocking Stage 15.
 
 ### June quest
 
