@@ -389,6 +389,56 @@ C:
 
 The personal log in the Codex gets updated.
 
+After chatting with Natalia about the ambush that happened:
+
+P:
+> Hey man. I'v got some news for you…
+
+C:
+> Did you find her? Is she ok?
+
+P:
+> Listen, we did find her, but it was not HER.
+
+C:
+> What do you mean? Stop playing around and fucking tell me already.
+
+P:
+> I'm sorry, it's just… okay, so we found a RepEnt with her credentials. Looked nothing like her but had her uniform and ID and all that stuff.
+
+C:
+> What… how? Why?
+
+P:
+> I don't know. No one knows. Their group, the ones that slipped through, seem to be all (or mostly) consisting of RepEnts. They are all killed now. The autopsy reports are still not done because the corpses are being dissected locally but give it a time - we will get to know what happened.
+
+C:
+> Is everyone dead? All of them
+
+P:
+> Actually no, I think one or two were wounded, but not your \"sister\", sadly.
+
+C:
+> Thank you for telling me. I am confused so please give me some time to process that. And please send any additional information when you have it.
+
+P:
+> Will do. Honestly, I think that is a good sign. Means your sister is somewhere else.
+
+C:
+> Or they killed her and took her identity… But thanks for trying to give me hope.
+
+P:
+> Anything I can do to help you?
+
+C:
+> No, not right now. Let me process that, please.
+
+P:
+> Sure. I will contact you when I have something else.
+
+C:
+> Thank you.
+
 ## "Mule-9" Confirmed Captured
 
 P:
@@ -405,4 +455,4 @@ C:
 P:
 > Good questions. But I've got a feeling this time, they're staying with no answers.
 
-The fragment gets unlocked
+The fragment gets unlocked.

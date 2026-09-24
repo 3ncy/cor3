@@ -192,3 +192,50 @@ N:
 
 P:
 > Thanks, maybe i will do that.
+
+1-hour timegate.
+
+N:
+> Its done, but i do not think you would be happy. We have captured just 2 alive. Everyone else - dead. And i'm honestly not sure they died because of bullet holes.
+
+P:
+> How so?
+
+N:
+> Well, they are RepEnts. So it could be that the sensory feedback was too much for the operators and they simply disconnected, leaving 2 wounded comrades, which were the real people actually, to get captured. I guess they hoped those would die.
+
+P:
+> This is not getting easier…
+
+N:
+> Well, what did you expect? Anyways, i will keep an eye on those 2 captured guys, so dont worry. I will send you any intel we could get from them.
+
+P:
+> What about the woman though? Pamela Flow? Was she there?
+
+N:
+> No. The only "woman" person was a RepEnt as well. It matched her description but that was just a decoy.
+
+P:
+> Okay… i will have a very long and dramatic chat with my friend then …
+
+N:
+> Shit happens. Especially here. But, anyways. You would probably be happy to know that we have found some coordinates. It seems they overlap with the ones you have. Same door, different keys. I will give you those coordinates and YOU have to make a map of that area.
+
+P:
+> Fine. I'm turning into your cartographer it seems.
+
+N:
+> The difference between a WIN and a LOOSE is in the operation preparations. So i need time and you could make it go easier. I don’t see why you should not?
+
+P:
+> Never mind please. Some old habits die young.
+
+N:
+> Interesting. But fine. You have time to prepare that map while my guys are moving there. Thankfully they did not take any losses during the ambush, they just need a slight rest. So go on, take your time and create that map. But don’t stall for TOO long. Please.
+
+P:
+> I feel happy… fine. Will do.
+
+N:
+> Don’t try your luck…
