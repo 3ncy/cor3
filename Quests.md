@@ -36,3 +36,4 @@
 * -854 September
 * -822 "Mule-9" Confirmed Captured
 * -855 October
+* -823 Found in Acid (Station Director Found in Acid)
