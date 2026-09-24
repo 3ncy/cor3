@@ -214,3 +214,40 @@ A:
 
 P:
 > Sure thing.
+
+## October
+
+After viewing three photos [camp_exterior.jpg](/camp_exterior.jpg.png), [cave_interior.jpg](/cave_interior.jpg.png), and [crates_markings.jpg](/crates_markings.jpg.png).
+
+P:
+> Hello. I have some interesting information. Apparently there are many so-called black sites on Mars. And they seem to have been there for quite some time. Have you heard anything about it?
+
+A:
+> No.
+
+P:
+> And that's it? Just 'no' without any additional information?
+
+A:
+> Listen … I would have told you if I could. There are things that I simply cannot disclose. If you want to find something — now is your time.
+
+P:
+> That's just illogical coming from you. You tasked me to dig up the history of that place. Did something change?
+
+A:
+> No. We still need you to get information on several locations and major events, but those black sites do not really concern us. We have heard about them, but they seem to be rather 'new' so this is simply out of our interests.
+
+P:
+> Fine … this is still weird but I'll look at all that myself.
+
+A:
+> If you have time — sure. But we still expect you to work with us more closely, especially considering you are getting more networked.
+
+P:
+> I feel that coldness coming from you even through the messenger …
+
+A:
+> Sorry, just have been a rough day. But anyways — feel free to contact me if you stumble onto something that would interest us. And I will try to help you out a bit.
+
+P:
+> Deal. And yes, I understand it all. So thank you. This is not something I can just let go.

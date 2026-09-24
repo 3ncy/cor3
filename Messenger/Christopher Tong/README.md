@@ -456,3 +456,53 @@ P:
 > Good questions. But I've got a feeling this time, they're staying with no answers.
 
 The fragment gets unlocked.
+
+## October quest
+After talking to Aurana.
+
+P:
+> Hey, how are you doing?
+
+C:
+> Fine. I'm packing.
+
+P:
+> What? Where? Why?
+
+C:
+> You know, I have been here only because of my sister. And she is not here any more. I need to find out what happened to her so I'm going to her last known address — somewhere on Ganymede. I want to try and chase her trail.
+
+P:
+> I … understand. Not gonna lie, it would be much harder here without you.
+
+C:
+> Things change. I hope I will be back in 2 weeks, maybe more. But you'd never know what can happen out there. The void is dark and full of terrors, as they say.
+
+P:
+> Who says that?
+
+C:
+> You know, the void guys. Space travellers. Cosmonauts and SOYUZ calls them. Sailors! You name it.
+
+P:
+> Fine fine, don't get angry. Was just trying to cheer you up a bit. Clearly didn't work.
+
+C:
+> It did work, just not enough. But anyways, I'm leaving my assistant in my absence. He is a somewhat weird guy but you'd probably like him. Contact him when you'll have time, he will help you out if he can. I will try to come back ASAP, I still have business on Mars, and yes, I will tell you later about it, but now I have to find peace and maybe find my sister. So give me time, please.
+
+P:
+> Fine. Last question before you depart — do you know what AW5.5.35 could mean?
+
+C:
+> I have seen such marks on some old shipment crates. AW means "all weapons", probably small caliber stuff. And 5.5.35 is the date. Why?
+
+P:
+> One of those crates have been found in the camp.
+
+C:
+> Oh … that means someone has been a very bad boy for quite some time. Almost 20 years … no, 16? Well, if that is the case you would need the access to the station logs to see which ship has been delivered by. If it went through this station at all — it'll be there.
+
+P:
+> Thank you. And safe travels. I hope to see you back soon.
+
+Cody Rennick messages the player.

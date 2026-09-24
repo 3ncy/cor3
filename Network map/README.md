@@ -138,6 +138,7 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 
 ### RM7-E1SCP
 * [sw12_Sec_Report_2341245.txt](/sw12_Sec_Report_2341245.txt.md)
+* [TRANSIT_BATCH_LOG_TRB-2231-0447](/TRANSIT_BATCH_LOG_TRB-2231-0447.md)
 
 ### EM[RM7-E2L2]
 * [connections_log_recovered.log](/connections_log_recovered.log)

@@ -239,3 +239,114 @@ P:
 
 N:
 > Don’t try your luck…
+
+## October
+N:
+> Are you ready? The team would be approaching the location shortly. Can you provide the area scans? The area codename for this time: BXV4Y3F
+
+P:
+> I can try. Give me a few minutes.
+
+After taking the image [BXV4Y3F_shot0.raw](/BXV4Y3F_shot0.raw.webp) in the [LOOMING_Sat_control_v2_43_portable.exe](/LOOMING_Sat_control_v2_43_portable.exe.md) "app".
+
+P:
+> Here you go, uploading the file now.
+
+> [BXV4Y3F_shot0.raw](/BXV4Y3F_shot0.raw.webp)
+
+N:
+> Like we expected — nothing threatening, but I would still tell my people to keep both eyes open.
+
+P:
+> It's a generally good advice, you know.
+
+N:
+> Joking? That's a good sign. All right, I will contact you as soon as the team gets there. You can tap into their comms by the way in case you want to hear it all in real time.
+
+P:
+> That is a good idea. Can I talk to them?
+
+N:
+> I would not advise that. Besides there would be a half a minute delay. Local interference of some sorts looks like.
+
+P:
+> Weird … but ok, I'll just sit and listen for once.
+
+File [gamma12_comms.ogg](/gamma12_comms.ogg) is automatically downloaded. Listening to the file allows the conversation to progress.
+
+P:
+> So an ambush. 5 attacking hostiles and your guys managed to get it done with only 2 wounded. That's quite good in my opinion.
+
+N:
+> Yes. But I have told you that they had a somewhat military background, didn't I?
+
+P:
+> You might have, indeed. But anyways. A black site … can you ask them to conduct a thorough search?
+
+N:
+> Of course. They are professionals after all. I don't appreciate your mistrust, really.
+
+P:
+> Don't get me wrong, there is no mistrust, I just prefer to make sure things are right.
+
+N:
+> A control freak, how nice \uD83D\uDE42
+
+P:
+> Sometimes. Any info from them yet?
+
+N:
+> Yes, incoming data from the info-disks. And some photos of the area.
+
+P:
+> Anything useful?
+
+N:
+> Huh … you know, those drives contain more coordinates. In fact there are dozens of them. There are also comments attached to the coordinates but they are encrypted. That would take some time to crack.
+
+P:
+> I can help with that if needed.
+
+N:
+> No, we can handle that ourselves. And we will take care of the coordinates as well. You have other things to do.
+
+P:
+> What do you mean?
+
+N:
+> I mean that now we know that CIS was likely not looking for the information leak rather than the people who were getting smuggled down to the planet.
+
+P:
+> That's a good theory.
+
+N:
+> It is, and I suggest you dig through it. I highly doubt that this group has been the only one that slipped through security.
+
+P:
+> What do you incline towards? That someone on the station is helping them?
+
+N:
+> Oh, of that I have no doubt, but this looks too organised to be just a simple corruption thing. It goes much deeper and for your own safety it would be best if you get to the bottom of it.
+
+P:
+> Curiosity in your words see I. Some bad things can that lead to.
+
+N:
+> I am curious, of course. But I just know that this is important enough to take care of.
+
+P:
+> Fine, I will do it. But keep me in the loop about those sites. I want to know everything you find there.
+
+N:
+> As long as you keep me in the loop on the whole smuggling operation. Fair trade, isn't it?
+
+P:
+> Indeed it is. Fine. I will contact you when I have something.
+
+N:
+> Great! Oh, btw, here are some photos from the camp site. Maybe you will find something useful.
+
+P:
+> Thank you. I'll keep in touch.
+
+Three photos [camp_exterior.jpg](/camp_exterior.jpg.png), [cave_interior.jpg](/cave_interior.jpg.png), [crates_markings.jpg](/crates_markings.jpg.png) get downloaded.

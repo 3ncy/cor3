@@ -1,0 +1,1 @@
+The intercepted comm-channel of team Gamma12 during the camp raid — the group commander and Flame, the medic. Heavy interference throughout, with a ~30-second delay on the feed.

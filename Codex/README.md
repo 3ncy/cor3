@@ -110,6 +110,14 @@
 * [Cult recon photo](/Exp_image_0197.raw.png)
 * [Orbital thermal shot — BXC9V0F](/BXC9V0F_shot0.raw.webp)
 
+### 2251 Crisis / October
+* [Personal log](./Entry%203%20The%20Way/Personal%20log%20(October).md) - after the quest is autostarted. The entry gets gradually updated
+* [Orbital IR scan — BXV4Y3F](/BXV4Y3F_shot0.raw.webp)
+* [Gamma12 assault comms](./Entry%203%20The%20Way/Gamma12%20assault%20comms.md) - related to [gamma12_comms.ogg](/gamma12_comms.ogg)
+* [Camp exterior](/camp_exterior.jpg.png)
+* [Cave interior](/cave_interior.jpg.png)
+* [Crate markings — AW5.5.35](/crates_markings.jpg.png)
+
 ## Martian Silence
 ## 1: Private Matters
 * [Personal Log](./Martian%20Silence/Personal%20Log.md)
