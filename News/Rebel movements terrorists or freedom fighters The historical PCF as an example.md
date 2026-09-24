@@ -1,0 +1,55 @@
+# Rebel movements: terrorists or freedom fighters? The historical PCF as an example
+
+| Source | | Date | Author |
+|-|-|-|-|
+| ![](news/last_transmission_source_icon.png) | Last Transmission | 2251-07-27 |  |
+
+![](news/rebel_movements.jpg)
+
+There might have been a time when we were better equipped to answer the question of the distinction between freedom fighters and terrorist groups; a time before peace, and before the ending of peace. But it might surprise you that even during that time, the matter was muddy, unclear and confusing, just as it is today. It is a deceptively simple question: when does a rebel turn into something else, and what defines one as a terrorist or a freedom fighter?
+
+I would like to save you the trouble of reading too much and simply say: it depends on whether they are successful. But that would be reductive. In fact, the PCF is still in its infancy as far as ideological movements backing armed groups go, so such an answer will only be possible in retrospect. Many freedom fighters were only called that after they won their freedom. This is not to say that all terrorist organisations were misunderstood freedom fighters, but the former title has always been deeply interwoven with power structures. Unsurprisingly, the answer often depends less on the methods employed than on who ultimately writes the story.
+
+There are few modern examples that illustrate this dilemma as clearly as the Prime Colonial Forces (PCF), a decentralised movement that has become synonymous with resistance on Mars, and symbolically much farther than that. The myth around them, whether based in reality or not, adds to their legacy: descendants of those who should have been the planet’s first pioneers, left to die, defending what became their home against those who abandoned them. To some, they are defending their homes against distant political and corporate interests. To others, they are an armed insurgency responsible for destabilising an entire world and prolonging a conflict that has already claimed countless lives.
+
+This article will not answer which interpretation is true. That is something someone many years from now will get to decide, because such things as good and evil are matters of perspective. This article will only try to discuss the current ideas surrounding this discourse, so that future historians, or archaeologists if we are doomed, can have a reference for the story they will invent, which will eventually become the truth.
+
+The origins of the PCF predate its current military identity. The movement traces its heritage to the earliest generations of Martian settlers: scientists, engineers, medics and labourers who arrived during humanity’s first attempts to establish a foothold on a planet that carried so much hope before it became so much chaos. There is no contesting the Mars Uno disaster, but the idea that all attempts were failures is not entirely true. Like most colonial projects since the jump off Terra, the beginning was confusing, messy and unorganised. Settlements born from those failures survived under conditions few today can fully comprehend; conditions that have not been fully explained.
+
+Isolation fostered resilience: an adaptation to the environment that sets generational Martians apart in their ability to navigate and survive the conditions of the planet. Scarcity created communities that demanded cooperation. Survival became the defining principle of these communities.
+
+As later waves of colonists arrived under increasingly centralised administration, those original settlements found themselves confronted with systems of governance that had become unfamiliar to them. What started out in part as rescue missions would become hostile. Not every old and new settler had the same views or reactions, but records of conflict and the persistent distinction between these almost immiscible groups cannot be denied. Yet administrative structures expanded. Regulations multiplied. Economic priorities shifted. Many early communities chose integration into the new system, but never fully integrated, as they remained set apart systemically and socially by their origins. Other groups retreated further into the Martian frontier, preferring autonomy over participation.
+
+Whether that decision represented independence or isolation remains a matter of perspective, just as the question of whether they were left to their own devices, or were simply too difficult to assimilate fully, remains unresolved. Perhaps the effort was abandoned in the hope that they would be left to die.
+
+As centralised control over parts of Mars weakened over time, frontier settlements retained something many newer colonies had lost: intimate knowledge of the planet itself. Routes through unstable terrain, seasonal environmental changes, underground water systems and forgotten infrastructure remained largely in the hands of those who had lived there the longest. It is from these communities that the early stages of what would become the PCF emerged.
+
+It is worth mentioning, but not getting into, what some say the role of the Cult of Mars was in assisting these communities and later, allegedly, the PCF. The group is difficult to investigate, and therefore I will make no statements or conclusions. However, many of those interviewed mentioned in passing that the Cult provided something akin to spiritual guidance about the area and terrain. This is unclear, but it remains an essential part of the surrounding mystique and is therefore worth mentioning.
+
+Furthermore, the conspiracy theory that the PCF was manufactured or consists of drones, while tempting, is an unfounded claim with no reputable source, though it has been circulating recently. The PCF has confirmed human origins within isolated communities on Mars. The movement itself was not formalised until its adoption of arms and clashes with other groups on the planet.
+
+Unlike conventional military organisations, the movement operates through largely autonomous regional domains, similar to cells. This also refutes the conspiracy of a non-human puppet militia. Analysts suggest this structure makes the organisation unusually resilient, preventing the loss of individual leadership from crippling the wider movement. Critics argue that the same decentralisation makes negotiation nearly impossible, as responsibility for attacks and operations is frequently disputed even within the organisation itself.
+
+One retired security analyst described the problem succinctly, saying: “People expect insurgencies to have headquarters. They do not. They have relationships.”
+
+As for public opinion, supporters of the movement often reject the label of terrorist completely, questioning the authority of one armed group over another. “They have a right to do what they want in their home,” one anonymous resident of an independent Martian settlement told this publication. “They do not bother me more than anyone with a gun bothers me, so what makes their gun bad and another gun good?”
+
+Others have sympathy for their situation and, while they believe the PCF should be stopped, do not believe its members intend to cause harm. This view is often shared by non-Martian sympathisers.
+
+“People sitting safely on orbital stations call them extremists. Those same people inherited functioning infrastructure, regular supply lines and protection. The first settlers inherited wreckage and dust. They need help, not violence,” says an anonymous sympathiser aboard an orbital station.
+
+Not everyone has so much understanding. A transport captain operating commercial routes between Martian settlements offered a different perspective, sharing: “I have lost crew because somebody decided a freight convoy represented occupation instead of food deliveries. You can talk about history and whatever else you want; the dead do not care what ideology killed them.”
+
+These competing perspectives are hardly unique, nor are they simply relics of a past that is not as distant as we are from it. Political science has long observed that the language surrounding armed movements frequently changes alongside political outcomes. Groups once condemned as insurgents have, in other areas and worlds, eventually become governments themselves. Likewise, organisations founded on legitimate grievances have at times evolved into movements willing to justify increasingly indiscriminate violence.
+
+The PCF appears to occupy this uncomfortable middle ground.
+
+Its members frequently describe themselves as defenders of Martian self-determination and as the only force standing against the tyranny of a hegemonic system that does not represent everyone. Those who feel they are not being helped by, or at worst are being hurt by, this system tend to sympathise with that claim and use it to excuse violence in the name of a greater good. Their opponents argue that their methods undermine any message of meaningful ideology, and that the system they are fighting against is able to implement internal change, which they see as the only viable path in this new future.
+
+Complicating matters further is the movement’s relationship with the wider political landscape. Intelligence assessments have long suggested that outside actors have, at various times, viewed the PCF as a useful strategic instrument. Whether such relationships represented genuine alliances, temporary convenience or simple opportunism remains the subject of continuing speculation.
+
+Like many decentralised resistance movements, the PCF is not entirely ideologically uniform. Individual domains reportedly differ in both objectives and methods. Some prioritise protecting settlements and maintaining local autonomy. Others advocate broader campaigns against external authority. This variation makes broad generalisations difficult.
+
+For historians, however, the most important lesson lies elsewhere. Movements and groups do not emerge in isolation. They are usually products of circumstance, shaped by hardship and identity, political decisions and competing visions of legitimacy. What the PCF is, and why these questions are being raised now, is also part of a larger conversation about a rift in the sense of authority within what had, for decades, been a mostly homogeneous acceptance of one guiding power. Regardless of right and wrong, the question itself is important. It is a path toward exploring the circumstances and conditions that may one day be seen as having resulted in this jarring tear. Condemnation or celebration is meaningless for the historian. Understanding those origins ensures that complex historical processes are not reduced to convenient slogans, though perhaps they still, inevitably, become political ends.
+
+Whether the Prime Colonial Forces will be remembered as pioneers defending their home, insurgents resisting legitimate authority, or something much more complicated and unimaginable altogether remains uncertain.
