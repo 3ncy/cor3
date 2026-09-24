@@ -38,3 +38,4 @@
 * -855 October
 * -823 Found in Acid (Station Director Found in Acid)
 * -824 Rebel movements (Rebel Movements)
+* -825 7_VR (VR Plants)
