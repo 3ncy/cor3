@@ -132,5 +132,13 @@ Threads archived: 8,105,587
       <td>2251-08-01</td><td>07:12</td><td>2026-09-18</td>
       <td>OYAN, Mars, aliens, signals, CORE</td><td>33217</td><td>0</td>
     </tr>
+    <tr><td colspan="8">
+      <a href="The Earth fragments market — who's bought, who's been scammed, who cares either way.md">The Earth fragments market — who's bought, who's been scammed, who cares either way</a>
+    </td></tr>
+    <tr>
+      <td>seren_dock</td><td>2891</td>
+      <td>2251-07-25</td><td>09:04</td><td>2026-09-26</td>
+      <td>Earth, orbital culture, marketplace, authenticity</td><td>51840</td><td>634</td>
+    </tr>
   </tbody>
 </table>
