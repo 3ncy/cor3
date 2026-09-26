@@ -118,6 +118,10 @@
 * [Cave interior](/cave_interior.jpg.png)
 * [Crate markings — AW5.5.35](/crates_markings.jpg.png)
 
+### 2251 Crisis / November
+* [Personal log](./Entry%203%20The%20Way/Personal%20log%20(November).md) - after the quest is autostarted. The entry gets gradually updated
+* [Contractors list — p_contractors_f_8V_2](/p_contractors_f_8V_2.doc.txt)
+
 ## Martian Silence
 ## 1: Private Matters
 * [Personal Log](./Martian%20Silence/Personal%20Log.md)

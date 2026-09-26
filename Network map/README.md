@@ -182,6 +182,9 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 ### B43273N
 * [chat_fragments.txt](/chat_fragments.txt)
 
+### B43271N
+* [p_contractors_f_8V_2.doc](/p_contractors_f_8V_2.doc.txt)
+
 ### RM7-W3L3
 * [Mantis_Blueprints.vbt](/Mantis_Blueprints.vbt.png)
 * [HIP_FW_V7.txt.md](/HIP_FW_V7.txt.md)
