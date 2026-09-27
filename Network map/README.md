@@ -214,6 +214,11 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 ### D4RK T43274
 * [r00ky_u6-2rms.txt](/r00ky_u6-2rms.txt.md)
 
+### RM7-S4L1
+* [FACILITY_RECON_REPORT.doc](/FACILITY_RECON_REPORT.doc.png)
+* [FUNDING_CHAIN.doc](/FUNDING_CHAIN.doc.png)
+* [LIGHT_OP_DIRECTIVE.doc](/LIGHT_OP_DIRECTIVE.doc.png)
+
 ## Server information
 | Server Name | Faction | Transit | Type | Cluster | Location  | IP | Color | Owner | Market | Defence Rate |
 |-------------|---------|---------|------|---------|-----------|----|-------|-------|--------|--------------|
