@@ -1,0 +1,2 @@
+rms network reconnaissance in progress0 ag3nt reported about new hidden connections in the network and near8 855 529 4 1 t 855 529 4 13 d 855 529 2 1 t 855 529 5 0 d 855 529 1 13 t 1ndefinit3 d 853 172 2 2 t 853 172 2 4 d0 estimated network reconnaissance progress 65p0 ag3nt last report8 found hidden gat3s8 855 529 0 41 a 855 529 0 31 d0  
+since th3 report 4 s0ls lasts0 high probability ag3nt got c0mpr0m1s3d0 ag4nt candidate search 1n1t1ated0

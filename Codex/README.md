@@ -121,6 +121,7 @@
 ### 2251 Crisis / November
 * [Personal log](./Entry%203%20The%20Way/Personal%20log%20(November).md) - after the quest is autostarted. The entry gets gradually updated
 * [Contractors list — p_contractors_f_8V_2](/p_contractors_f_8V_2.doc.txt)
+* [RMS network reconnaissance](/r00ky_u6-2rms.txt.md)
 
 ## Martian Silence
 ## 1: Private Matters

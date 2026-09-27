@@ -211,6 +211,9 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 * [e4-08-92251_auto_control_14-ST59.raw](/e4-08-92251_auto_control_14-ST59.raw.png)
 * [LOOMING_Sat_control_v2_43_portable.exe](/LOOMING_Sat_control_v2_43_portable.exe.md)
 
+### D4RK T43274
+* [r00ky_u6-2rms.txt](/r00ky_u6-2rms.txt.md)
+
 ## Server information
 | Server Name | Faction | Transit | Type | Cluster | Location  | IP | Color | Owner | Market | Defence Rate |
 |-------------|---------|---------|------|---------|-----------|----|-------|-------|--------|--------------|
