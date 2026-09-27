@@ -5,6 +5,24 @@ You can write Natalia Gromova
 ```
 When connecting to the server `RM7-A2ES` anytime after completing the "August" quest, as a reminder that the chat is restricted to that server.
 
+## 16 September
+### Sect of the Sun
+```
+SNN says the sect keeps a public site at coul.light.corie. Open it and read the Doctrine page — a movement that careful about its wording tends to be careless in its markup.
+```
+After opening the [Seven detained in raid linked to Children of the Undying Light](/news/Seven%20detained%20in%20raid%20linked%20to%20Children%20of%20the%20Undying%20Light.md) news article.
+
+```
+The Doctrine page source leaks an internal address: 855.529.2.1, «archive only». Connect to that IP, then download and read all three documents the COUL archive holds.
+```
+
+```
+The expense reconciliation credits grant RG-77104 to the SOLWARD FOUNDATION. Open solward-foundation.corie and find that reference in the restricted grant register.
+```
+After reading all three files [FACILITY_RECON_REPORT.doc](/FACILITY_RECON_REPORT.doc.png), [FUNDING_CHAIN.doc](/FUNDING_CHAIN.doc.png), and [LIGHT_OP_DIRECTIVE.doc](/LIGHT_OP_DIRECTIVE.doc.png).
+
+
+
 ## 9 September
 ### "Mule-9" Confirmed Captured
 ```

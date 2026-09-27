@@ -193,6 +193,9 @@ Path related to the Nutcracker website
 
 #### 829
 * [Img_1.png](/news/news/Img_1.png) - [Img_1](https://cdn.cor3.gg/corie/loops/acts/3/829/Img_1.png)
+* [FACILITY_RECON_REPORT.doc](/FACILITY_RECON_REPORT.doc.png) - [facility_recon_report](https://cdn.cor3.gg/corie/loops/acts/3/829/facility_recon_report.png)
+* [FUNDING_CHAIN.doc](/FUNDING_CHAIN.doc.png) - [funding_chain](https://cdn.cor3.gg/corie/loops/acts/3/829/funding_chain.png)
+* [LIGHT_OP_DIRECTIVE.doc](/LIGHT_OP_DIRECTIVE.doc.png) - [light_op_directive](https://cdn.cor3.gg/corie/loops/acts/3/829/light_op_directive.png)
 
 #### 854
 * [Exp_image_0197.raw](/Exp_image_0197.raw.png) - [exp_image_0197](https://cdn.cor3.gg/corie/loops/acts/3/854/exp_image_0197.png)
