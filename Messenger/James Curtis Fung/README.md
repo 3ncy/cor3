@@ -100,3 +100,37 @@ P:
 > I appreciate your honesty and everything you do. I will wait for your call.
 
 Timegate.
+
+30 minutes after reading the [SNN news - Deimos facility disaster](/News/SNN%20news%20-%20Deimos%20facility%20disaster.md) news article.
+
+J:
+> Hey. Did you like the fireworks?
+
+P:
+> I didn't see them. Besides, I was too nervous to look.
+
+J:
+> It's fine. I hope you didn't think that we could die… ha ha
+
+P:
+> No, just tensed a bit. But what about the Overseer, did you get him?
+
+J:
+> Oh ! Yes, that one is a funny guy. He likes to TALK. We can't figure if all what he says is true or not BUT we will send you a digital copy, on a disk drive so you can make your own decisions. Besides, he has so much valuable information that we would like to keep him. Oh, and don't bother with those keys and credentials. They are most likely burned anyway. Using them is just drawing attention. And you REALLY don't want that right now.
+
+P:
+> Okay, I get your point. But what do I do meanwhile?
+
+J:
+> Just wait. I always keep my word after all. But risking the asset and information in one move - not my style. So sit and wait. You'll be fine.
+
+P:
+> Thank you, I guess. I'll hope that all that was not for nothing.
+
+J:
+> Oh trust me, it's totally worth it. Be ready for what comes next. I will find you whenever I can or if you really need me - try to contact, you know the drill. But try to stay in the shadows meanwhile. Oh, and by the way - you don't owe me anything, at least for now. That Overseer is payment enough. Good luck !
+
+P:
+> Oh… that's generous. I'll stay safe, thank you. And good luck to you too, I guess.
+
+Timegate, after which the quest completes.
