@@ -6,6 +6,7 @@ Click the item's image to view its full resolution.
 
 | Image | Name | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Type | Category | Tier | Base Value | Can Sell | Can Use | Can Craft | Max Stack | Item Config ID |
 |-------|------|-------------|------|----------|------|------------|:--------:|:-------:|:---------:|-----------|----------------|
+| ![](https://cdn.cor3.gg/corie/expeditions/expeditions_tx_71_board.png) | Airgap Unit | A hardware isolation module for the Disk Reader.<br><br>When installed, it physically disconnects the reader from the network, allowing information disks to be accessed in a fully isolated environment.<br><br>Designed for handling untrusted media. | ITEM | Equipment | QUEST | 20000 | ❌ | ✅ | ❌ | 1 | 01a08093-78f5-7804-83d2-0d18887ae667 |
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_artificial_milk.png) | Artificial milk | Lab-grown synthetic milk in aseptic carton. Matches cow milk nutrition - protein, fats, carbs - via precision fermentation; 48-month ambient shelf life. Neutral taste, no allergens, for extended field rations. | ITEM | Consumables Food | RARE | 1174 | ✅ | ❌ | ❌ | 1 | 019d719f-84f4-7c43-94f6-4d3fca8ddd6f |
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_californium_252_slab.png) | Californium-252 slab | Flat neutron-locked source plate (approx. 500 mg Cf-252 encased in transparent aluminium matrix) used for high-flux radiography, military defense applications like scanners and detectors. | ITEM | Valuables Resources | EPIC | 22264 | ✅ | ❌ | ✅ | 1 | 019d719f-84f4-71e8-a58e-983a7207e73e |
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_ccs_evo5_miners_gasmask.png) | CCS "EVO5" miners gasmask | The standard CCS gas mask for colonist miners. Residents of some colonies even sleep with them on. | ITEM | Equipment | COMMON | 2600 | ✅ | ❌ | ❌ | 1 | 019f5a01-0006-7a06-9006-101112131406 |
@@ -34,6 +35,7 @@ Click the item's image to view its full resolution.
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_space_monkey.png) | Pack of old cigarettes "Space monkey" | "Smoking is harmful, but everything is harmful anyway" - it is written on a pack of old and rare cigarettes. | ITEM | Consumables Food | COMMON | 430 | ✅ | ❌ | ❌ | 1 | 019f5a01-0005-7a05-9005-101112131405 |
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_scalpel_ccs_field_surgeon_kit_mk2.png) | Scalpel (CCS Field Surgeon Kit Mk2) | A scalpel from a field surgical kit. Before using it - disinfect it. | ITEM | Valuables Medical | COMMON | 1195 | ✅ | ❌ | ❌ | 1 | 019d719f-84f4-7580-9dbc-f130c318394e |
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_scissors_ccs_field_surgeon_kit_mk2.png) | Scissors (CCS Field Surgeon Kit Mk2) | Scissors from a field surgical kit. They can even cut reinforced fabric. | ITEM | Valuables Medical | COMMON | 842 | ✅ | ❌ | ❌ | 1 | 019d719f-84f4-7d88-a0ea-ab3d4bbe9451 |
+| ![](https://cdn.cor3.gg/corie/expeditions/expeditions_case.png) | Sealed package | A sealed package containing several information disks.<br><br>The disks contain data intended to be accessed through the Disk Reader. | INFO_DISK | Info | QUEST | 0 | ❌ | ✅ | ❌ | 1 | 01a08093-78f5-7ccc-a927-a9c10dc8d066 |
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_soylent_green_bar.png) | Soylent green bar | High-calorie ration bar from synthetic and organic proteins with algae hydrolysate in vacuum-sealed foil. | ITEM | Consumables Food | COMMON | 1383 | ✅ | ❌ | ❌ | 1 | 019d719f-84f4-7393-a42e-3cb1607f993d |
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_spi_smartwrench.png) | SPI "Smartwrench" Powered adjustable wrench | Battery-powered smart wrench with auto-adjusting jaws via servo motors, tightening to precise torque specs up to 500Nm. Ideal for aerospace and military assembly tasks. | ITEM | Valuables Tools | RARE | 8107 | ✅ | ❌ | ✅ | 1 | 019d719f-84f4-765f-94f9-afd6fac3f7c4 |
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_tx_71_board.png) | TX-71 board | This component board is primarily used as a base for an advanced drone controller. Although the developer is unknown, the board seems to be fully compatible with different types and classes of aerial drones, enhancing the general performance by 10+ percent on average. | ITEM | Valuables Electronics | QUEST | 0 | ❌ | ❌ | ❌ | 1 | 019d76f3-ceda-7c24-913b-146937d427af |
@@ -42,11 +44,14 @@ Click the item's image to view its full resolution.
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_xhi_powerbank_tester.png) | XHI powerbank tester | Handheld load tester measures true capacity, voltage sag, and discharge efficiency of powerbanks and other power storages. Rugged for field kit. | ITEM | Valuables Tools | RARE | 9806 | ✅ | ❌ | ✅ | 1 | 019d719f-84f4-7a8b-9a82-8174aa4dc228 |
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_zulu_teamh_reinforced_backpack.png) | Zulu "TeamH" reinforced backpack | Heavy-duty metal-cased tactical backpack. Impact-proof aluminum shell protects valuable equipment and you, the operator. | ITEM | Equipment | RARE | 15992 | ✅ | ❌ | ❌ | 1 | 019d719f-84f4-7e07-b8a0-4d01fe9b95af |
 
-Only one item cannot be deleted, the `TX-71 board`.
+Only few items cannot be deleted:
+- The initial `TX-71 board`
+- The `Sealed package` and `Airgap Unit` from the December quest
 
 Items can be obtained in two ways:
 - `QUEST_REWARD`
-    - The only items with this source are an initial pair of `Water vial` and `Kosmonavt Energy Bar`.
+    - For most players, the only items with this source are an initial pair of `Water vial` and `Kosmonavt Energy Bar`.
+    - Players who participated in the fragment event in August-September 2026 also have a `Sealed package`, which is granted upon starting the December quest.
 - `EXPEDITION`
     - The `TX-71 board` has its source set as Expedition, even though it is guaranteed to drop to every player from their first expedition.
     - All other loot from expeditions has this source.

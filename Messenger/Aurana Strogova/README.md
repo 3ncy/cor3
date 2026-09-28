@@ -251,3 +251,73 @@ A:
 
 P:
 > Deal. And yes, I understand it all. So thank you. This is not something I can just let go.
+
+## December
+The dialogue starts after opening all the three new "Double-R" [drives](/MR-7-Media-reader-78x/README.md).
+
+P:
+> Hi. I need to talk to you about something.
+
+A:
+> What is it ?
+
+P:
+> Let's talk about trust and betrayals. How do you feel about those topics ?
+
+A:
+> I don't like where this is heading. What are you up to ?
+
+P:
+> Okay, let's play charades some more ! Do you know what's 'Double-R plan' is ?
+
+A:
+> Where did you hear that ?
+
+P:
+> Its not even funny at this point. Did you know or didn't you ?
+
+A:
+> … yes. Yes we did. We could not tell you because we did not have any details. There have been only few leaks without exact details and interfering with any activities in that regard would have been a suicide.
+
+P:
+> None the less you tried, am i right ?
+
+A:
+> We did try, but we failed. Was one of the reasons we hired you - we thought you had a potential to get to it at some point. But it looks like we are a bit late.
+
+P:
+> Why ?
+
+A:
+> Because we have intercepted a recording. I will send it to you shortly. But in return, I would ask you to share any information you have in regards to that plan.
+
+P:
+> Excuse me, but I am not sharing anything anymore. I need to make sure that I know as much as possible before doing anything. You guys have kept critical information from me and it's not the first time. This is basically a break of trust and here are the consequences.
+
+A:
+> I understand. You have walked a long path and right now you are at the crossroads. You have several paths you can proceed onto, and only you can decide which one to take. I will not press you to continue working with us, but keep in mind that we were the ones who helped you out initially. You are here because of us.
+
+P:
+> Psychological manipulation ? Really ? On me ? Or was that completely honest ?
+
+A:
+> It was honest. You know by now that we are devoted to the cause. The cause to build something better, to shatter all secrets and share the knowledge. That is the path we offer you. But the choice is yours.
+
+P:
+> I understand that, but what i still do not understand is why did you not share that 'knowledge' with me - a person who was literally working for you.
+
+A:
+> Because such information could be deadly for the carrier, and your life is important for us. We have worked with many people and some of them ended up dead. We did not want such fate for you, so fencing you from that possibility made sense at the time. Now I see that was a mistake. But what is done is done. There can be only regrets.
+
+P:
+> Huh … Fine. I want to believe you but I really can not right now. Give me time. And send me that thing you were talking about - the intercepted information.
+
+A:
+> It is a recording, an audio file that was supposed to be part of a video. We were only able to intercept it at the recording studio by pure luck. But that is all we have for you now. I hope you will understand.
+
+P:
+> I'll try. I will contact you later.
+
+A:
+> [perpetual_council_announcement.ogg](/perpetual_council_announcement.ogg)
+> Sent. That is everything we have.

@@ -123,6 +123,9 @@
 * [Contractors list — p_contractors_f_8V_2](/p_contractors_f_8V_2.doc.txt)
 * [RMS network reconnaissance](/r00ky_u6-2rms.txt.md)
 
+### 2251 Crisis / December
+* [Personal log](./Entry%203%20The%20Way/Personal%20log%20(December).md) - after initially attempting to open the "Sealed package". The entry gets gradually updated
+
 ## Martian Silence
 ## 1: Private Matters
 * [Personal Log](./Martian%20Silence/Personal%20Log.md)

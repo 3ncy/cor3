@@ -214,6 +214,9 @@ Path related to the Nutcracker website
 #### 856
 * [deimos_facility_disaster.png](/News/news/deimos_facility_disaster.png) - [deimos_facility_disaster](https://cdn.cor3.gg/corie/loops/acts/3/856/deimos_facility_disaster.png)
 
+#### 857
+* [perpetual_council_announcement.ogg](/perpetual_council_announcement.ogg) - [perpetual_council_announcement](https://cdn.cor3.gg/corie/loops/acts/3/857/perpetual_council_announcement.ogg)
+
 ---
 
 ### ranks
