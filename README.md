@@ -192,7 +192,7 @@ Path related to the Nutcracker website
 * [where_does_the_self_end.png](/News/news/where_does_the_self_end.png) - [where_does_the_self_end](https://cdn.cor3.gg/corie/loops/acts/3/830/where_does_the_self_end.png)
 
 #### 829
-* [Img_1.png](/news/news/Img_1.png) - [Img_1](https://cdn.cor3.gg/corie/loops/acts/3/829/Img_1.png)
+* [Img_1.png](/News/news/Img_1.png) - [Img_1](https://cdn.cor3.gg/corie/loops/acts/3/829/Img_1.png)
 * [FACILITY_RECON_REPORT.doc](/FACILITY_RECON_REPORT.doc.png) - [facility_recon_report](https://cdn.cor3.gg/corie/loops/acts/3/829/facility_recon_report.png)
 * [FUNDING_CHAIN.doc](/FUNDING_CHAIN.doc.png) - [funding_chain](https://cdn.cor3.gg/corie/loops/acts/3/829/funding_chain.png)
 * [LIGHT_OP_DIRECTIVE.doc](/LIGHT_OP_DIRECTIVE.doc.png) - [light_op_directive](https://cdn.cor3.gg/corie/loops/acts/3/829/light_op_directive.png)
@@ -209,7 +209,7 @@ Path related to the Nutcracker website
 
 #### 827
 * [Rainwater.png](/Forums/rainwater.png) - [rainwater](https://cdn.cor3.gg/corie/loops/acts/3/827/rainwater.png)
-* [Image earth jar.png](/Forums/image_earth_jar.png) - [image_earth_jar](https://cdn.cor3.gg/corie/loops/acts/3/827/image_earth_jar.png)
+* [Image earth jar.png](/Forums/Image%20earth%20jar.png) - [image_earth_jar](https://cdn.cor3.gg/corie/loops/acts/3/827/image_earth_jar.png)
 
 #### 856
 * [deimos_facility_disaster.png](/News/news/deimos_facility_disaster.png) - [deimos_facility_disaster](https://cdn.cor3.gg/corie/loops/acts/3/856/deimos_facility_disaster.png)
