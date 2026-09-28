@@ -1,18 +1,17 @@
+// ---
 let connections = []; // array from get.map
+let servers = []; // array from get.servers
+// ---
+
 let output = "";
+for (let server of servers) {
+    output += `${server.id}["${server.serverName}"]\n`
+}
+output += "\n";
 for (let con of connections) {
     output += `${con.serverA} -${con.isHidden ? '.' : '-'}- ${con.serverB}\n`
 }
 console.log(output);
-
-//---
-
-let servers = []; // array from get.servers
-let output2 = "";
-for (let server of servers) {
-    output2 += `${server.id}["${server.serverName}"]\n`
-}
-console.log(output2);
 
 //---
 
@@ -36,7 +35,7 @@ console.log(output3);
 let serverColorMap = { "#A8F87F": '🟢 ', "#D5DECB": '⚪ ', "#4B4B4B": '⚫ ', "#FE4949": '🔴 ', "#88DCFA": '🔵 ' };
 let output4 = "| Server Name | Faction | Transit | Type | Cluster | Location  | IP | Color | Owner | Market | Defence Rate |\n";
 output4 +=/**/"|-------------|---------|---------|------|---------|-----------|----|-------|-------|--------|--------------|\n";
-function nbsp(str) {return str.replaceAll(' ', '&nbsp;');}
+function nbsp(str) { return str.replaceAll(' ', '&nbsp;'); }
 for (let server of servers) {
     output4 += `| ${nbsp(server.serverName)} | ${server.faction ?? ''} | ${server.transitType} |`
         + ` ${nbsp(server.serverTypeName)} | ${server.serverCluster ?? ''} | ${nbsp(server.serverLocation ?? '')} |`

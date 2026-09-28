@@ -44,6 +44,8 @@ flowchart LR
 019e4052-c317-7388-9d71-96d991fb4b99["UPRM7-S3L2"]
 019e4052-c317-7388-9d71-9aadc2e7c42b["URRM7"]
 01a032e6-d846-721a-b20f-868df1d34eb0["RM7-ST/A-S4"]
+01a08ae2-eec7-7cc9-84e6-b6afcaddd3e2["RM7-PCC1"]
+01a08ae2-eec8-773b-bba4-f01a205aa5f1["RM7-PCL1"]
 019dbe42-7a63-7a11-9f4d-8a6a61d2a201["EM[RM7-E2L2]"]
 019dbe42-7a63-7a11-9f4d-8a6a61d2a202["EM[undefined]"]
 019e4052-c316-73aa-81f6-5c8693e79a31["B43273N"]
@@ -99,6 +101,9 @@ flowchart LR
 019e4052-c317-7388-9d71-96d991fb4b99 --- 019e4052-c317-7388-9d71-8fed6faaaf99
 019e4052-c317-7388-9d71-9aadc2e7c42b --- 019e4052-c317-7388-9d71-8fed6faaaf99
 019d1b0a-13a9-77dd-b41f-3ffb5f671742 -.- 01a032e6-d846-721a-b20f-868df1d34eb0
+01a08ae2-eec7-7cc9-84e6-b6afcaddd3e2 --- 01a08ae2-eec8-773b-bba4-f01a205aa5f1
+01a08ae2-eec7-7cc9-84e6-b6afcaddd3e2 -.- 019e4052-c316-73aa-81f6-448645a38c9e
+01a08ae2-eec8-773b-bba4-f01a205aa5f1 -.- 019da6f1-16f7-75a6-b6d3-0b1d5f92a106
 019d1b0a-13a9-77dd-b41f-33f06f2df284 -.- 019dbe42-7a63-7a11-9f4d-8a6a61d2a201
 019da6f1-16f7-75a6-b6d3-0b1d5f92a101 -.- 019dbe42-7a63-7a11-9f4d-8a6a61d2a202
 019e4052-c316-73aa-81f6-5c8693e79a31 --- 019e4052-c316-73aa-81f6-60ec61b61f0a
@@ -265,6 +270,8 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
 | UPRM7-S3L2 | USOL | private | USOL&nbsp;private | USOL RM7 South | REPNODE-M7&nbsp;deck&nbsp;1-17U | 855.529.5.33 | 🔵 `#88DCFA` | USOL |  | 18 |
 | URRM7 | USOL | restricted | X61DCT | Restricted | 4UF&nbsp;Silent&nbsp;Vigil | 760.129.3.0 | 🔵 `#88DCFA` | USOL |  | 34 |
 | RM7-ST/A-S4 | CEDRT | private | CEDRT&nbsp;private | REPNODE-M7 South | REPNODE-M7&nbsp;satellite&nbsp;uplink | 855.529.2.04 | ⚪ `#D5DECB` | COR3 |  | 10 |
+| RM7-PCC1 | Perpetual Council | restricted | PerC&nbsp;Secure | Perpetual Council RM7 | REPNODE-M7&nbsp;deck&nbsp;1-15 | 855.529.0.41 | `#00C9C3` | Perpetual Council |  | 27 |
+| RM7-PCL1 | Perpetual Council | restricted | PerC&nbsp;Secure | Perpetual Council RM7 | REPNODE-M7&nbsp;deck&nbsp;1-21 | 855.529.0.31 | `#00C9C3` | Perpetual Council |  | 29 |
 | EM[RM7-E2L2] | CEDRT | restricted | EMERMODE | REPNODE-M7 East | REPNODE-M7&nbsp;deck&nbsp;2-29 | 855.529.2.2 | ⚪ `#D5DECB` | COR3 |  | 11 |
 | EM[undefined] | CEDRT | restricted | EMERMODE | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-21 | 855.529.4.22 | ⚪ `#D5DECB` | COR3 |  | 15 |
 | B43273N | --//UNDEFINED//-- | private | D4RK/B1N | 432 | --//UNDEFINED//-- | 854.266.7.3 | ⚫ `#4B4B4B` | --//UNDEFINED//-- |  | 12 |
@@ -330,6 +337,9 @@ Several hidden connections can be revealed by searching the IPs `853.172.2.2`, `
     * URM7-M
 * 27
     * B43271N
+    * RM7-PCC1
+* 29
+    * RM7-PCL1
 * 34
     * URRM7
 * 36
