@@ -1,3 +1,9 @@
+## 1 October
+```
+Chris is assembling the comms device — check back in about 4 hours.
+```
+Retracted, most likely related to the Line to the Ground quest.
+
 ## 23 September
 ### September
 ```
@@ -20,8 +26,6 @@ The Doctrine page source leaks an internal address: 855.529.2.1, «archive only�
 The expense reconciliation credits grant RG-77104 to the SOLWARD FOUNDATION. Open solward-foundation.corie and find that reference in the restricted grant register.
 ```
 After reading all three files [FACILITY_RECON_REPORT.doc](/FACILITY_RECON_REPORT.doc.png), [FUNDING_CHAIN.doc](/FUNDING_CHAIN.doc.png), and [LIGHT_OP_DIRECTIVE.doc](/LIGHT_OP_DIRECTIVE.doc.png).
-
-
 
 ## 9 September
 ### "Mule-9" Confirmed Captured

@@ -155,6 +155,22 @@ Aurana:
 
 ...
 
+After completing the first drone expedition:
+
+P:
+> It's done. We have the drone and it's fully operational. It can deliver cargo, scan the locations and serve as a communication relay. Although that last part could be quite dangerous, I'd prefer to use it as a direct comm terminal or something.
+
+A:
+> That's some wonderful news. This opens up lots of options. For example, we used to have some agents on the ground during the uprising times, but somewhat lost contact after the Skylift fell. Trying to get in touch with them could be a good first choice. Or, you can simply spread the communications buoys around the planet and see what happens.
+
+P:
+> Yes, we have lots of options, but I do need to help Chris find his sister. The promise has to be kept, otherwise it will cost us…
+
+A:
+> Yes, we have to upkeep our reputation, it will be crucial for the future interactions. The more people who can reference us as "the good guys" - the better. And surely, keep helping Chris with whatever tasks he gives you. We would definitely need him in the future. His expertise has proven to be critical to our success. We will be formulating a plan for you to work on, so for now just finish off whatever ongoing tasks you have. Good job and let's move on now. This is just a beginning.
+
+This completes the Wings of Mars quest and unlocks the Wings of Reach achievement.
+
 ---
 
 ## July

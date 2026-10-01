@@ -202,6 +202,34 @@ C:
 
 This sets the `systemVersion` to `3.05`, which unlocks the drone for use.
 
+After the drone coming back from the first expedition
+
+C:
+> Good. The drone survived its first sortie.
+
+> Anyway, there is one last thing you need to learn.
+
+P:
+> Which is?
+
+C:
+> Maintenance. Drones don't magically repair themselves.
+
+> I'll show you how to repair damaged components, recharge the batteries and prepare the drone for the next flight.
+
+> A well-maintained drone lasts for years. A neglected one becomes scrap metal surprisingly fast.
+
+> We did it. It's working and it looks great. And it FEELS great. I have not been so excited for quite a while. This drone opens us unlimited possibilities. This means so much for me… and for you as well, I guess. I hope you will keep your word and help me find her.
+
+P:
+> Don't worry about it, we will do it together. I need to talk to my friends first, we need to form a plan to use this tool most efficiently but helping you is a priority.
+
+C:
+> Okay. I'm too excited now so just please contact me as soon as you'll have something. I will be waiting. Meanwhile - I will have to send you some tasks in regards to station maintenance. Please finish them when you have time, they would have to go on your record so no questions are raised.
+
+P:
+> Ok, will do. I will contact you as soon as I'll have something. No delays.
+
 ---
 
 ## July quest
