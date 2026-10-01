@@ -56,57 +56,92 @@ Only 5 ranks:
 ![Ranks](Misc%20assets/rank-list.png)
 
 ### ![](Misc%20assets/ranks/forerunner-framed.png) Forerunner
-Tier I
+Tier I  
+[CLOSED]
 
 | Privileges | |
 |-|-|
-| Unique profile frame | GRANTED |
-| Guaranteed — Early Deployment | GRANTED |
-| Personal Badge | GRANTED |
-| Lifetime nickname reservation | RESERVED |
-| Unique Forerunner Title | UNIQUE, PERMANENT |
+| Founder Badge | granted |
+| Founder Title | unique, permanent |
+| Lifetime Nickname | reserved |
+| Profile Frame | exclusive |
+| First Batch Founders Access | guarantee |
+
+#### DESCRIPTION
+You are among the first 100 — your position is secured.Those who arrived before the surface hold what others won't.
+
+First Batch assembly is in Progress — Join as a Founder. Progress retained. Everything you've unlocked carries forward.  
+// THE REGISTRY IS SEALED. YOUR NAME IS IN IT. //
 
 ### ![](Misc%20assets/ranks/the_pillar.png) The Pillar
-Tier II
+Tier II  
+[CLOSED]
 
 | Privileges | |
 |-|-|
-| High Priority — Early Deployment | GRANTED |
-| Personal Badge | GRANTED |
-| Nickname reservation | RESERVED |
-| Unique Pillar Title | UNIQUE, PERMANENT |
+| Pioneer Badge | granted |
+| Pioneer Title | unique, permanent |
+| Nick Name | reserved |
+| First Batch Founders Access | privileged |
+
+#### DESCRIPTION
+Complete quest 303, reach Renown 20, and earn a total of 1,500,000 credits.  
+Fully complete the “Echoes of Planetside” event.  
+
+The Pillar is awarded automatically once all conditions are met.  
+There is no time limit. Event achievements are not required.  
+// THE DEEPER THE LAYER, THE FEWER THE NAMES. //
 
 ### ![](Misc%20assets/ranks/torchbearer.png) Torchbearer
+Tier III  
+[CLOSED]
 
 | Privileges | |
 |-|-|
-| Personal Badge | UNIQUE, PERMANENT |
-| Elevated Priority — Early Deployment | GRANTED |
+| Torchbearer Badge | granted |
+| First Batch Founders Access | reserved |
 
-#### Requirements
-To obtain a Torchbearer rank, the following conditions must be met:
-* Complete the Broken Server and Black Ledger quests
-* Reach Renown Level 15
-* Achieve a total credit turnover of 350,000 credits
+#### DESCRIPTION
+You completed Act I — most never do.  
+The system has registered your presence.
+
+You're inside now. But inside has levels.  
+The next Acts are still running.  
+Keep moving. Your progress is being recorded.  
+Everything you achieve carries forward.  
+// THE DEEPER THE LAYER, THE FEWER THE NAMES. //
 
 ### ![](Misc%20assets/ranks/pathfinder.png) Pathfinder
 Tier IV
 
 | Privileges | |
 |-|-|
-| Personal Badge | UNIQUE, PERMANENT |
-| Enhanced Priority — Early Deployment | GRANTED |
+| Pathfinder Badge | granted |
+| First Batch Founders Access | reserved |
 
-#### Requirements
-To obtain a Pathfinder rank, the following conditions must be met:
-* Complete the first quest in Deployment Mode
-* Reach Renown Level 13
-* Achieve a total credit turnover of 150,000 credits
+#### DESCRIPTION
+Entry point crossed.  
+You are now part of COR3.
+
+The deeper layers are still locked.  
+It is time to prove you belong here.  
+Everything you achieve carries forward.  
+// THE DEEPER THE LAYER, THE FEWER THE NAMES. //
 
 ### ![](Misc%20assets/ranks/foundation.png) Foundation
-Tier V
+Tier V  
+[CLOSED]
 
 | Privileges | |
 |-|-|
-| Personal Badge | UNIQUE, PERMANENT |
-| Low Priority — Early Deployment | GRANTED |
+| Foundation Badge | granted |
+| Early Access Consideration | low probability |
+
+#### DESCRIPTION
+No fixed route earned this mark.  
+The system recognized a viable base state.
+
+Evaluated by story completion percentage, corporation reputation, and total credit turnover.  
+This mark places you in the low-probability pool for early access consideration.  
+Everything from here still counts.  
+// A BASE IS ENOUGH TO BUILD ON. //

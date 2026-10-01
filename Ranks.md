@@ -28,8 +28,6 @@
 > Everything you achieve carries forward.  
 > // THE DEEPER THE LAYER, THE FEWER THE NAMES. //
 
-<!--TODO: icons-->
-
 ## ![](https://cdn.cor3.gg/corie/ranks/badges/torchbearer.svg) Torchbearer
 > You completed Act I — most never do.  
 > The system has registered your presence.  
@@ -47,8 +45,8 @@
 > // THE DEEPER THE LAYER, THE FEWER THE NAMES. //
 
 ## ![](https://cdn.cor3.gg/corie/ranks/badges/the_pillar.svg) The Pillar
-> You pushed past Act I while others were still figuring it out.  
-> The system noticed. You've been marked.
+> Complete quest 303, reach Renown 20, and earn a total of 1,500,000 credits.  
+> Fully complete the “Echoes of Planetside” event.
 
 ### Privileges
 | name | description | limited? |
@@ -58,10 +56,8 @@
 | Nick Name | reserved | no |
 | First Batch Founders Access | privileged | yes |
 
-> There are layers beneath this one.  
-> Recruitment is still open - but not for long.  
-> Keep moving through the Acts.  
-> Everything you unlock carries forward.  
+> The Pillar is awarded automatically once all conditions are met.  
+> There is no time limit. Event achievements are not required.  
 > // THE DEEPER THE LAYER, THE FEWER THE NAMES. //
 
 ## ![](https://cdn.cor3.gg/corie/ranks/badges/forerunner.svg) Forerunner
