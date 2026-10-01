@@ -15,12 +15,13 @@
 
 ## RAM
 
-| Name              | Market    | Market Price | Required Reputation | Frequency (GHz) | Memory (TB) | Vulnerability (%) | Manufacturer          | Tier |
-| ----------------- | --------- | ------------ | ------------------- | --------------- | ----------- | ----------------- | --------------------- | ---- |
-| Emerald H2S9      | N/A       | N/A          | N/A                 | 0.77            | 4           | 0                 | XHI                   | 1    |
-| Emerald H3S12     | CORE      | 11,385       | 2                   | 0.98            | 6           | 10                | XHI                   | 1    |
-| X-Vault 6-54 Spec | BMI-ZEN   | 32,435       | 2                   | 1.29            | 8           | 25                | GOI                   | 2    |
-| C-Stack 10.8      | SOYUZ RM7 | 67,680       | 3                   | 1.46            | 10          | 15                | Holoscene Electronics | 3    |
+| Name                | Market    | Market Price | Required Reputation | Frequency (GHz) | Memory (TB) | Vulnerability (%) | Manufacturer          | Tier |
+| ------------------- | --------- | ------------ | ------------------- | --------------- | ----------- | ----------------- | --------------------- | ---- |
+| Emerald H2S9        | N/A       | N/A          | N/A                 | 0.77            | 4           | 0                 | XHI                   | 1    |
+| Emerald H3S12       | CORE      | 11,385       | 2                   | 0.98            | 6           | 10                | XHI                   | 1    |
+| X-Vault 6-54 Spec   | BMI-ZEN   | 32,435       | 2                   | 1.29            | 8           | 25                | GOI                   | 2    |
+| C-Stack 10.8        | SOYUZ RM7 | 67,680       | 3                   | 1.46            | 10          | 15                | Holoscene Electronics | 3    |
+| Hepta gen19 Binary  | USOL RM7  | 71,040       | 3                   | 1.21            | 14          | 18                | Core Tech             | 3    |
 
 ---
 
