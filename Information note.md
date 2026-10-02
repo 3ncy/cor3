@@ -46,16 +46,13 @@ Here you will:
 
 Access to earlier Acts is not available in this mode.
 
-## Ranks
+## <img src="Misc assets/RanksIcon.svg"/> Ranks
 
 Hierarchy system
 
 Ranks determine your level of access and provide various advantages within Fragmentary Order, including priority participation opportunities and exclusive in-game benefits.
 
-Only 5 ranks:
-![Ranks](Misc%20assets/rank-list.png)
-
-### ![](Misc%20assets/ranks/forerunner-framed.png) Forerunner
+### ![](Misc%20assets/ranks/forerunner.svg) Forerunner
 Tier I  
 [CLOSED]
 
@@ -73,7 +70,7 @@ You are among the first 100 — your position is secured.Those who arrived befor
 First Batch assembly is in Progress — Join as a Founder. Progress retained. Everything you've unlocked carries forward.  
 // THE REGISTRY IS SEALED. YOUR NAME IS IN IT. //
 
-### ![](Misc%20assets/ranks/the_pillar.png) The Pillar
+### ![](Misc%20assets/ranks/the_pillar.svg) The Pillar
 Tier II  
 [CLOSED]
 
@@ -92,7 +89,7 @@ The Pillar is awarded automatically once all conditions are met.
 There is no time limit. Event achievements are not required.  
 // THE DEEPER THE LAYER, THE FEWER THE NAMES. //
 
-### ![](Misc%20assets/ranks/torchbearer.png) Torchbearer
+### ![](Misc%20assets/ranks/torchbearer.svg) Torchbearer
 Tier III  
 [CLOSED]
 
@@ -111,7 +108,7 @@ Keep moving. Your progress is being recorded.
 Everything you achieve carries forward.  
 // THE DEEPER THE LAYER, THE FEWER THE NAMES. //
 
-### ![](Misc%20assets/ranks/pathfinder.png) Pathfinder
+### ![](Misc%20assets/ranks/pathfinder.svg) Pathfinder
 Tier IV
 
 | Privileges | |
@@ -128,7 +125,7 @@ It is time to prove you belong here.
 Everything you achieve carries forward.  
 // THE DEEPER THE LAYER, THE FEWER THE NAMES. //
 
-### ![](Misc%20assets/ranks/foundation.png) Foundation
+### ![](Misc%20assets/ranks/foundation.svg) Foundation
 Tier V  
 [CLOSED]
 
