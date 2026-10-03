@@ -13,6 +13,7 @@
 | ![first_credit_achievement.png](https://cdn.cor3.gg/corie/achievements/first_credit_achievement.png)| First Credit | Earn your first credits | credits |
 | ![getting_paid_achievement.png](https://cdn.cor3.gg/corie/achievements/getting_paid_achievement.png)| Getting Paid | Earn 5000 credits | credits |
 | ![wings_of_reach_achievement.png](https://cdn.cor3.gg/corie/achievements/wings_of_reach_achievement.png)| Wings of Reach | Build and certify your personal expedition drone. | act_3 |
+| ![money_talks_achievement.png](https://cdn.cor3.gg/corie/achievements/money_talks_achievement.png)| Money Talks | Assemble the drone by paying full price for every part instead of scrounging. A true capitalist approach. | act_3 |
 | ![compromised_server_achievement.png](https://cdn.cor3.gg/corie/achievements/compromised_server_achievement.png)| Compromised Server | You connected to a system that didn't survive the intrusion. Something went very wrong here | act_3 |
 | ![i_was_here_achievement.png](https://cdn.cor3.gg/corie/achievements/i_was_here_achievement.png)| I Was Here | Took part in the event while it was live. | event |
 | ![every_small_signal_achievement.png](https://cdn.cor3.gg/corie/achievements/every_small_signal_achievement.png)| Every Small Signal | Completed every daily micro side quest. | event |
