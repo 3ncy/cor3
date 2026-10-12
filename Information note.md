@@ -72,7 +72,6 @@ First Batch assembly is in Progress — Join as a Founder. Progress retained. Ev
 
 ### ![](Misc%20assets/ranks/the_pillar.svg) The Pillar
 Tier II  
-[CLOSED]
 
 | Privileges | |
 |-|-|
@@ -91,7 +90,6 @@ There is no time limit. Event achievements are not required.
 
 ### ![](Misc%20assets/ranks/torchbearer.svg) Torchbearer
 Tier III  
-[CLOSED]
 
 | Privileges | |
 |-|-|
@@ -127,7 +125,6 @@ Everything you achieve carries forward.
 
 ### ![](Misc%20assets/ranks/foundation.svg) Foundation
 Tier V  
-[CLOSED]
 
 | Privileges | |
 |-|-|
