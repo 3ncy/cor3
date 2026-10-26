@@ -127,7 +127,7 @@
 * [Personal log](./Entry%203%20The%20Way/Personal%20log%20(December).md) - after initially attempting to open the "Sealed package". The entry gets gradually updated
 
 ## Martian Silence
-## 1: Private Matters
+### 1: Private Matters
 * [Personal Log](./Martian%20Silence/Personal%20Log.md)
     * Personal Log — Garrett Sloane lead
     * Personal Log — darknet bargain
@@ -140,6 +140,10 @@
 * [message_4237122_secured](/message_4237122_secured.dat.md)
 * [d4_CTF_lott0792.png](/d4_CTF_lott0792.png)
 * [Svyaz_PTLS2_LUCh.jpg](/Svyaz_PTLS2_LUCh.jpg.png)
+
+### 2: Fragile deal
+* [Personal Log](./Martian%20Silence/Personal%20Log%20(Fragile%20deal).md)
+* [Urizen Satellite (IMG_014625.jpg)](/IMG_014625.jpg)
 
 ## News
 ### News

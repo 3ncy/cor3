@@ -16,3 +16,36 @@ P:
 > Wow. Alright. Thank you - that was a more complete answer than I expected.
 
 This completes the "Terra Matter's Broken Promise" quest.
+
+---
+
+## Fragile deal
+
+P:
+> I've got a lead on Urizen. Rags on Mars are selling a downed satellite. Markings read \"Urizen Type B 2.317082.\" We can buy it.
+
+O:
+> I trust they offer a delivery service to orbit.
+
+P:
+> Well... no. No delivery at all.
+
+O:
+> Then what, precisely, is the point?
+
+P:
+> We don't need the satellite itself. We need what's inside it. Data, specs, capabilities. I figure we ask them to find someone on the ground - a tech, someone who knows their way around hardware - to crack it open and pull useful info. Price is the question.
+
+O:
+> Credits are not a concern. Provided there is visible result in the exchange.
+
+P:
+> They don't take credits. Money means nothing to them. They want information — the kind that's actually useful on Mars. Very useful, given what we're asking.
+
+O:
+> I see. Then I shall find something suitable for them. Close the deal.
+
+P:
+> Got it.
+
+Now the player can continue with talking to Chuck and agreeing on the deal.

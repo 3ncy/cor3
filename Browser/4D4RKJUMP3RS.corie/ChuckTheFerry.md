@@ -40,3 +40,56 @@ C:
 > One small tip - keep that little favour between us. Better for both of us. Especially you.
 
 New conversation with Christopher Tong unlocks.
+
+---
+
+## Fragile Deal
+
+C:
+> Alright. Heard back from the Rags about that sat. If you're still buying, I'm ready to talk.
+
+P:
+> Depends on what you have got. Hope that what the client is after.
+
+C:
+> Fair. Here's the short of it - Rags managed to pull a marking off the casing. Reads: \"Urizen Type B 2.317082.\" Means nothing to me. Maybe it sings to you. 
+
+> [IMG_014625.jpg](/IMG_014625.jpg)
+
+P:
+> Sounds like exactly what my client needs.
+
+C:
+> Good. I want this thing gone. But keep it straight - the Rags don't deal in credits. They trade in info. Me, though? I take credits for my cut.
+
+P:
+> Got it. I'll go talk to the client.
+
+After finishing the conversation with Ozren:
+
+P:
+> That sat still to sale? I might have a buyer.
+
+C:
+> Yeah, it's still hot. Hope your customer's sitting on a fat stack, 'cause this one ain't cheap. You talk it up nice, I'll even kick something back your way.
+
+P:
+> He's got the credits. But he wants to know what he's buying. Any markings on the thing? ID plates? Anything we can use?
+
+C:
+> Maybe. Rags didn't get specific. Could be they can't read — lot of 'em can't — or could be they just don't like to. Reading's slow, and slow gets you dead.
+
+P:
+> It's really that rough down there?
+
+C:
+> It's wild ground, man. Shoot straight, move fast — that's the curriculum. Nobody's grading penmanship. But I know how to squeeze 'em. Got my methods.
+
+P:
+> Alright. So what about the sat?
+
+C:
+> Truth? I don't know what's stamped on it. And I don't care to know. I just want it off my hands before it draws the wrong kind of attention. Next comm window, I'll press the rags for details. Soon as I got something, I'll drop it to you here. Deal?
+
+P:
+> Deal.
