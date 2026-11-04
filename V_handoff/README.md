@@ -459,4 +459,4 @@ NOTES:  Audio quality is low. Background noise. consistent with outdoor conditio
         Speaker identified as male. Further analysis required.
 ```
 
-[Waveform panel with the time marks 00:00, 00:30, 01:00 and 01:42. The first character of the doc ID may be a zero (0SI).]
+[Waveform panel with the time marks 00:00, 00:30, 01:00 and 01:42.]
