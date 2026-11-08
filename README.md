@@ -249,6 +249,23 @@ Path related to the Nutcracker website
 #### 402
 * [IMG_014625.jpg](/IMG_014625.jpg) - [img_014625](https://cdn.cor3.gg/corie/loops/acts/3/402/img_014625.png)
 
+#### 304
+* [storm_shadow_outpost.png](/Line%20to%20the%20Ground/storm_shadow_outpost.png) - [storm_shadow_outpost](https://cdn.cor3.gg/corie/loops/acts/3/304/storm_shadow_outpost.png)
+* [storm_shadow_interior.png](/Line%20to%20the%20Ground/storm_shadow_interior.png) - [storm_shadow_interior](https://cdn.cor3.gg/corie/loops/acts/3/304/storm_shadow_interior.png)
+* [storm_shadow_interior_blackbox_hint.png](/Line%20to%20the%20Ground/storm_shadow_interior_blackbox_hint.png) - [storm_shadow_interior_black_box](https://cdn.cor3.gg/corie/loops/acts/3/304/storm_shadow_interior_black_box.png)
+* [comms_device_product.png](/Line%20to%20the%20Ground/comms_device_product.png) - [communication_device_product_image](https://cdn.cor3.gg/corie/loops/acts/3/304/communication_device_product_image.png)
+* [comms_device_blueprint.png](/Line%20to%20the%20Ground/comms_device_blueprint.png) - [communication_device_blueprint](https://cdn.cor3.gg/corie/loops/acts/3/304/communication_device_blueprint.png)
+
+#### 305
+* [mars_intelligence_briefing_p1.doc](/V_handoff/mars_intelligence_briefing_p1.doc.jpg) - [mars_intelligence_briefing_m0139_01_v2](https://cdn.cor3.gg/corie/loops/acts/3/305/mars_intelligence_briefing_m0139_01_v2.jpg)
+* [mars_intelligence_briefing_p2.doc](/V_handoff/mars_intelligence_briefing_p2.doc.jpg) - [mars_intelligence_briefing_m0139_02_v2](https://cdn.cor3.gg/corie/loops/acts/3/305/mars_intelligence_briefing_m0139_02_v2.jpg)
+* [personnel_file_hoofman.doc](/V_handoff/personnel_file_hoofman.doc.png) - [personnel_file_hoofman](https://cdn.cor3.gg/corie/loops/acts/3/305/personnel_file_hoofman.png)
+* [field_reports_M0139_p1.doc](/V_handoff/field_reports_M0139_p1.doc.png) - [field_reports_M0139_p1](https://cdn.cor3.gg/corie/loops/acts/3/305/field_reports_M0139_p1.png)
+* [field_reports_M0139_p2.doc](/V_handoff/field_reports_M0139_p2.doc.png) - [field_reports_M0139_p2](https://cdn.cor3.gg/corie/loops/acts/3/305/field_reports_M0139_p2.png)
+* [field_reports_M0139_p3.doc](/V_handoff/field_reports_M0139_p3.doc.png) - [field_reports_M0139_p3](https://cdn.cor3.gg/corie/loops/acts/3/305/field_reports_M0139_p3.png)
+* [hoofman_notes.doc](/V_handoff/hoofman_notes.doc.png) - [hoofman_notes](https://cdn.cor3.gg/corie/loops/acts/3/305/hoofman_notes.png)
+* [sermon_recording_cult.doc](/V_handoff/sermon_recording_cult.doc.png) - [sermon_recording_cult](https://cdn.cor3.gg/corie/loops/acts/3/305/sermon_recording_cult.png)
+
 ---
 
 ### ranks
