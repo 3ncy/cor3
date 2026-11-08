@@ -1,7 +1,3 @@
-The files in this folder are named `.doc` in the game. The extension of the actual image is added to the name.
-
-Source: `https://cdn.cor3.gg/corie/loops/acts/3/305/`
-
 | In-game name | File | Source file |
 | --- | --- | --- |
 | mars_intelligence_briefing_p1.doc | [mars_intelligence_briefing_p1.doc.jpg](./mars_intelligence_briefing_p1.doc.jpg) | `mars_intelligence_briefing_m0139_01_v2.jpg` |
@@ -17,7 +13,7 @@ Source: `https://cdn.cor3.gg/corie/loops/acts/3/305/`
 
 `[REDACTED]` is printed in the document. `[redacted]` marks a black bar with no printed text.
 
-### mars_intelligence_briefing_p1.doc
+### [mars_intelligence_briefing_p1.doc](./mars_intelligence_briefing_p1.doc.jpg)
 
 ```text
 OSIRIS
@@ -75,7 +71,7 @@ BEYOND EARTH
 
 [QR code at the right of the header block.]
 
-### mars_intelligence_briefing_p2.doc
+### [mars_intelligence_briefing_p2.doc](./mars_intelligence_briefing_p2.doc.jpg)
 
 ```text
 OSIRIS
@@ -134,7 +130,7 @@ BEYOND EARTH
 
 [QR code at the left of section 4.]
 
-### personnel_file_hoofman.doc
+### [personnel_file_hoofman.doc](./personnel_file_hoofman.doc.png)
 
 ```text
 TERRAN
@@ -201,7 +197,7 @@ HUMANITY FURTHER
 
 [Typed form on worn paper. All field entries are handwritten. The first letters of TERRAN, EXPANSION and DIRECTORATE are partly faded.]
 
-### field_reports_M0139_p1.doc
+### [field_reports_M0139_p1.doc](./field_reports_M0139_p1.doc.png)
 
 ```text
 OSIRIS
@@ -258,7 +254,7 @@ BEYOND EARTH
 
 [Scanned page with line noise and small black blocks along the edges. QR code in the footer.]
 
-### field_reports_M0139_p2.doc
+### [field_reports_M0139_p2.doc](./field_reports_M0139_p2.doc.png)
 
 ```text
 OSIRIS
@@ -315,7 +311,7 @@ BEYOND EARTH
 
 [Scanned page with line noise and small black blocks along the edges. QR code in the footer.]
 
-### field_reports_M0139_p3.doc
+### [field_reports_M0139_p3.doc](./field_reports_M0139_p3.doc.png)
 
 ```text
 OSIRIS
@@ -355,7 +351,7 @@ BEYOND EARTH.
 
 [Scanned page with line noise and small black blocks along the edges. The lower half of the page is blank. QR code in the footer.]
 
-### hoofman_notes.doc
+### [hoofman_notes.doc](./hoofman_notes.doc.png)
 
 ```text
 personal notes / not for formal filing
@@ -419,7 +415,7 @@ WORKING IDEA:
         failure to assume they even understand their own success.
 ```
 
-### sermon_recording_cult.doc
+### [sermon_recording_cult.doc](./sermon_recording_cult.doc.png)
 
 ```text
 AUDIO ARCHIVE

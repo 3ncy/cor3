@@ -1,7 +1,3 @@
-The images in this folder are the full-size versions of the files in the in-game folder. The in-game names are kept. Some files have a different name on the CDN. The text file is pasted from the in-game window.
-
-Source: `https://cdn.cor3.gg/corie/loops/acts/3/304/`
-
 | In-game name | File | Source file |
 | --- | --- | --- |
 | storm_shadow_outpost.png | [storm_shadow_outpost.png](./storm_shadow_outpost.png) | `storm_shadow_outpost.png` |
@@ -9,7 +5,7 @@ Source: `https://cdn.cor3.gg/corie/loops/acts/3/304/`
 | storm_shadow_interior_blackbox_hint.png | [storm_shadow_interior_blackbox_hint.png](./storm_shadow_interior_blackbox_hint.png) | `storm_shadow_interior_black_box.png` |
 | comms_device_product.png | [comms_device_product.png](./comms_device_product.png) | `communication_device_product_image.png` |
 | comms_device_blueprint.png | [comms_device_blueprint.png](./comms_device_blueprint.png) | `communication_device_blueprint.png` |
-| decoded_blackbox_message.txt | [decoded_blackbox_message.txt](./decoded_blackbox_message.txt) | not on the CDN, text pasted from the in-game window |
+| decoded_blackbox_message.txt | [decoded_blackbox_message.txt](./decoded_blackbox_message.txt) | N/A |
 
 `decoded_blackbox_message.txt` is a text file in the game and isn't on the CDN. Its text was pasted from the in-game window.
 
@@ -17,7 +13,7 @@ Source: `https://cdn.cor3.gg/corie/loops/acts/3/304/`
 
 `[illegible]` marks text that is there but can't be read. `[?]` marks a character that is uncertain.
 
-### storm_shadow_outpost.png
+### [storm_shadow_outpost.png](./storm_shadow_outpost.png)
 
 ```text
 SAT:      ORION-7
@@ -43,7 +39,7 @@ N
 
 [Grayscale satellite image of a hilltop camp seen from above: several prefab buildings and containers, a pad with a marking on one roof, a mast, and a railed bridge at the top right. A red dot marks one of the buildings. North arrow and 100 m scale bar at the bottom left. The 5 in "0.35m" could also be read as an S [?].]
 
-### storm_shadow_interior.png
+### [storm_shadow_interior.png](./storm_shadow_interior.png)
 
 ```text
 DRN RECON v2.4
@@ -94,7 +90,7 @@ TIME TO TARGET   00:00:12
 
 [Drone camera view of a torn tent-like shelter over a small structure with an open doorway, mountains behind. A red target circle labelled SIGNAL SOURCE sits on the wall right of the door. Left: altitude scale with the signal panel. Right: range scale. Bottom right: compass box. "NW" is printed twice on the heading tape.]
 
-### storm_shadow_interior_blackbox_hint.png
+### [storm_shadow_interior_blackbox_hint.png](./storm_shadow_interior_blackbox_hint.png)
 
 ```text
 [No readable text.]
@@ -104,7 +100,7 @@ Pinned board, right: [illegible]
 
 [Dark, wrecked room in a damaged building with a broken outer wall, a tower on a hill visible outside. Desk with chair and monitors, wall boards, crates and rubble on a wet floor. In the bottom-right corner an open crate holds a black device with an antenna and a smaller box with orange tape. No hint text is printed in the image.]
 
-### comms_device_product.png
+### [comms_device_product.png](./comms_device_product.png)
 
 ```text
 Plate above the lens:          [illegible]
@@ -115,7 +111,7 @@ Tablet screen labels:          [illegible]
 
 [Product photo on a grey background: a large lens unit inside a tan cage frame on a tripod, with three round lenses (red, blue, clear) at the right, a green strip, a yellow warning triangle, two antennas, cables and tape. A rugged tablet is mounted on the tripod below, with a green radio and a battery pack strapped beside it.]
 
-### comms_device_blueprint.png
+### [comms_device_blueprint.png](./comms_device_blueprint.png)
 
 ```text
 Column numbers, top and bottom: 1  2  3  4  5  6  7  8
@@ -133,7 +129,7 @@ Title block:      [illegible]
 
 [Blueprint of the same device. Front, side, rear and top views with dimensions, a view from below, the folded tripod, and an exploded view with screws at the bottom left. The parts list and title block at the bottom right are faded and can't be read.]
 
-### decoded_blackbox_message.txt
+### [decoded_blackbox_message.txt](./decoded_blackbox_message.txt)
 
 ```text
 [DECODED BLACKBOX MESSAGE]
